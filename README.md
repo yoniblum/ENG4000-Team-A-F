@@ -11,4 +11,15 @@
 [Franz T. Newland](https://eclass.yorku.ca/eclass/user/view.php?id=8056&course=6123)
 
 ### Gate 1
-* TBD
+* [Product Vision Board](https://eclass.yorku.ca/eclass/user/view.php?id=23776&course=6123)
+  * Includes Information on:
+   * Target Group 
+   * Problem Solved by Product
+   * Product description, uniqueness, feasibility
+   * Product societal benefits
+* Feature Roadmap
+* Sprint Planning
+* "Daily" Scrum Planning
+* Sprint Review Plan
+* Sprint Retrospective Plan
+
