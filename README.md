@@ -11,15 +11,14 @@
 [Franz T. Newland](https://eclass.yorku.ca/eclass/user/view.php?id=8056&course=6123)
 
 ### Gate 1
-* [Product Vision Board](https://eclass.yorku.ca/eclass/user/view.php?id=23776&course=6123)
+* [Product Vision Board](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt)
   * Includes Information on:
    * Target Group 
    * Problem Solved by Product
    * Product description, uniqueness, feasibility
    * Product societal benefits
-* Feature Roadmap
-* Sprint Planning
-* "Daily" Scrum Planning
-* Sprint Review Plan
-* Sprint Retrospective Plan
-
+* [Feature Roadmap](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt)
+* [Sprint Planning](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt)
+* ["Daily" Scrum Planning](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt)
+* [Sprint Review Plan](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt)
+* [Sprint Retrospective Plan](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt)
