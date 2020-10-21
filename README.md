@@ -11,8 +11,7 @@
 [Franz T. Newland](https://eclass.yorku.ca/eclass/user/view.php?id=8056&course=6123)
 
 ### Gate 1
-* [Product Vision Board](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt)
-  * Includes Information on:
+* [Product Vision Board](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt). Includes Information on:
    * Target Group 
    * Problem Solved by Product
    * Product description, uniqueness, feasibility
