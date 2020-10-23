@@ -10,6 +10,12 @@
 ### Supervisor
 [Franz T. Newland](https://eclass.yorku.ca/eclass/user/view.php?id=8056&course=6123)
 
+### Project Methodology
+![](images/im1.png)
+
+### Scrum Process
+![](images/im1.png)
+
 ### Gate 1
 * [Product Vision Board](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt). Includes Information on:
    * Target Group 
