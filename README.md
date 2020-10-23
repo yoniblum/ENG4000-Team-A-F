@@ -11,10 +11,11 @@
 [Franz T. Newland](https://eclass.yorku.ca/eclass/user/view.php?id=8056&course=6123)
 
 ### Project Methodology
-![](images/im1.png)
+<img src="https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/im2.png" height="300" width="300" >
+
 
 ### Scrum Process
-![](images/im1.png)
+<img src="https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/im3.png" height="300" width="400" >
 
 ### Gate 1
 * [Product Vision Board](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt). Includes Information on:
@@ -28,5 +29,3 @@
 * [Sprint Review Plan](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt)
 * [Sprint Retrospective Plan](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt)
 
-### Project Summary
-A process to maintain blood oxygenation levels in a patient while  in transport.
