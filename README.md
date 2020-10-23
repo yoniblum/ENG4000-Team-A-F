@@ -11,11 +11,11 @@
 [Franz T. Newland](https://eclass.yorku.ca/eclass/user/view.php?id=8056&course=6123)
 
 ### Project Methodology
-<img src="images/images/im2.png" alt="" class="inline"/>
+<img src="images/im2.png" alt=" " class="inline" width="300" height="300"/>
 
 
 ### Scrum Process
-<img src="images/images/im3.png" alt="" class="inline"/>
+<img src="images/im3.png" alt=" " class="inline" width="400" height="300"/>
 
 ### Gate 1
 * [Product Vision Board](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt). Includes Information on:
