@@ -10,7 +10,7 @@
 ### Supervisor
 [Franz T. Newland](https://eclass.yorku.ca/eclass/user/view.php?id=8056&course=6123)
 
-### Project Methodology
+### Project Methodology: Agile
 <img src="images/im2.png" alt=" " class="inline" width="300" height="300"/>
 
 
