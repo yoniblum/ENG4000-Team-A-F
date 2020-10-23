@@ -27,3 +27,6 @@
 * ["Daily" Scrum Planning](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt)
 * [Sprint Review Plan](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt)
 * [Sprint Retrospective Plan](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt)
+
+### Project Summary
+A process to maintain blood oxygenation levels in a patient while  in transport.
