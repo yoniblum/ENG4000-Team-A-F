@@ -50,9 +50,12 @@ Our team’s development team includes:
    * Product societal benefits
 * [Feature Roadmap](https://app.asana.com/0/1198911061756335/board)
 An product release timeline for our product. 
-* [Sprint Planning](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt)
+* [Sprint Planning](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/sprint-planning.txt)
 Define what can be delivered in the sprint and how that work will be achieved.
-* ["Daily" Scrum Planning](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt)
-* [Sprint Review Plan](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt)
-* [Sprint Retrospective Plan](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt)
+* ["Daily" Scrum Planning](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/scrum-meeting.txt)
+The Daily Scrum is a 15-minute time-boxed event for the Development Team. At it, the Development Team plans work for the next 24 hours.
+* [Sprint Review Plan](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/sprint-review-plan.txt)
+Address backlog and decide what to move over to upcoming sprint i.e. Did we get the work done, and what feature will move our product forward?
+* [Sprint Retrospective Plan](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/sprint-retrospective-plan.txt)
+How is the process of running a sprint going? Should we change something?
 
