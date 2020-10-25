@@ -1,0 +1,4 @@
+During the Scrum meetings we ask ourselves:
+What did I do yesterday that helped the Development Team meet the Sprint Goal?
+What will I do today to help the Development Team meet the Sprint Goal?
+Do I see any impediment that prevents me or the Development Team from meeting the Sprint Goal?
