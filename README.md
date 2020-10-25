@@ -16,7 +16,8 @@
 
 ### Scrum Process
 <img src="images/im3.png" alt=" " class="inline" width="400" height="300"/>
-The Scrum Team 
+
+### The Scrum Team 
 
 Scrum Teams are self-organizing and cross-functional teams- choosing how best to accomplish their work, rather than being directed by others outside the team.
 
