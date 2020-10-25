@@ -1,0 +1,4 @@
+During these meetings. We will:
+Inspect how the last Sprint went with regards to people, relationships, process, and tools;
+Identify and order the major items that went well and potential improvements; and,
+Create a plan for implementing improvements to the way the Scrum Team does its work.
