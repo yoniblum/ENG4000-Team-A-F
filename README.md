@@ -49,14 +49,14 @@ Our team’s development team includes:
    * Problem Solved by Product
    * Product description, uniqueness, feasibility
    * Product societal benefits
-* [Feature Roadmap](https://app.asana.com/0/1198911061756335/board)
+### [Feature Roadmap](https://app.asana.com/0/1198911061756335/board)
 An product release timeline for our product. 
-* [Sprint Planning](docs/sprint-planning.txt)
+### [Sprint Planning](docs/sprint-planning.txt)
 Define what can be delivered in the sprint and how that work will be achieved.
 * ["Daily" Scrum Planning](docs/scrum-meeting.txt)
 The Daily Scrum is a 15-minute time-boxed event for the Development Team. At it, the Development Team plans work for the next 24 hours.
-* [Sprint Review Plan](docs/sprint-review-plan.txt)
+### [Sprint Review Plan](docs/sprint-review-plan.txt)
 Address backlog and decide what to move over to upcoming sprint i.e. Did we get the work done, and what feature will move our product forward?
-* [Sprint Retrospective Plan](docs/sprint-retrospective-plan.txt)
+### [Sprint Retrospective Plan](docs/sprint-retrospective-plan.txt)
 How is the process of running a sprint going? Should we change something?
 
