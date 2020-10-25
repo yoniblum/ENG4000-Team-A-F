@@ -1,0 +1,6 @@
+During pur sprint planning meetings. We will set Sprit Goals and ask ourselves:
+
+-What can be delivered in the Increment resulting from the upcoming Sprint?
+-How will the work needed to deliver the Increment be achieved?
+
+By the end of the sprint Planning meeting, the Development Team will explain to the Product Owner and Scrum Master how it intends to work as a self-organizing team to accomplish the Sprint Goal and create the anticipated Increment. 
