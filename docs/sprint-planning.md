@@ -26,5 +26,5 @@ blockers they run into, team members are encouraged to lend a helping hand.
 Members ensure they are prepared before coming to each standup and should not
 go off topic for the standup duration. This approach will play a major role in keeping the team accountable.
 
-We will document our conversations on the Stand Ups Stormboard attached to our Microsoft Teams. As show below:
-<img src="images/im4.png" alt=" " class="inline" width="400" height="300"/>
+We will document our conversations on the Stand Ups Stormboard attached to our (Team AF's) Microsoft Teams private channel. As show below:
+<img src="im4.png" alt=" " class="inline" width="600" height="300"/>
