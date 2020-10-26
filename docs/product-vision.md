@@ -51,7 +51,7 @@ connected to an ambulated manual breathing unit (AMBU). This is connected to a
 pressurized oxygen tank, and a blood oximeter (attached to the patient's finger), which
 measure the oxygen saturation and pulse rates respectively. The AMBU bag needs to be
 manually pumped at a rate of 12-16 breaths/minute to maintain healthy blood-oxygen
-saturation level until they can be shifted to an assistive ventilator[1]. 
+saturation level until they can be shifted to an assistive ventilator[2]. 
 
 Moreover, due to uneven terrain, bad weather conditions or other reasons the ambulance
 could jolt which could lead to loose connectivity between different components thereby
