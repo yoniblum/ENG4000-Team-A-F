@@ -65,7 +65,10 @@ Our team’s development team includes:
 * Priyam Shah
 
 ### Gate 1
-* [Product Vision Board](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt). Includes Information on:
+
+> **_NOTE:_** For each Gate1 deliverable- Product Vision, and Agile sub-sections; please click on the subsection heading to be redirected to our team's detailed explination for that respective section.
+
+### [Product Vision Board](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt). Includes Information on:
    * Target Group 
    * Problem Solved by Product
    * Product description, uniqueness, feasibility
