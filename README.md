@@ -36,27 +36,28 @@
 
 
 ### Scrum Process
-<img src="images/im3.png" alt=" " class="inline" width="400" height="300"/>
+<img src="images/im3.png" alt=" " class="inline" width="500" height="380"/>
 
 ### The Scrum Team 
 
 Scrum Teams are self-organizing and cross-functional teams- choosing how best to accomplish their work, rather than being directed by others outside the team.
 
-They consist of a Product Owner, the Development Team, and a Scrum Master. 
+They consist of a ***Product Owner, the Development Team, and a Scrum Master.***
 
 ### The Product Owner
 Is responsible for maximizing the value of the product resulting from work of the Development Team. Also, is solely responsible for managing the Product Backlog.
 
-Our team’s Product Owner is TBD.
+***Our team’s Product Owner is TBD.***
 
 
 ### The Scrum Master
 The Scrum Master is responsible for promoting and supporting Scrum- helping everyone understand Scrum theory, practices, rules, and values.
 
-Our team’s Scrum master is TBD.
+***Our team’s Scrum master is TBD.***
 
 ### The Development Team
 The Development Team consists of professionals who do the work of delivering a potentially releasable. Their work increments the progress of "Done" product at the end of each Sprint.
+
 Our team’s development team includes:
 * Areeba Abidi
 * Siddharth Bhardwaj
