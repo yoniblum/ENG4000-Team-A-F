@@ -1,5 +1,21 @@
 # Welcome to Team A F
 
+- <small><i>Table of contents</i></small>
+    + [Team Members](#team-members)
+    + [Supervisor](#supervisor)
+    + [Stakeholders](#stakeholders)
+    + [Project Methodology](#project-methodology)
+    + [Scrum Process](#scrum-process)
+    + [The Scrum Team](#the-scrum-team)
+    + [The Product Owner](#the-product-owner)
+    + [The Scrum Master](#the-scrum-master)
+    + [The Development Team](#the-development-team)
+    + [Gate 1](#gate-1)
+    + [[Feature Roadmap](https://app.asana.com/0/1198911061756335/board)](#-feature-roadmap)
+    + [[Sprint Planning](docs/sprint-planning.txt)](#-sprint-planning--docs-sprint-planningtxt-)
+    + [[Sprint Review Plan](docs/sprint-review-plan.txt)](#-sprint-review-plan--docs-sprint-review-plantxt-)
+    + [[Sprint Retrospective Plan](docs/sprint-retrospective-plan.txt)](#-sprint-retrospective-plan--docs-sprint-retrospective-plantxt-)
+
 ### Team Members
 * [Areeba Abidi](https://eclass.yorku.ca/eclass/user/view.php?id=31348&course=6123)
 * [Siddharth Bhardwaj](https://eclass.yorku.ca/eclass/user/view.php?id=23776&course=6123)
@@ -9,6 +25,15 @@
 
 ### Supervisor
 [Franz T. Newland](https://eclass.yorku.ca/eclass/user/view.php?id=8056&course=6123)
+
+### Stakeholders
+* Dr. Sandip Joshi, McH General Surgeon
+* Dr. Kunal Kanakia, MD
+* Dr. Ashish Dave, McH Cancer Surgeon
+* Dr. Amish Shah
+* Dr. Lopa Trivedi
+* Dr. Samir Babaria
+* Dr. Anjum Asif
 
 ### Project Methodology
 <img src="images/im2.png" alt=" " class="inline" width="450" height="300"/>
@@ -26,13 +51,13 @@ They consist of a Product Owner, the Development Team, and a Scrum Master.
 ### The Product Owner
 Is responsible for maximizing the value of the product resulting from work of the Development Team. Also, is solely responsible for managing the Product Backlog.
 
-Our team’s Product Owner is Shivani Joshi.
+Our team’s Product Owner is TBD.
 
 
 ### The Scrum Master
 The Scrum Master is responsible for promoting and supporting Scrum- helping everyone understand Scrum theory, practices, rules, and values.
 
-Our team’s Scrum master is Siddharth Bhardwaj
+Our team’s Scrum master is TBD.
 
 ### The Development Team
 The Development Team consists of professionals who do the work of delivering a potentially releasable. Their work increments the progress of "Done" product at the end of each Sprint.
