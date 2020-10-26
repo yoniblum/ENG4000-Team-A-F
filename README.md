@@ -67,7 +67,7 @@ Our team’s development team includes:
 
 ### Gate 1
 
-> **_NOTE:_** For each Gate1 deliverable- Product Vision, and Agile sub-sections; please click on the subsection heading to be redirected to our team's detailed explination for that respective section.
+> **_NOTE:_** For each Gate1 deliverable- Product Vision, and Agile sub-sections; please click on the subsection heading to be redirected to our team's detailed explanation for that respective section.
 
 ### [Product Vision](docs/product-vision.md) 
 
