@@ -3,7 +3,7 @@
 Sprints contain and consist of the Sprint Planning, Daily Scrums, the development work, the
 Sprint Review, and the Sprint Retrospective.
 
-An explination of our team's sprint plan, and how intend to run our stand-ups can found in this [video](https://drive.google.com/file/d/1EVqzx9EdV3W6YqB5HJC1dS3GteD2tu7G/view?usp=sharing).
+An explination of our team's sprint plan, and how intend to run our stand-ups can found in this ***[video](https://drive.google.com/file/d/1EVqzx9EdV3W6YqB5HJC1dS3GteD2tu7G/view?usp=sharing)***.
 
 
 ### Stand Up (“Daily” Scrum)
