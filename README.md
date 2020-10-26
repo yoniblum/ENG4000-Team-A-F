@@ -82,7 +82,9 @@ An product release timeline for our product.
 
 ### [Sprint Planning](docs/sprint-planning.md)
 Define what can be delivered in the sprint and how that work will be achieved.
+
 * ["Daily" Scrum Planning](docs/sprint-planning.md)
+
 The Stand Up (Daily Scrum) is a 30-minute time-boxed event for the Project Team. At it, the Project Team discusses what was done in the last 48 hours and goes over what will be done in the next 48 hours.
 
 ### [Sprint Review Plan](docs/sprint-review.md)
