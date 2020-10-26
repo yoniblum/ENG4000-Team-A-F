@@ -69,20 +69,25 @@ Our team’s development team includes:
 
 > **_NOTE:_** For each Gate1 deliverable- Product Vision, and Agile sub-sections; please click on the subsection heading to be redirected to our team's detailed explination for that respective section.
 
-### [Product Vision Board](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt). 
-Includes Information on:
+### [Product Vision](docs/product-vision.md) 
+
+Includes information on:
    * Target Group 
    * Problem Solved by Product
    * Product description, uniqueness, feasibility
    * Product societal benefits
-### [Feature Roadmap](https://app.asana.com/0/1198911061756335/board)
+
+### [Feature Roadmap](docs/feature-roadmap.md)
 An product release timeline for our product. 
-### [Sprint Planning](docs/sprint-planning.txt)
+
+### [Sprint Planning](docs/sprint-planning.md)
 Define what can be delivered in the sprint and how that work will be achieved.
-* ["Daily" Scrum Planning](docs/scrum-meeting.txt)
+* ["Daily" Scrum Planning](docs/sprint-planning.md)
 The Daily Scrum is a 15-minute time-boxed event for the Development Team. At it, the Development Team plans work for the next 24 hours.
-### [Sprint Review Plan](docs/sprint-review-plan.txt)
+
+### [Sprint Review Plan](docs/sprint-review.md)
 Address backlog and decide what to move over to upcoming sprint i.e. Did we get the work done, and what feature will move our product forward?
-### [Sprint Retrospective Plan](docs/sprint-retrospective-plan.txt)
+
+### [Sprint Retrospective Plan](docs/sprint-retrospective.md)
 How is the process of running a sprint going? Should we change something?
 
