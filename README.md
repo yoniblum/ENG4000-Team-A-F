@@ -11,11 +11,7 @@
     + [The Scrum Master](#the-scrum-master)
     + [The Development Team](#the-development-team)
     + [Gate 1](#gate-1)
-    + [[Feature Roadmap](https://app.asana.com/0/1198911061756335/board)](#-feature-roadmap)
-    + [[Sprint Planning](docs/sprint-planning.txt)](#-sprint-planning--docs-sprint-planningtxt-)
-    + [[Sprint Review Plan](docs/sprint-review-plan.txt)](#-sprint-review-plan--docs-sprint-review-plantxt-)
-    + [[Sprint Retrospective Plan](docs/sprint-retrospective-plan.txt)](#-sprint-retrospective-plan--docs-sprint-retrospective-plantxt-)
-
+    
 ### Team Members
 * [Areeba Abidi](https://eclass.yorku.ca/eclass/user/view.php?id=31348&course=6123)
 * [Siddharth Bhardwaj](https://eclass.yorku.ca/eclass/user/view.php?id=23776&course=6123)
