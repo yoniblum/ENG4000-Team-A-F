@@ -85,7 +85,7 @@ technology that assists in discovering the leakage origins exist currently.
 
 * ***What are the broader benefits from such a product/project? (multi-bottom-line)***
 
-We created this [video](https://drive.google.com/file/d/1lDpf2OwH8vQv18Z0P44cy0IMcYMbR019/view?usp=sharing), to answer the above question. 
+We created this ***[video](https://drive.google.com/file/d/1lDpf2OwH8vQv18Z0P44cy0IMcYMbR019/view?usp=sharing)***, to answer the above question. 
 
 ### References
 1. Atlassian. “Agile Retrospectives: Use the Past to Define the Future”. Atlassian, 2020, www.atlassian.com/agile/scrum/retrospectives.
