@@ -32,7 +32,7 @@
 * Dr. Anjum Asif
 
 ### Project Methodology
-<img src="images/im2.png" alt=" " class="inline" width="450" height="300"/>
+<img src="images/im2.png" alt=" " class="inline" width="500" height="300"/>
 
 
 ### Scrum Process
@@ -68,7 +68,8 @@ Our team’s development team includes:
 
 > **_NOTE:_** For each Gate1 deliverable- Product Vision, and Agile sub-sections; please click on the subsection heading to be redirected to our team's detailed explination for that respective section.
 
-### [Product Vision Board](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt). Includes Information on:
+### [Product Vision Board](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/placeholder.txt). 
+Includes Information on:
    * Target Group 
    * Problem Solved by Product
    * Product description, uniqueness, feasibility
