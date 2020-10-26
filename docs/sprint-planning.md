@@ -6,7 +6,7 @@ Sprint Review, and the Sprint Retrospective.
 An explination of our team's sprint plan, and how intend to run our stand-ups can found in this [video](https://drive.google.com/file/d/1EVqzx9EdV3W6YqB5HJC1dS3GteD2tu7G/view?usp=sharing)
 
 
-### Stand Up (“Daily” Scrum Stand Up)
+### Stand Up (“Daily” Scrum)
 
 We plan on running our Standups on Mondays, Wednesdays and Fridays from
 3-3:30pm.
