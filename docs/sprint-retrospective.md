@@ -15,7 +15,7 @@ be any member of the team), will dedicate another 10-20 minutes spotting converg
 divergence of individual perspectives. This will be followed by a constructive brainstorming
 session to address concerns and derive an equitable solution.
 
-Our team developed this [video](https://drive.google.com/file/d/1DJoTnoQnha75LZt_Z7ayyB9dgPZQphm0/view?usp=sharing), which explains how plan of conducting the sprint retrospective meetings. 
+Our team developed this [video](https://drive.google.com/file/d/1DJoTnoQnha75LZt_Z7ayyB9dgPZQphm0/view?usp=sharing), which explains how plan on running the sprint retrospective meetings. 
 
 Futhermore, we will document our conversations on the Sprint Retrospective Stormboard attached to our (Team AF's)
 Microsoft Teams private channel. As seen below:
