@@ -2,7 +2,7 @@
 
 The retrospective meeting will be a streamlined, decision making process that allows us to
 walk through what worked well for the team and what did not during the past or the current
-sprint.The main aim of this meeting is to hear out personal opinions and ideas in a
+sprint. The main aim of this meeting is to hear out personal opinions and ideas in a
 no-judgement zone in order to improve the team efficiency and dynamics.
 
 We suspect this meeting will run an hour long, taking place after the sprint review and before
