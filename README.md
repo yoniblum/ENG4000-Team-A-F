@@ -47,13 +47,13 @@ They consist of a ***Product Owner, the Development Team, and a Scrum Master.***
 ### The Product Owner
 Is responsible for maximizing the value of the product resulting from work of the Development Team. Also, is solely responsible for managing the Product Backlog.
 
-***Our team’s Product Owner is TBD.***
+***Our team’s Product Owner is Shivani Joshi.***
 
 
 ### The Scrum Master
 The Scrum Master is responsible for promoting and supporting Scrum- helping everyone understand Scrum theory, practices, rules, and values.
 
-***Our team’s Scrum master is TBD.***
+***Our team’s Scrum master is Jonathan Blumenfeld.***
 
 ### The Development Team
 The Development Team consists of professionals who do the work of delivering a potentially releasable. Their work increments the progress of "Done" product at the end of each Sprint.
