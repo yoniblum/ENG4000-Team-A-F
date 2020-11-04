@@ -1,6 +1,6 @@
 # Product Vision 
 
-### Main idea: A process to maintain blood oxygenation levels in a patient while in transport.
+### Main idea: A device to maintain healthy blood oxygenation levels in a patient while in transport.
 
 ### Purpose for Creating the Product
 * ***How the project/product aligns with the team's purpose, interests, capabilities?*** 
