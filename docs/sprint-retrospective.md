@@ -7,7 +7,7 @@ no-judgement zone in order to improve the team efficiency and dynamics.
 
 We suspect this meeting will run an hour long, taking place after the sprint review and before
 we plan the next Sprint. Team members will come together and spend 2-3 minutes filling out
-sticky notes with their perspective for each section(in total 6 sections,approximately 20
+sticky notes with their perspective for each section(in total 6 sections, approximately 20
 minutes).
 
 Upon populating the sections of the board, the team, guided by the meeting facilitator(could
