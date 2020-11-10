@@ -20,4 +20,4 @@ Our team developed this ***[video](https://drive.google.com/file/d/1DJoTnoQnha75
 Futhermore, we will document our conversations on the Sprint Retrospective Stormboard attached to our (Team AF's)
 Microsoft Teams private channel. As seen below:
 
-<img src="im5.png" alt=" " class="inline" width="600" height="300"/>
+<img src="images-in-docs/im5.png" alt=" " class="inline" width="600" height="300"/>

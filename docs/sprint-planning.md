@@ -28,4 +28,4 @@ go off topic for the standup duration. This approach will play a major role in k
 
 We will document our conversations on the Stand Ups Stormboard attached to our (Team AF's) Microsoft Teams private channel. As show below:
 
-<img src="im4.png" alt=" " class="inline" width="600" height="300"/>
+<img src="images-in-docs/im4.png" alt=" " class="inline" width="600" height="300"/>

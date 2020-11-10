@@ -1,0 +1,99 @@
+﻿Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent Task,Priority,Product stage,Story Points,Release Status
+1198897386605832,2020-10-22,,2020-10-24,Explore and Understand how BVM work,Narrative,,,,2020-11-07,,"'-get access to a physical BVM
+-deep dive into BVM design
+-Ambu-Mask and BVM are the same?
+     -differences
+     -cost
+     -when used
+-consulting a Doctor on how to use it properly
+-What equipment are present in a 108 ambulance
+  ",Sprint Planning ,,High,Spec needed,,Now
+1198897386605841,2020-10-22,,2020-10-24,Explore Possible Design Ideas for Automating the pumping mechanism,Narrative,,,,2020-11-21,,"    Materials
+    Talk to Mechanical Experts (Franz) ==> Yes. 😄
+    explore design ideas 
+    explore and compare different hardware components 
+",Sprint Planning ,,Medium,Design ready,,Now
+1198897386605843,2020-10-22,,2020-10-24,Implement a crude pumping mechanism (MVP),Narrative,,,,2020-12-04,,"    Figure out timing system for pumping
+    figure out the pressure
+    schematic
+    robotic arm?  
+",Sprint Planning ,,Medium,Eng ready,,Now
+1198911061756229,2020-10-24,,2020-10-24,Plan on getting the Alpha release ready: Developing a crude fault detection system,Narrative,,,,,,,Sprint Planning ,,Low,QA ready,,Next
+1198911061756231,2020-10-24,,2020-10-24,Plan on getting the Beta release ready: Merge and improve the automated pumping and fault detection systems,Narrative,,,,,,,Sprint Planning ,,Low,QA ready,,Later
+1198911061756217,2020-10-24,,2020-10-24,Explore design ideas for the automated pumping mechanism,Backlog,,,,,,,Sprint Planning ,,Medium,Design ready,3,
+1198911061756215,2020-10-24,,2020-10-24,Explore different hardware components ,Backlog,,,,,,,Sprint Planning ,,Medium,Design ready,2,
+1198911061756273,2020-10-24,,2020-10-24,Compare different hardware components ,Backlog,,,,,,,Sprint Planning ,,Medium,Spec needed,2.5,
+1198911061756278,2020-10-24,,2020-10-24,Study Datasheets of each hardware component,Backlog,,,,,,,Sprint Planning ,,Low,Eng ready,2.5,
+1198911061756205,2020-10-24,,2020-10-24,Order components required to automate the pumping mechanism,Backlog,,,,,,,Sprint Planning ,,Medium,Design ready,1,
+1198911061756207,2020-10-24,,2020-10-24,Talk to Mechanical Experts (including Franz and Hossam) ,Backlog,,,,,,,Sprint Planning ,,Medium,Design ready,3,
+1198911061756209,2020-10-24,,2020-10-24,Assemble hardware components to create the pumping mechanism,Backlog,,,,,,,Sprint Planning ,,Low,Eng ready,3,
+1198911061756221,2020-10-24,,2020-10-24,Consult a Doctor and figure out the mathematical parameters required for the control system,Backlog,,,,,,,Sprint Planning ,,Low,Eng ready,2,
+1198911061756292,2020-10-24,,2020-10-24,Assemble code components to create the pumping mechanism,Backlog,,,,,,,Sprint Planning ,,Low,Eng ready,3,
+1198911061756219,2020-10-24,,2020-10-25,Figure out software control system for pumping,Backlog,,,,,,,Sprint Planning ,,Low,Eng ready,3,
+1198911061756227,2020-10-24,,2020-10-24,Merge the automated pumping system and the BVM (at least the bag),Backlog,,,,,,,Sprint Planning ,,Low,Eng ready,2.5,
+1198911061756211,2020-10-24,,2020-10-24,Iterative and regressive testing of the automated assembly (pump) ,Backlog,,,,,,,Sprint Planning ,,Low,QA ready,3,
+1198911061756233,2020-10-24,,2020-10-24,Iterative and regressive testing of the pumping system as whole (including connection to BVM),Backlog,,,,,,,Sprint Planning ,,Low,QA ready,3,
+1198911061756223,2020-10-24,,2020-10-24,Draw the schematic for pumping unit,Backlog,,,,,,,Sprint Planning ,,Low,Eng ready,2,
+1198911061756225,2020-10-24,,2020-10-24,Decide whether a 3D representation is required ,Backlog,,,,,,,Sprint Planning ,,Low,Eng ready,1,
+1199003615934501,2020-11-02,,2020-11-09,Summary of deep dive into the self-inflating aspects of BVM/AMBU design,Prioritized,Priyam Shah,priyamsh@my.yorku.ca,,,,,Sprint Planning ,,High,Spec needed,0.5,
+1198911061756318,2020-10-24,,2020-11-09,Consult a Doctor and possibly obtain video on how the AMBU/BVM is connected to different components,Prioritized,Priyam Shah,priyamsh@my.yorku.ca,,2020-11-07,,,Sprint Planning ,,High,Spec needed,1.5,
+1198911061756259,2020-10-24,,2020-11-07,Consider the similarities and differences between AMBU and BVM,To Do,abidiaire@my.yorku.ca,abidiaire@my.yorku.ca,,2020-11-07,,,Sprint Planning ,,High,Spec needed,1.5,
+1199003615934503,2020-11-02,2020-11-09,2020-11-09,Consult a Doctor on how AMBU is administered under severe hypoxia conditions,Working On ,Shivani Joshi,shivani9@my.yorku.ca,,2020-11-07,,,Sprint Planning ,,High,Spec needed,1.5,
+1198911061756197,2020-10-24,2020-11-09,2020-11-09,Consult a Doctor on how AMBU is administered under mild hypoxia conditions,Working On ,Shivani Joshi,shivani9@my.yorku.ca,,2020-11-07,,,Sprint Planning ,,High,Spec needed,1.5,
+1198911061756191,2020-10-24,,2020-11-07,Get access to a physical BVM,Working On ,Shivani Joshi,shivani9@my.yorku.ca,,2020-11-07,,,Sprint Planning ,,High,Spec needed,0.5,
+1198911061756201,2020-10-24,,2020-11-07,Find out what equipment are present in a 108 ambulance by doing some research,Working On ,Areeba Abidi,abidiare@my.yorku.ca,,2020-11-07,,,Sprint Planning ,,High,Spec needed,0.5,
+1199003615934490,2020-11-02,,2020-11-07,Find out what equipment are present in a 108 ambulance by talking to doctors (stakeholders) ,Working On ,Priyam Shah,priyamsh@my.yorku.ca,,,,,Sprint Planning ,,High,Spec needed,0.5,
+1198911061756195,2020-10-24,2020-11-09,2020-11-09,Deep dive into the self-inflating aspects of BVM/AMBU design,Done,Yoni Blumenfeld,yoniblum@my.yorku.ca,,2020-11-07,,,Sprint Planning ,,High,Spec needed,1,
+1199003615934499,2020-11-02,2020-11-09,2020-11-09,Summary of deep dive into the self-inflating aspects of BVM/AMBU design,Done,Yoni Blumenfeld,yoniblum@my.yorku.ca,,,,,Sprint Planning ,,High,Spec needed,0.5,
+1199003615934487,2020-11-02,2020-11-09,2020-11-09,Research if separate components can be bought to keep,Done,Yoni Blumenfeld,yoniblum@my.yorku.ca,,2020-11-07,,,Sprint Planning ,,High,Spec needed,0.5,
+1198911061756254,2020-10-24,2020-11-08,2020-11-09,Deep dive into BVM/AMBU Components,Done,Siddharth Bhardwaj,sid16@my.yorku.ca,,2020-11-07,,,Sprint Planning ,,High,Spec needed,2.5,
+1199146935719550,2020-11-09,2020-11-08,2020-11-09,Duplicate of Deep dive into BVM/AMBU Peripherals (optional components),Done,,,,,,,Sprint Planning ,,High,Spec needed,2.5,
+1198175975448917,2020-10-09,2020-11-02,2020-11-03,Gate 1 Sprint Planning,Done,,,,2020-10-23,,"Finalizing next week's plan, leading up to Gate 1 submission. 
+List out deliverables and finish them by the end of next sprint.",Sprint Planning ,,High,,,
+1198901974279257,2020-10-23,2020-11-02,2020-11-02,Update Team Website for Gate1,Done,Siddharth Bhardwaj,sid16@my.yorku.ca,,,,,Sprint Planning ,,,,,
+1198176769608303,2020-10-09,2020-10-22,2020-10-23,ITP Peer Review Submission,Done,Yoni Blumenfeld,yoniblum@my.yorku.ca,,2020-10-09,,,Sprint Planning ,,Medium,,,
+1198176655863115,2020-10-09,2020-10-22,2020-10-22,Secondary Research: compose a summary report of findings,Done,Siddharth Bhardwaj,sid16@my.yorku.ca,,2020-10-12,,"Find resources that will help us better understand the community we are trying to target and their needs. 
+Summary of possible technical and medical requirements.",Sprint Planning ,,High,,,
+1198176769645723,2020-10-09,2020-10-24,2020-10-24,ITP Peer Review Submission,Done,Areeba Abidi,abidiare@my.yorku.ca,,2020-10-09,,,Sprint Planning ,,Medium,,,
+1198175975448907,2020-10-09,2020-10-24,2020-10-24,Narrowing down the Project Scope and reach out to relevant Stakeholders,Done,,,,2020-10-13,,"Narrowing down the scope by geography, the community we are going to work with.
+Try to find representation for each stakeholder category decided, explore the possibility of proxies if relevant representation cannot be found.",Sprint Planning ,,High,,,
+1198175975448931,2020-10-09,,2020-10-12,Reaching out to Doctors working in a Private Setup (could be in rural or urban areas),,Priyam Shah,priyamsh@my.yorku.ca,,2020-10-12,,,,Narrowing down the Project Scope and reach out to relevant Stakeholders,,,,
+1198175975448932,2020-10-09,,2020-10-12,Reaching out to Doctors working in a Public Sector Setup (could be in rural or urban areas),,Shivani Joshi,shivani9@my.yorku.ca,,2020-10-12,,,,Narrowing down the Project Scope and reach out to relevant Stakeholders,,,,
+1198175975448933,2020-10-09,,2020-10-12,Reach out to NGO's,,Shivani Joshi,shivani9@my.yorku.ca,,2020-10-12,,,,Narrowing down the Project Scope and reach out to relevant Stakeholders,,,,
+1198175975448934,2020-10-09,,2020-10-12,Reach out to legislators and if not find proxy,,Priyam Shah,priyamsh@my.yorku.ca,,2020-10-12,,,,Narrowing down the Project Scope and reach out to relevant Stakeholders,,,,
+1198175975448935,2020-10-09,,2020-10-12,Research competitors and explore the possibility to collaborate ,,Areeba Abidi,abidiare@my.yorku.ca,,2020-10-12,,,,Narrowing down the Project Scope and reach out to relevant Stakeholders,,,,
+1198176656676823,2020-10-09,2020-11-09,2020-11-09,Secondary Research: compose a summary report of findings,Done,Yoni Blumenfeld,yoniblum@my.yorku.ca,,2020-10-12,,"Find resources that will help us better understand the community we are trying to target and their needs. 
+Summary of possible technical and medical requirements.",Sprint Planning ,,High,,,
+1198176769146774,2020-10-09,2020-10-24,2020-10-24,Finalize Stakeholders and discuss their involvement scope ,Done,Priyam Shah,priyamsh@my.yorku.ca,,2020-10-16,,,Sprint Planning ,,High,,,
+1198175975448911,2020-10-09,2020-10-24,2020-10-24,Finalize Stakeholders and discuss their involvement scope ,Done,Shivani Joshi,shivani9@my.yorku.ca,,2020-10-16,,,Sprint Planning ,,High,,,
+1198175975448915,2020-10-09,2020-10-24,2020-10-24,ITP Peer Review Submission,Done,Shivani Joshi,shivani9@my.yorku.ca,,2020-10-09,,,Sprint Planning ,,Medium,,,
+1198176664670394,2020-10-09,2020-10-22,2020-10-22,ITP Peer Review Submission,Done,Siddharth Bhardwaj,sid16@my.yorku.ca,,2020-10-09,,,Sprint Planning ,,Medium,,,
+1198175975448893,2020-10-09,2020-10-09,2020-10-09,Submitting Team-Member and Methodology Preference ,Done,Shivani Joshi,shivani9@my.yorku.ca,,2020-09-21,,,Sprint Planning ,,,,,
+1198175975448891,2020-10-09,2020-10-09,2020-10-09,"Team Coffee Chat: Getting to know each other, our interests and motivations",Done,,,,,,,Sprint Planning ,,,,,
+1198175975448899,2020-10-09,2020-10-09,2020-10-09,Select communication and organization tools,Done,Siddharth Bhardwaj,sid16@my.yorku.ca,,2020-09-14,,,Sprint Planning ,,,,,
+1198175975448889,2020-10-09,2020-10-09,2020-10-09,Submit a Project Proposal ,Done,Shivani Joshi,shivani9@my.yorku.ca,,2020-09-17,,,Sprint Planning ,,,,,
+1198175975448901,2020-10-09,2020-10-09,2020-10-09,Reach out to the Supervisor and figure out a weekly check in time with them,Done,Priyam Shah,priyamsh@my.yorku.ca,,2020-09-18,,,Sprint Planning ,,,,,
+1198175975448903,2020-10-09,2020-10-09,2020-10-09,Discuss 5 Why's as a team and get feedback on the exercise from the Supervisor,Done,Areeba Abidi,abidiare@my.yorku.ca,,2020-09-21,,,Sprint Planning ,,,,,
+1198175975448897,2020-10-09,2020-10-09,2020-10-09,ITP Personality Test and Discussion,Done,,,,2020-09-23,,,Sprint Planning ,,,,,
+1198175975448909,2020-10-09,2020-10-09,2020-10-09,Preliminary touch point with Potential Stakeholders,Done,Priyam Shah,priyamsh@my.yorku.ca,,,,,Sprint Planning ,,,,,
+1198175975448905,2020-10-09,2020-10-09,2020-10-09,Generate a Potential Stakeholders List ,Done,Shivani Joshi,shivani9@my.yorku.ca,,2020-09-30,,,Sprint Planning ,,High,,,
+1198176769559993,2020-10-09,2020-10-09,2020-10-09,ITP Peer Review Submission,Done,Priyam Shah,priyamsh@my.yorku.ca,,2020-10-09,,,Sprint Planning ,,Medium,,,
+1198168245796140,2020-10-08,2020-10-09,2020-10-22,[READ ME] - Instructions for Asana for Agile,Done,,,,,,"This project template is set up in Board View with columns and three Asana-created Custom Fields to help you track your team’s sprint plans. Most teams make projects at the beginning of each sprint and track their work through each stage to make sure they know where their sprint work stands.
+
+We’ve provided some example content in this template to get you started, but you should add tasks, change task names, add more Custom Fields, and change any other info to make this project your own.  When you’re ready to begin work, you can complete this task, or keep it in your project for easy access to our tips below.
+
+Learn more about planning your sprints in Asana:
+https://asana.com/guide/examples/eng/sprint-planning
+https://academy.asana.com/series/product-use-cases/sprint-planning-course
+
+Send feedback about this template:
+https://asana.com/research/templates-feedback
+
+",Sprint Planning ,,,,,
+1198168245796141,2020-10-08,,2020-10-08,Helpful Asana tips:,,,,,,,,,[READ ME] - Instructions for Asana for Agile,,,,
+1198168245796142,2020-10-08,,2020-10-08,Use Custom Fields to make it easy to track priorities and costs.,,,,,,,,,[READ ME] - Instructions for Asana for Agile,,,,
+1198168245796143,2020-10-08,,2020-10-08,Click the Timeline tab of your project to map out your sprint tasks and ensure you can fit in all prioritized work. Drag and drop to set deadlines and dependencies.,,,,,,,,,[READ ME] - Instructions for Asana for Agile,,,,
+1198168245796144,2020-10-08,,2020-10-08,"To save time on stand up meetings, start a project conversation and have teammates comment with priorities and blockers.",,,,,,,,,[READ ME] - Instructions for Asana for Agile,,,,
+1198168245796145,2020-10-08,,2020-10-08,"If tasks in other projects are relevant to your sprint, you can store them in both projects without duplicating work.",,,,,,,Learn more: https://asana.com/guide/help/tasks/fields#gl-multi-home,,[READ ME] - Instructions for Asana for Agile,,,,
+1198168245796146,2020-10-08,,2020-10-08,Set your sprint start and finish dates in Progress View so your sprint timeframe is clear.,,,,,,,,,[READ ME] - Instructions for Asana for Agile,,,,
+1199003615934497,2020-11-02,2020-11-07,2020-11-07,Deep dive into the self-inflating aspects of BVM/AMBU design possibly with a physical AMBU/BVM,Done,Priyam Shah,priyamsh@my.yorku.ca,,,,,Sprint Planning ,,High,Spec needed,1,
