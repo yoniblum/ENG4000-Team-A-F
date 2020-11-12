@@ -67,6 +67,8 @@ Our team’s development team includes:
 * Shivani Joshi
 * Priyam Shah
 
+***
+
 ### Gate 1
 
 > **_NOTE:_** For each Gate1 deliverable- Product Vision, and Agile sub-sections; please click on the subsection heading to be redirected to our team's detailed explanation for that respective section.
@@ -95,7 +97,11 @@ Address backlog and decide what to move over to upcoming sprint i.e. Did we get 
 ### [Sprint Retrospective Plan](docs/sprint-retrospective.md)
 How is the process of running a sprint going? Should we change something?
 
+*** 
+
 ### Gate 2
+
+> **_NOTE:_** For each Gate2 deliverable- presented as sub-sections below; please click on the subsection heading to be redirected to our team's detailed explanation for that respective section.
 
 ### [Assign, track and assess team tasks and performance](docs/team-task-and-performance.md)
 Rubric Point #1: Show how you’re assigning and accessing team tasks and performance. 
