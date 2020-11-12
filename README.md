@@ -11,6 +11,8 @@
     + [The Scrum Master](#the-scrum-master)
     + [The Development Team](#the-development-team)
     + [Gate 1](#gate-1)
+    + [Gate 2](#gate-2)
+    
     
 ### Team Members
 * [Areeba Abidi](https://eclass.yorku.ca/eclass/user/view.php?id=31348&course=6123)
@@ -92,4 +94,13 @@ Address backlog and decide what to move over to upcoming sprint i.e. Did we get 
 
 ### [Sprint Retrospective Plan](docs/sprint-retrospective.md)
 How is the process of running a sprint going? Should we change something?
+
+### Gate 2
+
+### Assign, track and assess team tasks and performance.
+### Decompose features into daily sprint tasks.
+### Review sprint complete Status.
+### Review Sprint Effectiveness
+### Appropriateness of Sprint Plan.
+### ITPMetrics Feedback Complete for every team member.
 
