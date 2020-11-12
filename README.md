@@ -11,6 +11,8 @@
     + [The Scrum Master](#the-scrum-master)
     + [The Development Team](#the-development-team)
     + [Gate 1](#gate-1)
+    + [Gate 2](#gate-2)
+    
     
 ### Team Members
 * [Areeba Abidi](https://eclass.yorku.ca/eclass/user/view.php?id=31348&course=6123)
@@ -65,6 +67,8 @@ Our team’s development team includes:
 * Shivani Joshi
 * Priyam Shah
 
+***
+
 ### Gate 1
 
 > **_NOTE:_** For each Gate1 deliverable- Product Vision, and Agile sub-sections; please click on the subsection heading to be redirected to our team's detailed explanation for that respective section.
@@ -93,3 +97,26 @@ Address backlog and decide what to move over to upcoming sprint i.e. Did we get 
 ### [Sprint Retrospective Plan](docs/sprint-retrospective.md)
 How is the process of running a sprint going? Should we change something?
 
+*** 
+
+### Gate 2
+
+> **_NOTE:_** For each Gate2 deliverable- presented as sub-sections below; please click on the subsection heading to be redirected to our team's detailed explanation for that respective section.
+
+### [Assign, track and assess team tasks and performance](docs/team-task-and-performance.md)
+Rubric Point #1: Show how you’re assigning and accessing team tasks and performance. 
+
+### [Decompose features into daily sprint tasks](docs/features-to-daily-sprint-tasks.md)
+Rubric point #2- How did we decompose features into daily tasks?
+
+### [Review Sprint Completion Status](docs/sprint-completion-status.md)
+Rubric point#3- Method that shows effective tracking of completed tasks in a sprint(s).
+
+### [Review Sprint Effectiveness](docs/sprint-effectiveness.md)
+Rubric Point#4- Show how our Sprint(s) was effective.
+
+### [Appropriateness of Sprint Plan](docs/appropriateness-of-sprint-plan.md)
+Rubric Point#5- Show how our Sprint Plan(s) was appropriate.
+
+### [ITPMetrics Feedback Complete for every team member](docs/gate2-itpmetrics.md)
+Rubric Point#6- Shows our team's survey completion status.
