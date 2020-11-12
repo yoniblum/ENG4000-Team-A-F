@@ -97,10 +97,20 @@ How is the process of running a sprint going? Should we change something?
 
 ### Gate 2
 
-### Assign, track and assess team tasks and performance.
-### Decompose features into daily sprint tasks.
-### Review sprint complete Status.
-### Review Sprint Effectiveness
-### Appropriateness of Sprint Plan.
-### ITPMetrics Feedback Complete for every team member.
+### [Assign, track and assess team tasks and performance](docs/team-task-and-performance.md)
+Rubric Point #1: Show how you’re assigning and accessing team tasks and performance. 
 
+### [Decompose features into daily sprint tasks](docs/features-to-daily-sprint-tasks.md)
+Rubric point #2- How did we decompose features into daily tasks?
+
+### [Review Sprint Completion Status](docs/sprint-completion-status.md)
+Rubric point#3- Method that shows effective tracking of completed tasks in a sprint(s).
+
+### [Review Sprint Effectiveness](docs/sprint-effectiveness.md)
+Rubric Point#4- Show how our Sprint(s) was effective.
+
+### [Appropriateness of Sprint Plan](docs/appropriateness-of-sprint-plan.md)
+Rubric Point#5- Show how our Sprint Plan(s) was appropriate.
+
+### [ITPMetrics Feedback Complete for every team member](docs/gate2-itpmetrics.md)
+Rubric Point#6- Shows our team's survey completion status.
