@@ -73,7 +73,7 @@ Our team’s development team includes:
 
 > **_NOTE:_** For each Gate1 deliverable- Product Vision, and Agile sub-sections; please click on the subsection heading to be redirected to our team's detailed explanation for that respective section.
 
-### [Product Vision](docs/product-vision.md) 
+### [Product Vision](docs/gate1/product-vision.md) 
 
 Includes information on:
    * Target Group 
@@ -81,20 +81,20 @@ Includes information on:
    * Product description, uniqueness, feasibility
    * Product societal benefits
 
-### [Feature Roadmap](docs/feature-roadmap.md)
+### [Feature Roadmap](docs/gate1/feature-roadmap.md)
 A product release timeline for our project. 
 
-### [Sprint Planning](docs/sprint-planning.md)
+### [Sprint Planning](docs/gate1/sprint-planning.md)
 Define what can be delivered in the sprint and how that work will be achieved.
 
-* ["Daily" Scrum](docs/sprint-planning.md)
+* ["Daily" Scrum](docs/gate1/sprint-planning.md)
 
 The Stand Up (Daily Scrum) is a 30-minute time-boxed event for the Project Team. At it, the Project Team discusses what was done in the last 48 hours and goes over what will be done in the next 48 hours.
 
-### [Sprint Review Plan](docs/sprint-review.md)
+### [Sprint Review Plan](docs/gate1/sprint-review.md)
 Address backlog and decide what to move over to upcoming sprint i.e. Did we get the work done, and what feature will move our product forward?
 
-### [Sprint Retrospective Plan](docs/sprint-retrospective.md)
+### [Sprint Retrospective Plan](docs/gate1/sprint-retrospective.md)
 How is the process of running a sprint going? Should we change something?
 
 *** 
@@ -103,20 +103,20 @@ How is the process of running a sprint going? Should we change something?
 
 > **_NOTE:_** For each Gate2 deliverable- presented as sub-sections below; please click on the subsection heading to be redirected to our team's detailed explanation for that respective section.
 
-### [Assign, track and assess team tasks and performance](docs/team-task-and-performance.md)
+### [Assign, track and assess team tasks and performance](docs/gate2/team-task-and-performance.md)
 Rubric Point #1: Show how you’re assigning and accessing team tasks and performance. 
 
-### [Decompose features into daily sprint tasks](docs/features-to-daily-sprint-tasks.md)
+### [Decompose features into daily sprint tasks](docs/gate2/features-to-daily-sprint-tasks.md)
 Rubric point #2- How did we decompose features into daily tasks?
 
-### [Review Sprint Completion Status](docs/sprint-completion-status.md)
+### [Review Sprint Completion Status](docs/gate2/sprint-completion-status.md)
 Rubric point#3- Method that shows effective tracking of completed tasks in a sprint(s).
 
-### [Review Sprint Effectiveness](docs/sprint-effectiveness.md)
+### [Review Sprint Effectiveness](docs/gate2/sprint-effectiveness.md)
 Rubric Point#4- Show how our Sprint(s) was effective.
 
-### [Appropriateness of Sprint Plan](docs/appropriateness-of-sprint-plan.md)
+### [Appropriateness of Sprint Plan](docs/gate2/appropriateness-of-sprint-plan.md)
 Rubric Point#5- Show how our Sprint Plan(s) was appropriate.
 
-### [ITPMetrics Feedback Complete for every team member](docs/gate2-itpmetrics.md)
+### [ITPMetrics Feedback Complete for every team member](docs/gate2/gate2-itpmetrics.md)
 Rubric Point#6- Shows our team's survey completion status.
