@@ -12,6 +12,7 @@
     + [The Development Team](#the-development-team)
     + [Gate 1](#gate-1)
     + [Gate 2](#gate-2)
+    + [December MVP](#december-mvp)
     
     
 ### Team Members
