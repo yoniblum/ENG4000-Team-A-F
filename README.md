@@ -120,3 +120,25 @@ Rubric Point#5- Show how our Sprint Plan(s) was appropriate.
 
 ### [ITPMetrics Feedback Complete for every team member](docs/gate2/gate2-itpmetrics.md)
 Rubric Point#6- Shows our team's survey completion status.
+
+***
+
+### December MVP
+### [Contribute to a team in an appropriate and meaningful way](docs/gate2/gate2-itpmetrics.md)
+
+### [Apply an iterative process to refine or assign solutions for a given engineering design problem](docs/gate2/gate2-itpmetrics.md)
+
+### [Achieve a system design breakdown for management and implementation](docs/gate2/gate2-itpmetrics.md)
+
+### [Justify the strength and limitations of the solution and make recommendation for possible improvements](docs/gate2/gate2-itpmetrics.md)
+
+### [Concise and coherent document that reflects critical analysis and synthesis](docs/gate2/gate2-itpmetrics.md)
+
+### [Design has been reviewed forNo or superficial review sustainability impact and potential for negative unintended consequences](docs/gate2/gate2-itpmetrics.md)
+
+### [Adjust project schedule based on Does not determine necessary adjustments to project status](docs/gate2/gate2-itpmetrics.md)
+
+### [Monitor Risks during the life-cycle of the Project](docs/gate2/gate2-itpmetrics.md)
+
+### [Applies all appropriate engineering concepts and fundamentals, theories and practices to solve the engineering problems](docs/gate2/gate2-itpmetrics.md)
+
