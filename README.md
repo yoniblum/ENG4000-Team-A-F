@@ -100,26 +100,54 @@ How is the process of running a sprint going? Should we change something?
 
 *** 
 
-### Gate 2- Sprint Process
+### Gate 2
 
 > **_NOTE:_** For each Gate2 deliverable- presented as sub-sections below; please click on the subsection heading to be redirected to our team's detailed explanation for that respective section.
 
 ### [Assign, track and assess team tasks and performance](docs/gate2/team-task-and-performance.md)
-Shows how we’re using Asana for assigning and accessing team tasks and performance. 
+Rubric Point #1: Shows how we’re assigning and accessing team tasks and performance. 
 
-### [Sprint1](docs/sprint-Nov2nd-to-Nov9th/)
-Contains all documentation from our first sprint, which we ran for one week. It includes snapshot of our Asana sprint planning board (at the beginning and end of sprint), and sprint retrospective stormboard. The .csv file is an alternative method of taking a snapshot, where Asana allows our team to save literal copies of our sprint planning Asana board in the form of a .csv file.
+### [Decompose features into daily sprint tasks](docs/gate2/features-to-daily-sprint-tasks.md)
+Rubric point #2- How did we decompose features into daily tasks?
 
-### [Sprint2](docs/sprint-Nov11th-to-Nov25th/)
-Contains all documentation from our second sprint, which we ran for two weeks. It includes snapshot of our Asana sprint planning board (at the beginning and end of sprint), stand-up stormboard(s) and sprint retrospective stormboard.
+### [Review Sprint Completion Status](docs/gate2/sprint-completion-status.md)
+Rubric point#3- Method that shows effective tracking of completed tasks in a sprint(s).
 
-###### [Illustrating some powerful functionalities of Asana for Project Management](docs/asana_tracking_images/)
+### [Review Sprint Effectiveness](docs/gate2/sprint-effectiveness.md)
+Rubric Point#4- Shows how we evaluated our Sprints were effective.
 
-### [Strenghts, Weeknesses, and ITPMetrics Completetion status for every team member](docs/gate2/gate2-itpmetrics.md)
-Shows each team member's ITP metric completetion status. Futhermore, for each member it shows one way the member's strength was utilized by team and how, and one weakness identified by memeber based on team workflow- how the memeber worked on imporoving it during the sprint(s).
+### [Appropriateness of Sprint Plan](docs/gate2/appropriateness-of-sprint-plan.md)
+Rubric Point#5- Show how our Sprint Plan(s) was appropriate.
+
+### [ITPMetrics Feedback Complete for every team member](docs/gate2/gate2-itpmetrics.md)
+Rubric Point#6- Shows our team's survey completion status.
 
 ***
 
 ### December MVP
+### [Contribute to a team in an appropriate and meaningful way](docs/gate2/gate2-itpmetrics.md)
+Rubric Point#1- Show how contribution of team memebers' is appropiate for the team, and suppourts team success.
 
-Our team made this ***[video](https://www.youtube.com/watch?v=oLQ5bXakWq8)***, demonstrates our MVP.
+### [Apply an iterative process to refine or assign solutions for a given engineering design problem](docs/gate2/gate2-itpmetrics.md)
+Rubric Point#2- Shows hows a appropiate iteration(s) was applied to refine or assign solutions for a given engineering design problem.
+
+### [Achieve a system design breakdown for management and implementation](docs/gate2/gate2-itpmetrics.md)
+Rubric Point#3- Shows the system breakdown for project managenment and implementation. Identifying integration of subsystems to design a complete system.
+
+### [Justify the strength and limitations of the solution and make recommendation for possible improvements](docs/gate2/gate2-itpmetrics.md)
+Rubric Point#4 Shows justification of strenghts and limitations of the solution. Also, makes reccomendations for future improvements.
+
+### [Concise and coherent document that reflects critical analysis and synthesis](docs/gate2/gate2-itpmetrics.md)
+Rubric Point#4- This website is the "report" though. ***Come back to this @Siddharth***.
+
+### [Design has been reviewed for sustainability impact and potential for negative unintended consequences](docs/gate2/gate2-itpmetrics.md)
+Rubric Point#5- Shows how MVP has been reviewed for issues or oppurtunities around Sustainable Development Goals (SDGs). Also potential unintended negative consequences for a number of stakeholders has been explored.
+
+### [Adjust project schedule based on project status](docs/gate2/gate2-itpmetrics.md)
+Rubric Point#6- Shows how appropiate adjustments were made to the MVP delivery schduele based on project status.
+
+### [Monitor Risks during the life-cycle of the Project](docs/gate2/gate2-itpmetrics.md)
+Rubric Point#7- Shows how key risks were monitored during the life-cycle of MVP.
+
+### [Applies all appropriate engineering concepts and fundamentals, theories and practices to solve the engineering problems](docs/gate2/gate2-itpmetrics.md)
+Rubric Point#8- Shows how relavant engineering concepts and fundamentals, theories and practices were applied to solve the engineering probelms identified in development of the MVP.
