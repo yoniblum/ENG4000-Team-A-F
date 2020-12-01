@@ -125,29 +125,5 @@ Rubric Point#6- Shows our team's survey completion status.
 ***
 
 ### December MVP
-### [Contribute to a team in an appropriate and meaningful way](docs/gate2/gate2-itpmetrics.md)
-Rubric Point#1- Show how contribution of team memebers' is appropiate for the team, and suppourts team success.
 
-### [Apply an iterative process to refine or assign solutions for a given engineering design problem](docs/gate2/gate2-itpmetrics.md)
-Rubric Point#2- Shows hows a appropiate iteration(s) was applied to refine or assign solutions for a given engineering design problem.
-
-### [Achieve a system design breakdown for management and implementation](docs/gate2/gate2-itpmetrics.md)
-Rubric Point#3- Shows the system breakdown for project managenment and implementation. Identifying integration of subsystems to design a complete system.
-
-### [Justify the strength and limitations of the solution and make recommendation for possible improvements](docs/gate2/gate2-itpmetrics.md)
-Rubric Point#4 Shows justification of strenghts and limitations of the solution. Also, makes reccomendations for future improvements.
-
-### [Concise and coherent document that reflects critical analysis and synthesis](docs/gate2/gate2-itpmetrics.md)
-Rubric Point#4- This website is the "report" though. ***Come back to this @Siddharth***.
-
-### [Design has been reviewed for sustainability impact and potential for negative unintended consequences](docs/gate2/gate2-itpmetrics.md)
-Rubric Point#5- Shows how MVP has been reviewed for issues or oppurtunities around Sustainable Development Goals (SDGs). Also potential unintended negative consequences for a number of stakeholders has been explored.
-
-### [Adjust project schedule based on project status](docs/gate2/gate2-itpmetrics.md)
-Rubric Point#6- Shows how appropiate adjustments were made to the MVP delivery schduele based on project status.
-
-### [Monitor Risks during the life-cycle of the Project](docs/gate2/gate2-itpmetrics.md)
-Rubric Point#7- Shows how key risks were monitored during the life-cycle of MVP.
-
-### [Applies all appropriate engineering concepts and fundamentals, theories and practices to solve the engineering problems](docs/gate2/gate2-itpmetrics.md)
-Rubric Point#8- Shows how relavant engineering concepts and fundamentals, theories and practices were applied to solve the engineering probelms identified in development of the MVP.
+Our team made this ***[video](https://www.youtube.com/watch?v=oLQ5bXakWq8)***, demonstrates our MVP.
