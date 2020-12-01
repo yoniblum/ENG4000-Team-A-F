@@ -140,10 +140,10 @@ Rubric Point#4 Shows justification of strenghts and limitations of the solution.
 ### [Concise and coherent document that reflects critical analysis and synthesis](docs/gate2/gate2-itpmetrics.md)
 Rubric Point#4- This website is the "report" though. ***Come back to this @Siddharth***.
 
-### [Design has been reviewed forNo or superficial review sustainability impact and potential for negative unintended consequences](docs/gate2/gate2-itpmetrics.md)
+### [Design has been reviewed for sustainability impact and potential for negative unintended consequences](docs/gate2/gate2-itpmetrics.md)
 Rubric Point#5- Shows how MVP has been reviewed for issues or oppurtunities around Sustainable Development Goals (SDGs). Also potential unintended negative consequences for a number of stakeholders has been explored.
 
-### [Adjust project schedule based on Does not determine necessary adjustments to project status](docs/gate2/gate2-itpmetrics.md)
+### [Adjust project schedule based on project status](docs/gate2/gate2-itpmetrics.md)
 Rubric Point#6- Shows how appropiate adjustments were made to the MVP delivery schduele based on project status.
 
 ### [Monitor Risks during the life-cycle of the Project](docs/gate2/gate2-itpmetrics.md)
