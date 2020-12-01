@@ -105,7 +105,7 @@ How is the process of running a sprint going? Should we change something?
 > **_NOTE:_** For each Gate2 deliverable- presented as sub-sections below; please click on the subsection heading to be redirected to our team's detailed explanation for that respective section.
 
 ### [Assign, track and assess team tasks and performance](docs/gate2/team-task-and-performance.md)
-Rubric Point #1: Show how you’re assigning and accessing team tasks and performance. 
+Rubric Point #1: Shows how we’re assigning and accessing team tasks and performance. 
 
 ### [Decompose features into daily sprint tasks](docs/gate2/features-to-daily-sprint-tasks.md)
 Rubric point #2- How did we decompose features into daily tasks?
@@ -114,7 +114,7 @@ Rubric point #2- How did we decompose features into daily tasks?
 Rubric point#3- Method that shows effective tracking of completed tasks in a sprint(s).
 
 ### [Review Sprint Effectiveness](docs/gate2/sprint-effectiveness.md)
-Rubric Point#4- Show how our Sprint(s) was effective.
+Rubric Point#4- Shows how we evaluated our Sprints were effective.
 
 ### [Appropriateness of Sprint Plan](docs/gate2/appropriateness-of-sprint-plan.md)
 Rubric Point#5- Show how our Sprint Plan(s) was appropriate.
