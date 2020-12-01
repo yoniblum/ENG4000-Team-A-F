@@ -100,27 +100,23 @@ How is the process of running a sprint going? Should we change something?
 
 *** 
 
-### Gate 2
+### Gate 2- Sprint Process
 
 > **_NOTE:_** For each Gate2 deliverable- presented as sub-sections below; please click on the subsection heading to be redirected to our team's detailed explanation for that respective section.
 
 ### [Assign, track and assess team tasks and performance](docs/gate2/team-task-and-performance.md)
-Rubric Point #1: Shows how we’re assigning and accessing team tasks and performance. 
+Shows how we’re using Asana for assigning and accessing team tasks and performance. 
 
-### [Decompose features into daily sprint tasks](docs/gate2/features-to-daily-sprint-tasks.md)
-Rubric point #2- How did we decompose features into daily tasks?
+### [Sprint1](docs/sprint-Nov2nd-to-Nov9th/)
+Contains all documentation from our first sprint, which we ran for one week. It includes snapshot of our Asana sprint planning board (at the beginning and end of sprint), and sprint retrospective stormboard. The .csv file is an alternative method of taking a snapshot, where Asana allows our team to save literal copies of our sprint planning Asana board in the form of a .csv file.
 
-### [Review Sprint Completion Status](docs/gate2/sprint-completion-status.md)
-Rubric point#3- Method that shows effective tracking of completed tasks in a sprint(s).
+### [Sprint2](docs/sprint-Nov11th-to-Nov25th/)
+Contains all documentation from our second sprint, which we ran for two weeks. It includes snapshot of our Asana sprint planning board (at the beginning and end of sprint), stand-up stormboard(s) and sprint retrospective stormboard.
 
-### [Review Sprint Effectiveness](docs/gate2/sprint-effectiveness.md)
-Rubric Point#4- Shows how we evaluated our Sprints were effective.
-
-### [Appropriateness of Sprint Plan](docs/gate2/appropriateness-of-sprint-plan.md)
-Rubric Point#5- Show how our Sprint Plan(s) was appropriate.
+###### [Illustrating some powerful functionalities of Asana for Project Management](docs/asana_tracking_images/)
 
 ### [ITPMetrics Feedback Complete for every team member](docs/gate2/gate2-itpmetrics.md)
-Rubric Point#6- Shows our team's survey completion status.
+Shows our team's survey completion status.
 
 ***
 
