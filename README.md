@@ -115,8 +115,8 @@ Contains all documentation from our second sprint, which we ran for two weeks. I
 
 ###### [Illustrating some powerful functionalities of Asana for Project Management](docs/asana_tracking_images/)
 
-### [ITPMetrics Feedback Complete for every team member](docs/gate2/gate2-itpmetrics.md)
-Shows our team's survey completion status.
+### [Strenghts, Weeknesses, and ITPMetrics Completetion status for every team member](docs/gate2/gate2-itpmetrics.md)
+Shows each team member's ITP metric completetion status. Futhermore, for each member it shows one way the member's strength was utilized by team and how, and one weakness identified by memeber based on team workflow- how the memeber worked on imporoving it during the sprint(s).
 
 ***
 
