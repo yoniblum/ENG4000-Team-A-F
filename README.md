@@ -113,7 +113,8 @@ Contains all documentation from our first sprint, which we ran for one week. It 
 ### [Sprint2-Nov11th to Nov25th](docs/sprint-Nov11th-to-Nov25th/)
 Contains all documentation from our second sprint, which we ran for two weeks. It includes a snapshot of our Asana sprint planning board (at the beginning and end of sprint), stand-up stormboard(s) and sprint retrospective stormboard.
 
-###### [Illustrating some powerful functionalities of Asana for Project Management](docs/asana_tracking_images/)
+### [Illustrating some powerful functionalities of Asana for Project Management](docs/asana_tracking_images/)
+Show how're we're effectviely leveraging Asana to identify task dependencies. Also, track team and memeber performance.
 
 ### [Strengths, Weaknesses, and ITPMetrics Completion status for every team member](docs/gate2/gate2-itpmetrics.md)
 Shows each team member's ITP metric completion status. Furthermore, for each member it shows one way the member's strength was utilized by the team and how, and one weakness identified by the member based on team workflow- how the member worked on improving it during the sprint(s).
