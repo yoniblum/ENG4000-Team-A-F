@@ -1,1 +1,2 @@
 # How our team assigns, tracks and assesses team tasks and performance.
+Our team developed this ***[video](https://yorku.zoom.us/rec/share/M4yzsooUC3WaLIfsTSnivAiTkn7D7kS0WRZR8zNXuXJUUjNP7YVGmlUmbBzSpojo.gDP-nOaUvIJdocPm)***, which explains how our team uses Asana for task assignment and tracking, as well as using it's data analytics capabilties as performance metric tools for the team and its memebers.
