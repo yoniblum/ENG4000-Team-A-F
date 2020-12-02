@@ -1,6 +1,6 @@
 # Team Gate 2 ITPMetric Tracking
 
-### Conflict Management and Peer-review Surveys Checklist, and How team utilized memeber's strenghts; including an area of improment
+### Conflict Management and Peer-review Surveys Checklist, and How team utilized memeber's strenghts; including an area of improvement
 * [ ] Areeba Abidi \
 Mmember's strength was utilized by the team and how, and one weakness identified by the member based on team workflow- how the member worked on improving it during the sprint(s).
 
