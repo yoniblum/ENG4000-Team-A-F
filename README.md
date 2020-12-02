@@ -108,10 +108,10 @@ How is the process of running a sprint going? Should we change something?
 Shows how we’re using Asana for assigning and accessing team tasks and performance.
 
 ### [Sprint1-Nov2nd to Nov9th](docs/sprint-Nov2nd-to-Nov9th/)
-Contains all documentation from our first sprint, which we ran for one week. It includes a snapshot of our Asana sprint planning board (at the beginning and end of sprint), and sprint retrospective stormboard. The .csv file is an alternative method of taking a snapshot, where Asana allows our team to save literal copies of our sprint planning Asana board in the form of a .csv file.
+Contains all documentation of our first sprint, which we ran for one week. It includes a snapshot of our Asana sprint planning board (at the beginning and end of sprint), and sprint retrospective stormboard. The .csv file is an alternative method of taking a snapshot, where Asana allows our team to save literal copies of our sprint planning Asana board in the form of a .csv file.
 
 ### [Sprint2-Nov11th to Nov25th](docs/sprint-Nov11th-to-Nov25th/)
-Contains all documentation from our second sprint, which we ran for two weeks. It includes a snapshot of our Asana sprint planning board (at the beginning and end of sprint), stand-up stormboard(s) and sprint retrospective stormboard.
+Contains all documentation of our second sprint, which we ran for two weeks. It includes a snapshot of our Asana sprint planning board (at the beginning and end of sprint), stand-up stormboard(s) and sprint retrospective stormboard.
 
 ### [Illustrating some powerful functionalities of Asana for Project Management](docs/asana_tracking_images/)
 Show how're we're effectviely leveraging Asana to identify task dependencies. Also, track team and memeber performance.
