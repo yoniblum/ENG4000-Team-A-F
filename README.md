@@ -107,11 +107,16 @@ How is the process of running a sprint going? Should we change something?
 ### [Assign, track and assess team tasks and performance](docs/gate2/team-task-and-performance.md)
 Shows how we’re using Asana for assigning and accessing team tasks and performance.
 
-### [Sprint1-Nov2nd to Nov9th](docs/sprint-Nov2nd-to-Nov9th)
+### [Sprint1-Nov2nd to Nov9th](https://github.com/SidB16/ENG4000-Team-A-F/tree/main/docs/sprint-Nov2nd-to-Nov9th)
 Contains all documentation of our first sprint, which we ran for one week. It includes a snapshot of our Asana sprint planning board (at the beginning and end of sprint), and sprint retrospective stormboard. The .csv file is an alternative method of taking a snapshot, where Asana allows our team to save literal copies of our sprint planning Asana board in the form of a .csv file.
 
-### [Sprint2-Nov11th to Nov25th](docs/sprint-Nov11th-to-Nov25th)
+If the above heading link break then this documentation can be accessed from here: https://github.com/SidB16/ENG4000-Team-A-F/tree/main/docs/sprint-Nov2nd-to-Nov9th
+
+
+### [Sprint2-Nov11th to Nov25th](https://github.com/SidB16/ENG4000-Team-A-F/tree/main/docs/sprint-Nov11th-to-Nov25th)
 Contains all documentation of our second sprint, which we ran for two weeks. It includes a snapshot of our Asana sprint planning board (at the beginning and end of sprint), stand-up stormboard(s) and sprint retrospective stormboard.
+
+If the above heading link break then this documentation can be accessed from here: https://github.com/SidB16/ENG4000-Team-A-F/tree/main/docs/sprint-Nov11th-to-Nov25th
 
 ### [Illustrating some powerful functionalities of Asana for Project Management](docs/asana_tracking_images)
 Show how're we're effectviely leveraging Asana to identify task dependencies. Also, track team and memeber performance.
