@@ -107,7 +107,7 @@ How is the process of running a sprint going? Should we change something?
 ### [Assign, track and assess team tasks and performance](docs/gate2/team-task-and-performance.md)
 Shows how we’re using Asana for assigning and accessing team tasks and performance.
 
-### [Sprint1-Nov2nd to Nov9th](https://github.com/SidB16/ENG4000-Team-A-F/tree/main/docs/sprint-Nov2nd-to-Nov9th)
+### [Sprint1-Nov2nd to Nov7th](https://github.com/SidB16/ENG4000-Team-A-F/tree/main/docs/sprint-Nov2nd-to-Nov9th)
 Contains all documentation of our first sprint, which we ran for one week. It includes a snapshot of our Asana sprint planning board (at the beginning and end of sprint), and sprint retrospective stormboard. The .csv file is an alternative method of taking a snapshot, where Asana allows our team to save literal copies of our sprint planning Asana board in the form of a .csv file.
 
 If the above heading link break then this documentation can be accessed from here: https://github.com/SidB16/ENG4000-Team-A-F/tree/main/docs/sprint-Nov2nd-to-Nov9th
@@ -130,4 +130,4 @@ Shows each team member's ITP metric completion status. Furthermore, for each mem
 
 ### December MVP
 
-Our team made this ***[video](https://www.youtube.com/watch?v=oLQ5bXakWq8)***, demonstrating our MVP.
+Our team made this ***[video](https://drive.google.com/file/d/1K1sPJ1zHO5lMHadbYEQw4SeiRAuQj5PR/view?usp=sharing)***, demonstrating our MVP.
