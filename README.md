@@ -130,4 +130,4 @@ Shows each team member's ITP metric completion status. Furthermore, for each mem
 
 ### December MVP
 
-Our team made this ***[video](https://drive.google.com/file/d/1K1sPJ1zHO5lMHadbYEQw4SeiRAuQj5PR/view?usp=sharing)***, demonstrating our MVP.
+Our team made this ***[video](https://drive.google.com/file/d/1UStRh64E-9Y7tPR-XGxSC1WPrr48ruYQ/view?usp=sharing)***, demonstrating our MVP.
