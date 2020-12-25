@@ -15,7 +15,7 @@ Optional components include a positive end-expiratory pressure (PEEP) valve, an 
 reservoir, and a pressure gauge[6].
 
 
-<img src="images/im2.png" alt=" " class="inline" width="500" height="300"/>
+![](images/im2.png)
 <h7>Figure1: Shows the components of an AMBU/BVM including optional peripherals.</h7>
 <ul>
 <li>Patient Connector: This component includes an exhalation port, patient valve and patient connector port. 
@@ -75,32 +75,6 @@ On understanding the functions of each component, we concluded that we only requ
 </br>
 In order to ensure the basic functional requirements were accounted for, we built evaluation criteria to judge the different design ideas explored. The criteria were as follows:
 
-Criteria
-Metric
-Economic
-Low-Cost (< 500 Rs?)
-Mechanical
-Evaluation Criteria:
-Portable
-Size (don’t want to be intrusive)
-weight
-Compression (it's able to handle/afford compression and decompression
-Programmable 
-Compatibility (work with many components/peripherals?)
-Modifiability (parts can be replaced with different technologies)
-power requirement (we want minimal/efficient)
-Readily sourced
-Repairable parts
-
-Functional Constraints: 
-Battery-powered 
-
-Repeatability
-Code has to be simple enough to replicate.
-Medical  
-
-
-Stakeholder-specified breath/min insp./exp ratio, tidal volume
 
 
 We explored different ways of designing the pumping mechanism such as gear pumping, DC motor-driven pumping, pneumatic pumping and stepper motor-driven pumping with a strap. Since our team comprises of only Software and Computer Engineers and we are an Agile group, we decided to explore different design ideas via experimentation. We decided to implement the simplest approach because of expertise, time and budget constraints. We recognized that changing the hardware design in an agile fashion was not affordable as we could not keep buying new/expensive parts and increase electronic waste just for the sake of experimentation, hence, we decided to implement our design with repurposed parts.
