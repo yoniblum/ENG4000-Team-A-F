@@ -157,4 +157,4 @@ The following two videos outline our MVP.
 </ul>
 
 ***
-### [Contribution](docs/december_mvp/contributions.md)
+### [Contributions](docs/december_mvp/contributions.md)
