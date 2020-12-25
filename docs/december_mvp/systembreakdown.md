@@ -32,9 +32,14 @@ These reviews helped the scrum master determine how to run sprints more effectiv
 For the retrospective, group members would populate a Stormboard (seen below) attached to our team AF Microsoft Teams channel.  This exercise would allow group members to discuss positive and negative aspects of the running of each sprint. We would conclude with a discussion on how we could improve our sprints.  These discussions were crucial for the product owner and scrum master to improve the sprints.  For example, in the storm board below, one member mentioned they wanted less “meetings lasting beyond the scheduled time”, since the members had meetings scheduled after some of the standups.  In response, the scrum master started creating schedules for each meeting, and made itineraries for each meeting according to what was the most urgent and essential.  
 
 
-<img src="images/decembermvp/yoni.PNG" >
-Inline-style: 
-![alt text](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/yoni.PNG"Logo Title Text 1")
+
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/yoni.PNG "Logo Title Text 2"
+
+
 
 
 The schedule for our sprints were as follows:  
