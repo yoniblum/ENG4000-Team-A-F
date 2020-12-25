@@ -67,7 +67,7 @@ On understanding the functions of each component, we concluded that we only requ
 <li>The required pump rate, i.e. the number of breaths per minute is 12-16</li>
 <li>Ensure the bag gets squeezed completely (ensuring maximum volume of gas pumped each time) and consistently</li>
 <li>The amount of voltage and current to be supplied in order to provide enough torque required to achieve the previous requirement</li>
-<li>We must ensure no damage is caused to the BVM as currently patients are charged a deposit for the BVM. It is refunded only if the BVM is undamaged during its use. Hence, the liability now lies on us.</li>
+<li>We must ensure no damage is caused to the BVM as currently patients are charged a deposit for the BVM. It is refunded only if the BVM is undamaged during its use. Hence, the liability now lies on us. </li>
 
 </br>
 In order to ensure the basic functional requirements were accounted for, we built evaluation criteria to judge the different design ideas explored. The criteria were as follows:
