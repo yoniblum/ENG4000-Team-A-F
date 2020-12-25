@@ -34,11 +34,7 @@ For the retrospective, group members would populate a Stormboard (seen below) at
 
 
 
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/yoni.PNG "Logo Title Text 2"
-
+ 
 
 
 
