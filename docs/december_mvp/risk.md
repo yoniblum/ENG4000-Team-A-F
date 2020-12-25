@@ -30,5 +30,7 @@ Furthermore, because of the organized sprint planning the team accounted for cer
 
 To conclude, we have taken all the negative risks into account by using positive risk approaches as mentioned in the examples above.
 
+<h2> References: </h2>
 
+Identifying risks with SWOT Analysis in 3 steps. (2016). [Photograph]. https://medium.com/techcatch/identifying-risks-with-swot-analysis-in-3-steps-38aa033ed886
 
