@@ -22,7 +22,7 @@ reservoir, and a pressure gauge[5].
 <ul>
 <li>Patient Connector: This component includes an exhalation port, patient valve and patient connector port. 
 <ul>
-<li>Exhalation port: Serves to eliminate CO2 from the breathing circuit. Thus, it's positioned as near to the patient as possible- for more effective capture of CO2exhaled by the patient and to decrease the chance of it being washed up into the breathing circuit [6]. </li>
+<li>Exhalation port: Serves to eliminate CO2 from the breathing circuit. Thus, it's positioned as near to the patient as possible- for more effective capture of CO2 exhaled by the patient and to decrease the chance of it being washed up into the breathing circuit [6]. </li>
 <li>Patient (inspiratory) valve: A unidirectional patient valve (non-rebreathing valve: NRVs) used to minimize build-up of CO2 through rebreathing their own exhaled air.</li>
 <li>Patient Connector Port: A unidirectional silicone/plastic flap connected to either a venti-mask (face-mask) or an endotracheal tube to facilitate inspiration (breathing in).</li>
 </ul>
@@ -40,16 +40,16 @@ reservoir, and a pressure gauge[5].
 <ul>
 <li>It has an oxygen inlet which is connected to an oxygen cylinder or left unconnected to supply air, depending on the patient’s needs </li>
 <li>The gas enters in the self-expanding bag through the one-way valve which restricts the flow back from the inlet [7]. </li>
-<li>When the bag is attached to an oxygen supply, oxygen delivery rate can be set between 5-12 litres per minute and provide 40-60% concentration of O2(when not connected to reservoir bag) due to potential leakage. </li>
+<li>When the bag is attached to an oxygen supply, oxygen delivery rate can be set between 5-12 litres per minute and provide 40-60% concentration of O2 (when not connected to reservoir bag) due to potential leakage. </li>
 </ul>
 </li>
 </ul>
-<li>Oxygen Inlet: an inlet nipple through which air andO2is supplied.</li>
+<li>Oxygen Inlet: an inlet nipple through which air and O2is supplied.</li>
 
 <ul>
-<li>Reservoir Bag: Increases theO2concentration pumped by preventing leakage
+<li>Reservoir Bag: Increases the O2 concentration pumped by preventing leakage
 <ul>
-<li>Adding a reservoir bag and running O2at 5-12 L/min raises the concentration to 100%, but only if the reservoir is allowed to fill.</li>
+<li>Adding a reservoir bag and running O2 at 5-12 L/min raises the concentration to 100%, but only if the reservoir is allowed to fill.</li>
 <li>It is important to ensure that a sufficient oxygen flow rate is used so the oxygen reservoir bag does not collapse during inspiration.</li>
 <li>They are made of latex-free material or silicone, ranging in size from 1-8L. </li>
 </ul>
@@ -93,10 +93,12 @@ We decided to use a 1.8degree 2phases Nema17 stepper motor by repurposing a dama
 
 </br>
 <h2>References </h2>
-[5] Alterations in peak inspiratory pressure and tidal volume delivered by manually operated self inflating bag resuscitation bags as a function of oxygen supply rate. (2018). Alterations in Peak Inspiratory Pressure and Tidal Volume Delivered by Manually Operated Self Inflating Bag Resuscitation Bags as a Function of Oxygen Supply Rate. http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1806-37132008001000010&lng=pt&tlng=pt
+[5] Alterations in peak inspiratory pressure and tidal volume delivered by manually operated self inflating bag resuscitation bags as a function of oxygen supply rate. (2018). Alterations in Peak Inspiratory Pressure and Tidal Volume Delivered by Manually Operated Self Inflating Bag Resuscitation Bags as a Function of Oxygen Supply Rate. 
+<a href="http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1806-37132008001000010&lng=pt&tlng=pt"></a>
 
-[6] Ambu bag / self inflating bag. (2018). Ambu Bag / Self Inflating Bag. https://www.pediatriconcall.com/medical-equipment/critical-care/8/ambu-bag--self-inflating-bag/22
+[6] Ambu bag / self inflating bag. (2018). Ambu Bag / Self Inflating Bag. 
+<a href="https://www.pediatriconcall.com/medical-equipment/critical-care/8/ambu-bag--self-inflating-bag/22"></a>
 
-[7] Difference in Manual Ventilation: Self-Inflating Ventilation Bag vs. a Free Flow Inflating Bag. (2017). Difference in Manual Ventilation: Self-Inflating Ventilation Bag vs. a Free Flow Inflating Bag. https://airwayjedi.com/2017/03/26/manual-ventilation-self-inflating-vs-free-flow-bag/
-
+[7] Difference in Manual Ventilation: Self-Inflating Ventilation Bag vs. a Free Flow Inflating Bag. (2017). Difference in Manual Ventilation: Self-Inflating Ventilation Bag vs. a Free Flow Inflating Bag. 
+<a href="https://airwayjedi.com/2017/03/26/manual-ventilation-self-inflating-vs-free-flow-bag/"></a>
 
