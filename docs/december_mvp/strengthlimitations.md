@@ -17,6 +17,7 @@
 
 </ul>
 
+</br>
 <h2>Weakness: </h2>
 
 <ul>
