@@ -50,11 +50,13 @@ reservoir, and a pressure gauge[6].
 </ul>
 </li>
 </ul>
+
 <ul>
 <li>Positive End-Expiratory Pressure (PEEP) Valve: it is simply a spring-loaded valve that the patient exhales against. 
  <ul>
   <li>PEEP prevents ventilator-induced lung injury. </li>
 <li>Ambu PEEP Valves are fitted directly to the patient (inspiratory) valve </li>
+ </ul>
   </li>
 </ul>
 <li>Pressure Gauge (manometer): Can be used for monitoring Airway Pressure.</li>
