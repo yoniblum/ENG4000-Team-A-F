@@ -69,6 +69,7 @@ On understanding the functions of each component, we concluded that we only requ
 <li>The amount of voltage and current to be supplied in order to provide enough torque required to achieve the previous requirement</li>
 <li>We must ensure no damage is caused to the BVM as currently patients are charged a deposit for the BVM. It is refunded only if the BVM is undamaged during its use. Hence, the liability now lies on us.</li>
 
+
 In order to ensure the basic functional requirements were accounted for, we built evaluation criteria to judge the different design ideas explored. The criteria were as follows:
 
 Criteria
