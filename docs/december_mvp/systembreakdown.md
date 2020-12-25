@@ -33,6 +33,8 @@ For the retrospective, group members would populate a Stormboard (seen below) at
 
 
 <img src="images/decembermvp/yoni.PNG" >
+Inline-style: 
+![alt text](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/yoni.PNG"Logo Title Text 1")
 
 
 The schedule for our sprints were as follows:  
