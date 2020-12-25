@@ -1,13 +1,14 @@
 Upon talking to stakeholders, we narrowed down our project scope by understanding the need on the ground (refer to product vision section). We did a deep dive into BVM peripherals and equipment availabilities on board a government ambulance which would transport patients to larger medical facilities from smaller ones. Below we have listed some of these components and concluded that they had all necessary components required to monitor a patients health during the journey and had a BVM available either onboard or loaned by the smaller medical setup. However, there is a need to automate the ventilation process as a single paramedic or family members cannot efficiently ensure the patient’s vitals are good while they are pumping the bag. 
 
 Items available onboard a 108 Ambulance (relevant to our project) in Gujarat, India:
+<ul>
 <li>Oxygen Cylinder</li>
 <li>Blood Pressure detectors (sphygmomanometer)</li>
 <li>AMBU/BVM (if not available onboard, borrowed from the hospital)</li>
 <li>Intravenous Set</li>
 <li>Pulse Oximeter</li>
 <li>Medical Suction Machine</li>
-
+</ul>
 BVM Components: 
 
 A BVM has three parts: a patient connector, a self-inflating bag, and an oxygen inlet.
