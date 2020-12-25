@@ -35,3 +35,22 @@ For the retrospective, group members would populate a Stormboard (seen below) at
 <img src="images/decembermvp/yoni.PNG" >
 
 
+The schedule for our sprints were as follows:  
+
+First Monday: Sprint planning session + Standup
+
+First Wednesday: Standup
+ 
+First Friday:  Meeting with project supervisor
+Second Monday: Standup
+
+Second Wednesday: Standup
+
+Second Friday:  Meeting with project supervisor
+
+Following Sunday: <h5>Sprint Review and Sprint Retrospective</h5>
+
+
+
+
+
