@@ -2,6 +2,10 @@
 
 The risks are taken into consideration with the help of SWOT framework:
 
+![alt text][swat]
+
+[swat]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/swat.JPG "Logo Title Text 2"
+
 ![alt text][swat1]
 
 [swat1]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/swat1.JPG "Logo Title Text 2"
