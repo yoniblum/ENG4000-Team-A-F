@@ -9,7 +9,9 @@ The risks are taken into consideration with the help of SWOT framework:
 ![alt text][swat2]
 
 [swat2]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/swat2.JPG "Logo Title Text 2"
+
 ![alt text][swat3]
+
 [swat3]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/swat3.JPG "Logo Title Text 2"
 
 Our SWOT analysis showcases how the strengths mitigate the weaknesses mentioned above in the table. In evaluating our weaknesses we came up with effective solutions using each of our team member’s strengths as a whole. 
