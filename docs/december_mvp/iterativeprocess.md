@@ -15,10 +15,7 @@ Optional components include a positive end-expiratory pressure (PEEP) valve, an 
 reservoir, and a pressure gauge[6].
 
 
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/img1.JPG "Logo Title Text 2"
+![alt text] https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/img1.JPG "Logo Title Text 2"
 
 <h7>Figure1: Shows the components of an AMBU/BVM including optional peripherals.</h7>
 <ul>
