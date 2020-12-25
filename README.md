@@ -130,4 +130,6 @@ Shows each team member's ITP metric completion status. Furthermore, for each mem
 
 ### December MVP
 
+### [Agile process followed to develope a solution](docs/december_mvp/iterativeprocess.md)
+
 Our team made this ***[video](https://drive.google.com/file/d/1UStRh64E-9Y7tPR-XGxSC1WPrr48ruYQ/view?usp=sharing)***, demonstrating our MVP.
