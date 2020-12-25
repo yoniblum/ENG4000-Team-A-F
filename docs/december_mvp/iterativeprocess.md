@@ -100,9 +100,9 @@ We decided to use a 1.8degree 2phases Nema17 stepper motor by repurposing a dama
 </br>
 <h2>References </h2>
 [5] Alterations in peak inspiratory pressure and tidal volume delivered by manually operated self inflating bag resuscitation bags as a function of oxygen supply rate. (2018). Alterations in Peak Inspiratory Pressure and Tidal Volume Delivered by Manually Operated Self Inflating Bag Resuscitation Bags as a Function of Oxygen Supply Rate. http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1806-37132008001000010&lng=pt&tlng=pt
-
+</br>
 [6] Ambu bag / self inflating bag. (2018). Ambu Bag / Self Inflating Bag. https://www.pediatriconcall.com/medical-equipment/critical-care/8/ambu-bag--self-inflating-bag/22
-
+</br>
 [7] Difference in Manual Ventilation: Self-Inflating Ventilation Bag vs. a Free Flow Inflating Bag. (2017). Difference in Manual Ventilation: Self-Inflating Ventilation Bag vs. a Free Flow Inflating Bag. https://airwayjedi.com/2017/03/26/manual-ventilation-self-inflating-vs-free-flow-bag/
 
 
