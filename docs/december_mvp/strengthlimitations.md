@@ -1,4 +1,4 @@
-<h2>Strengths: </h2?
+<h2>Strengths: </h2>
 
 <ul>
 <li>Readily Sourced and Repairable: Each component used in making the automation mechanism is commonly available in Indian markets so if any part were to be damaged, it could be easily replaced and hence the system could be repaired with minimal efforts and complications. This is in accordance with our requirement of making the device accessible. </li>
@@ -17,7 +17,7 @@
 
 </ul>
 
-<h2>Weakness: </h2?
+<h2>Weakness: </h2>
 
 <ul>
   
