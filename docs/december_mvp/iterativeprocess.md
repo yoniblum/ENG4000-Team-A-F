@@ -14,8 +14,7 @@ A BVM has three parts: a patient connector, a self-inflating bag, and an oxygen 
 Optional components include a positive end-expiratory pressure (PEEP) valve, an oxygen
 reservoir, and a pressure gauge[6].
 
-
-![alt text] [logo]
+![alt text][logo]
 
 [logo]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/img1.JPG "Logo Title Text 2"
 
