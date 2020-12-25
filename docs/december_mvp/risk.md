@@ -8,7 +8,7 @@ The risks are taken into consideration with the help of SWOT framework:
 
 ![alt text][swat2]
 
-[swat2]:  "Logo Title Text 2"
+[swat2]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/swat2.JPG "Logo Title Text 2"
 
 ![alt text][swat3]
 
