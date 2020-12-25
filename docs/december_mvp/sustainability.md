@@ -1,3 +1,6 @@
+![alt text][sust]
+
+[sust]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/sustainability.JPG "Logo Title Text 2"
 
 <h1>Sustainability Impact And Negative Consequences Of MVP Design</h1>
 <b> Sustainability goal #1: End poverty in all its forms everywhere </b>      
