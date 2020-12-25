@@ -135,5 +135,11 @@ Shows each team member's ITP metric completion status. Furthermore, for each mem
 
 ### [System breakdown for team management and adjustement of project schedule](docs/december_mvp/systembreakdown.md)
 
+### [Strengths and limitations of the proposed solution](docs/december_mvp/strengthlimitations.md)
+
+### [Review design in terms of sustainability impact and negative consequences](docs/december_mvp/sustainability.md)
+
+### [Risk analysis during the project life cycle](docs/december_mvp/risk.md)
+
 
 Our team made this ***[video](https://drive.google.com/file/d/1UStRh64E-9Y7tPR-XGxSC1WPrr48ruYQ/view?usp=sharing)***, demonstrating our MVP.
