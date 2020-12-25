@@ -147,7 +147,7 @@ We talked about our design's environmental impact and negative consequences  in 
 ### [Risk analysis during the project life cycle](docs/december_mvp/risk.md)
 This section talks about the risks we could encounter throughout the project cycle using SWOT analysis and how we tried to handle them.
 
-###[Contribution](docs/december_mvp/contributions.md)
+### [Contribution](docs/december_mvp/contributions.md)
 
 <b> MVP VIDEOS:</b>
 
