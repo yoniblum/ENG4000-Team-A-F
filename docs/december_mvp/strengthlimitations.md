@@ -5,13 +5,13 @@
 
 <li>No damage to the BVM: There is no physical damage done to the BVM with our design. The mechanical push to the bag does not damage the device. Although the BVM is not easily detachable specially in a crisis situation, our team has not permanently damaged the bvm in any way. </li>
 
-<li>Programable: Our pumping mechanism is driven by an easily programmable microcontroller which gives us the ability to adjust or modify the pump rate as required (pump rate is usually constant across patients experiencing hypoxia[2]). We are currently able to pump the bag at 14 breaths/min which is the average desired pump rate. </li>
+<li>Programable: Our pumping mechanism is driven by an easily programmable microcontroller which gives us the ability to adjust or modify the pump rate as required (pump rate is usually constant across patients experiencing hypoxia as mentioned by our stakeholder). We are currently able to pump the bag at 14 breaths/min which is the average desired pump rate. </li>
 
 <li>Affordable: As we are reusing and recycling parts that would normally end up in landfills. We have reduced the overall cost of automating aspects of our device. Furthermore, most medical centres (including small remote ones) carry BVMs on-site in our target communities, so that will also decrease the production cost and by extension making our product more affordable for hospitals. In the future we are planning to work with electronic companies (that make printers, blenders, typewriters etc) to give us their e-waste as well. </li>
 
-<li>Modifiable: Our design is highly modifiable as the motor, power source, microcontroller and base can be replaced by alternatives fairly easily.  </li>
+<li>Modifiable: Our design is highly modifiable as the motor, power source, microcontroller and base can be replaced by alternatives fairly easily. And our controller is programmable so that can be altered as well. </li>
 
-<li>Power Requirement: We require 0.72 Watts (12V*0.06A(Voltage*Current difference)) amount of power to partially squeeze the BVM currently but we suspect that requirement will be raised by 0.5 Watts, which is not very high. </li>
+<li>Power Requirement: We require voltage*current amount of power to partially squeeze the BVM currently but we suspect that requirement will be raised by X Watts, which is not very high. </li>
 
 <li>Usage of repurposed parts (environmentally friendly): As an agile team and because of the lack of mechanical and electrical expertise, our team thought it is best to land on a design that agrees with our evaluation criterion by experimenting with different basic pumping mechanisms. We acknowledged that in doing so we may add on to electronic waste significantly and we know that each year we are generating 40 million tons of electronic waste[1]. So, we are repurposing components from a damaged 3D printer to make our MVP. We believe that any electronic consisting of either a motor-driven or pneumatic pump-driven component can be repurposed in order to make our automation possible. We may need to replace our current design with more power-efficient, portable and high thrust providing alternative but reuse and recycling will be at the core of any modifications made. </li>
 
@@ -40,3 +40,4 @@
 <h2>References </h2>
 
 [1]Electronic revolution=Ewaste. (2017). Electronic Revolution=Ewaste. https://www.theworldcounts.com/stories/electronic-waste-facts
+
