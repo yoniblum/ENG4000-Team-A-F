@@ -130,17 +130,23 @@ Shows each team member's ITP metric completion status. Furthermore, for each mem
 
 ### December MVP
 
-### [Agile process followed to develope a solution](docs/december_mvp/iterativeprocess.md)
-
+### [Agile process followed to develop a solution](docs/december_mvp/iterativeprocess.md)
+This section details how the agile process was used to achieve a minimum viable product.  It outlines the scope of the project, and details the  components included in the final MVP design, as well as going over the functional requirements for the MVP.
 
 ### [System breakdown for team management and adjustement of project schedule](docs/december_mvp/systembreakdown.md)
+This section outlines our teams sprint process, including detailing the various types of meetings we ran, and overviews of each sprint.
 
 ### [Strengths and limitations of the proposed solution](docs/december_mvp/strengthlimitations.md)
+In this section, we talk about the strengths of the design  and the improvements that could be made for our future attempt.
 
 ### [Review design in terms of sustainability impact and negative consequences](docs/december_mvp/sustainability.md)
+We talked about our design's environmental impact and negative consequences  in terms of the 17 UN sustainability goals
 
 ### [Risk analysis during the project life cycle](docs/december_mvp/risk.md)
+This section talks about the risks we could encounter throughout the project cycle using SWOT analysis and how we tried to handle them.
 
 
-Our team made these ***[video1](https://drive.google.com/file/d/1UStRh64E-9Y7tPR-XGxSC1WPrr48ruYQ/view?usp=sharing)***, ***[video2](https://www.youtube.com/watch?fbclid=IwAR1AUkIMFm6ZRWM0tmYjjZvLybUq14E8MtLQHifRuKWpnr7fiNclaPoWzyU&v=nqXD6RNjhww&feature=youtu.be)***, demonstrating our MVP.
+The following two videos outline the motivation for our project and MVP implementation: 
+***[video1](https://drive.google.com/file/d/1UStRh64E-9Y7tPR-XGxSC1WPrr48ruYQ/view?usp=sharing)***
+***[video2](https://www.youtube.com/watch?fbclid=IwAR1AUkIMFm6ZRWM0tmYjjZvLybUq14E8MtLQHifRuKWpnr7fiNclaPoWzyU&v=nqXD6RNjhww&feature=youtu.be)***, demonstrating our MVP.
 
