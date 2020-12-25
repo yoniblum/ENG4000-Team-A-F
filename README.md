@@ -147,8 +147,13 @@ This section talks about the risks we could encounter throughout the project cyc
 
 
 The following two videos outline the motivation for our project and MVP implementation:
-<li>
-***[video1](https://drive.google.com/file/d/1UStRh64E-9Y7tPR-XGxSC1WPrr48ruYQ/view?usp=sharing)*** </li>
-<li>***[video2](https://www.youtube.com/watch?fbclid=IwAR1AUkIMFm6ZRWM0tmYjjZvLybUq14E8MtLQHifRuKWpnr7fiNclaPoWzyU&v=nqXD6RNjhww&feature=youtu.be)***</li>
+
 demonstrating our MVP.
 
+<b> MVP VIDEOS:</b>
+
+The following two videos outline our MVP. 
+
+MVP overview and proof of concept: ***[video1](https://drive.google.com/file/d/1UStRh64E-9Y7tPR-XGxSC1WPrr48ruYQ/view?usp=sharing)*** 
+
+Final MVP design: ***[video2](https://www.youtube.com/watch?fbclid=IwAR1AUkIMFm6ZRWM0tmYjjZvLybUq14E8MtLQHifRuKWpnr7fiNclaPoWzyU&v=nqXD6RNjhww&feature=youtu.be)***
