@@ -56,7 +56,7 @@ reservoir, and a pressure gauge[6].
   <li>PEEP prevents ventilator-induced lung injury. </li>
 <li>Ambu PEEP Valves are fitted directly to the patient (inspiratory) valve </li>
   </li>
-<ul>
+</ul>
 <li>Pressure Gauge (manometer): Can be used for monitoring Airway Pressure.</li>
 
 On understanding the functions of each component, we concluded that we only required the self-inflating bag and the patient connector for automating the pumping mechanism.
