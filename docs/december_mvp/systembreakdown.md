@@ -26,15 +26,20 @@ The team would meet with Dr. Franz Newland, who would ensure our group was stayi
 This meeting would consist of a 30 minute sprint review which would aim to go over what we had achieved in our previous sprint, followed by a 30 minute retrospective in which we would go over how we could make each sprint iteration as optimal as possible.  
 
 For the review, group members would update the other group members with what tasks they had accomplished that week, including the key takeaways for the rest of the group members. 
-These reviews helped the scrum master determine how to run sprints more effectively.  For example, when group members were struggling to complete their tasks, it gave the scrum master an understanding of how to better incorporate workload into the delegation equation.  When a member   (Ie. how to allocate deliverables, populate backlog, manage workload, etc.  
+These reviews helped the hrum master determine how to run sprints more effectively.  For example, when group members were struggling to complete their tasks, it gave the scrum master an understanding of how to better incorporate workload into the delegation equation.  When a member   (Ie. how to allocate deliverables, populate backlog, manage workload, etc.  
  
 
-For the retrospective, group members would populate a Stormboard (seen below) attached to our team AF Microsoft Teams channel.  This exercise would allow group members to discuss positive and negative aspects of the running of each sprint. We would conclude with a discussion on how we could improve our sprints.  These discussions were crucial for the product owner and scrum master to improve the sprints.  For example, in the storm board below, one member mentioned they wanted less “meetings lasting beyond the scheduled time”, since the members had meetings scheduled after some of the standups.  In response, the scrum master started creating schedules for each meeting, and made itineraries for each meeting according to what was the most urgent and essential.  
+For the retrospective, group members would populate a Stormboard (seen below) attached to our team AF Microsoft Teams channel.  This exercise would allow group members to discuss positive and negative aspects of the running of each sprint. We would conclude with a discussion on how we could improve our sprints.  These discussions were crucial for the product owner and scrum master to improve the sprints.  For example, in the storm board below, one member mentioned they wanted less “meetings lasting beyond the 
+eduled time”, since the members had meetings scheduled after some of the standups.  In response, the scrum master started creating schedules for each meeting, and made itineraries for each meeting according to what was the most urgent and essential.  
 
 
 
 
  
+![alt text][logo]
+
+[logo]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/yoni.PNG "Logo Title Text 2"
+
 
 
 
