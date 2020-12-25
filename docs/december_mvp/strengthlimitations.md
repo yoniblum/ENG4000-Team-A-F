@@ -36,3 +36,7 @@
 
 <li>Power Supply: We would like to replace the DC power supply we are currently using by a rechargeable battery. We wish to explore solar powered rechargeable batteries for our future design iterations.</li>
 </ul>
+
+<h2>References </h2>
+
+[1]Electronic revolution=Ewaste. (2017). Electronic Revolution=Ewaste. https://www.theworldcounts.com/stories/electronic-waste-facts
