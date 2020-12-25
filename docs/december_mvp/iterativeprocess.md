@@ -14,9 +14,9 @@ A BVM has three parts: a patient connector, a self-inflating bag, and an oxygen 
 Optional components include a positive end-expiratory pressure (PEEP) valve, an oxygen
 reservoir, and a pressure gauge[6].
 
-![alt text][logo]
+![alt text][img1]
 
-[logo]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/img1.JPG "Logo Title Text 2"
+[img1]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/img1.JPG "Logo Title Text 2"
 
 <h7>Figure1: Shows the components of an AMBU/BVM including optional peripherals.</h7>
 <ul>
@@ -29,6 +29,9 @@ reservoir, and a pressure gauge[6].
 </li>
 </ul>
 
+![alt text][img2]
+
+[img2]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/img2.JPG "Logo Title Text 2"
 
 <h7>Figure 2: shows the difference between venti-mask and endotracheal tube connection.</h7>
 
@@ -77,6 +80,9 @@ On understanding the functions of each component, we concluded that we only requ
 </br>
 In order to ensure the basic functional requirements were accounted for, we built evaluation criteria to judge the different design ideas explored. The criteria were as follows:
 
+![alt text][table]
+
+[table]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/table.JPG "Logo Title Text 2"
 
 
 We explored different ways of designing the pumping mechanism such as gear pumping, DC motor-driven pumping, pneumatic pumping and stepper motor-driven pumping with a strap. Since our team comprises of only Software and Computer Engineers and we are an Agile group, we decided to explore different design ideas via experimentation. We decided to implement the simplest approach because of expertise, time and budget constraints. We recognized that changing the hardware design in an agile fashion was not affordable as we could not keep buying new/expensive parts and increase electronic waste just for the sake of experimentation, hence, we decided to implement our design with repurposed parts.
