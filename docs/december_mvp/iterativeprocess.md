@@ -44,7 +44,10 @@ reservoir, and a pressure gauge[5].
 </ul>
 </li>
 </ul>
-<li>Oxygen Inlet: an inlet nipple through which air and O2is supplied.</li>
+
+<ul>
+<li>Oxygen Inlet: an inlet nipple through which air and O2 is supplied.</li>
+</ul>
 
 <ul>
 <li>Reservoir Bag: Increases the O2 concentration pumped by preventing leakage
