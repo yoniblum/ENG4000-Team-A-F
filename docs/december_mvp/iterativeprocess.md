@@ -2,11 +2,11 @@ Upon talking to stakeholders, we narrowed down our project scope by understandin
 
 Items available onboard a 108 Ambulance (relevant to our project) in Gujarat, India:
 <li>Oxygen Cylinder</li>
-*[Blood Pressure detectors (sphygmomanometer)]
-*[AMBU/BVM (if not available onboard, borrowed from the hospital)]
-*[Intravenous Set]
-*[Pulse Oximeter]
-*[Medical Suction Machine]
+<li>Blood Pressure detectors (sphygmomanometer)</li>
+<li>AMBU/BVM (if not available onboard, borrowed from the hospital)</li>
+<li>Intravenous Set</li>
+<li>Pulse Oximeter</li>
+<li>Medical Suction Machine</li>
 
 BVM Components: 
 
