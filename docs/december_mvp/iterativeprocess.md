@@ -67,7 +67,10 @@ reservoir, and a pressure gauge[5].
  </ul>
   </li>
 </ul>
+
+<ul>
 <li>Pressure Gauge (manometer): Can be used for monitoring Airway Pressure.</li>
+</ul>
 
 </br>
 
