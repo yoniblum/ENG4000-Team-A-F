@@ -1,8 +1,9 @@
+<h1>Sustainability Impact And Negative Consequences Of MVP Design</h1>
+
 ![alt text][sust]
 
 [sust]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/sustainability.JPG "Logo Title Text 2"
 
-<h1>Sustainability Impact And Negative Consequences Of MVP Design</h1>
 <b> Sustainability goal #1: End poverty in all its forms everywhere </b>      
 <ul>
 Negative impact: There is a possibility that hospitals can decide to increase the prices for ambulances that will be equipped with automated BVMs even though there should only be the initial purchase made for integrating our product into the ambulances, and maintenance cost would be extremely minimal. This is a possible associated consequence of integrating our product into ambulances. Increase in the price of the ambulance will have an impact on people who are less financially secure.
