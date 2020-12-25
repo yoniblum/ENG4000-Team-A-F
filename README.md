@@ -146,7 +146,9 @@ We talked about our design's environmental impact and negative consequences  in 
 This section talks about the risks we could encounter throughout the project cycle using SWOT analysis and how we tried to handle them.
 
 
-The following two videos outline the motivation for our project and MVP implementation: 
-***[video1](https://drive.google.com/file/d/1UStRh64E-9Y7tPR-XGxSC1WPrr48ruYQ/view?usp=sharing)***
-***[video2](https://www.youtube.com/watch?fbclid=IwAR1AUkIMFm6ZRWM0tmYjjZvLybUq14E8MtLQHifRuKWpnr7fiNclaPoWzyU&v=nqXD6RNjhww&feature=youtu.be)***, demonstrating our MVP.
+The following two videos outline the motivation for our project and MVP implementation:
+<li>
+***[video1](https://drive.google.com/file/d/1UStRh64E-9Y7tPR-XGxSC1WPrr48ruYQ/view?usp=sharing)*** </li>
+<li>***[video2](https://www.youtube.com/watch?fbclid=IwAR1AUkIMFm6ZRWM0tmYjjZvLybUq14E8MtLQHifRuKWpnr7fiNclaPoWzyU&v=nqXD6RNjhww&feature=youtu.be)***</li>
+demonstrating our MVP.
 
