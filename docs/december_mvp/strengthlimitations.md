@@ -16,7 +16,9 @@
 <li>Usage of repurposed parts (environmentally friendly): As an agile team and because of the lack of mechanical and electrical expertise, our team thought it is best to land on a design that agrees with our evaluation criterion by experimenting with different basic pumping mechanisms. We acknowledged that in doing so we may add on to electronic waste significantly and we know that each year we are generating 40 million tons of electronic waste[1]. So, we are repurposing components from a damaged 3D printer to make our MVP. We believe that any electronic consisting of either a motor-driven or pneumatic pump-driven component can be repurposed in order to make our automation possible. We may need to replace our current design with more power-efficient, portable and high thrust providing alternative but reuse and recycling will be at the core of any modifications made. </li>
 
 </ul>
-
+</br>
+</br>
+</br>
 <h2>Weakness: </h2>
 
 <ul>
