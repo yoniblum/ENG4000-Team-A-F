@@ -142,5 +142,5 @@ Shows each team member's ITP metric completion status. Furthermore, for each mem
 ### [Risk analysis during the project life cycle](docs/december_mvp/risk.md)
 
 
-Our team made these ***[video1](https://drive.google.com/file/d/1UStRh64E-9Y7tPR-XGxSC1WPrr48ruYQ/view?usp=sharing)***, ***[video2](https://www.youtube.com/watch?fbclid=IwAR1AUkIMFm6ZRWM0tmYjjZvLybUq14E8MtLQHifRuKWpnr7fiNclaPoWzyU&v=nqXD6RNjhww&feature=youtu.be)***,demonstrating our MVP.
+Our team made these ***[video1](https://drive.google.com/file/d/1UStRh64E-9Y7tPR-XGxSC1WPrr48ruYQ/view?usp=sharing)***, ***[video2](https://www.youtube.com/watch?fbclid=IwAR1AUkIMFm6ZRWM0tmYjjZvLybUq14E8MtLQHifRuKWpnr7fiNclaPoWzyU&v=nqXD6RNjhww&feature=youtu.be)***, demonstrating our MVP.
 
