@@ -2,21 +2,13 @@
 
 The risks are taken into consideration with the help of SWOT framework:
 
-![alt text][swat]
+<img src="decembermvp_images/swat.JPG" alt=" " class="inline"/>
 
-[swat]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/swat.JPG "Logo Title Text 2"
+<img src="decembermvp_images/swat1.JPG" alt=" " class="inline"/>
 
-![alt text][swat1]
+<img src="decembermvp_images/swat2.JPG" alt=" " class="inline"/>
 
-[swat1]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/swat1.JPG "Logo Title Text 2"
-
-![alt text][swat2]
-
-[swat2]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/swat2.JPG "Logo Title Text 2"
-
-![alt text][swat3]
-
-[swat3]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/swat3.JPG "Logo Title Text 2"
+<img src="decembermvp_images/swat3.JPG" alt=" " class="inline"/>
 
 Our SWOT analysis showcases how the strengths mitigate the weaknesses mentioned above in the table. In evaluating our weaknesses we came up with effective solutions using each of our team member’s strengths as a whole. 
 
@@ -30,7 +22,7 @@ Furthermore, because of the organized sprint planning the team accounted for cer
 
 To conclude, we have taken all the negative risks into account by using positive risk approaches as mentioned in the examples above.
 
-<h2> References: </h2>
+<h2> References </h2>
 
 Identifying risks with SWOT Analysis in 3 steps. (2016). [Photograph]. https://medium.com/techcatch/identifying-risks-with-swot-analysis-in-3-steps-38aa033ed886
 
