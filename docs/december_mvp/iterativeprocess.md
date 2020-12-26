@@ -14,9 +14,7 @@ A BVM has three parts: a patient connector, a self-inflating bag, and an oxygen 
 Optional components include a positive end-expiratory pressure (PEEP) valve, an oxygen
 reservoir, and a pressure gauge[5].
 
-![alt text][img1]
-
-[img1]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/img1.JPG "Logo Title Text 2"
+<img src="https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/img1.JPG" alt=" " class="inline" width="500" height="300"/>
 
 <h7>Figure1: Shows the components of an AMBU/BVM including optional peripherals.</h7>
 <ul>
@@ -29,9 +27,7 @@ reservoir, and a pressure gauge[5].
 </li>
 </ul>
 
-![alt text][img2]
-
-[img2]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/img2.JPG "Logo Title Text 2"
+<img src="https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/img2.JPG" alt=" " class="inline" width="500" height="300"/>
 
 <h7>Figure 2: shows the difference between venti-mask and endotracheal tube connection.</h7>
 
@@ -42,7 +38,6 @@ reservoir, and a pressure gauge[5].
 <li>The gas enters in the self-expanding bag through the one-way valve which restricts the flow back from the inlet [7]. </li>
 <li>When the bag is attached to an oxygen supply, oxygen delivery rate can be set between 5-12 litres per minute and provide 40-60% concentration of O2 (when not connected to reservoir bag) due to potential leakage. </li>
 </ul>
-</li>
 </ul>
 
 <ul>
@@ -72,7 +67,6 @@ reservoir, and a pressure gauge[5].
 <li>Pressure Gauge (manometer): Can be used for monitoring Airway Pressure.</li>
 </ul>
 
-</br>
 
 On understanding the functions of each component, we concluded that we only required the self-inflating bag and the patient connector for automating the pumping mechanism.
 
@@ -83,13 +77,9 @@ On understanding the functions of each component, we concluded that we only requ
 <li>We must ensure no damage is caused to the BVM as currently patients are charged a deposit for the BVM. 
  It is refunded only if the BVM is undamaged during its use. Hence, the liability now lies on us. </li>
 
-</br>
 In order to ensure the basic functional requirements were accounted for, we built evaluation criteria to judge the different design ideas explored. The criteria were as follows:
 
-![alt text][table]
-
-[table]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/table.JPG "Logo Title Text 2"
-
+<img src="https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/table.JPG" alt=" " class="inline" width="500" height="300"/>
 
 We explored different ways of designing the pumping mechanism such as gear pumping, DC motor-driven pumping, pneumatic pumping and stepper motor-driven pumping with a strap. Since our team comprises of only Software and Computer Engineers and we are an Agile group, we decided to explore different design ideas via experimentation. We decided to implement the simplest approach because of expertise, time and budget constraints. We recognized that changing the hardware design in an agile fashion was not affordable as we could not keep buying new/expensive parts and increase electronic waste just for the sake of experimentation, hence, we decided to implement our design with repurposed parts.
 
@@ -97,13 +87,9 @@ Our current experimentation design consists of a battery-powered motor, which ro
 
 We decided to use a 1.8degree 2phases Nema17 stepper motor by repurposing a damaged 3D printer as it would be able to provide us higher torque than other (readily available) motors. In order to ensure programmability of the motor, we connected it to a driver, Easy Driver (ROB-12779 by Sparkfun), borrowed from an acquaintance and an Arduino microcontroller (available at home). We used the 3D printer internal frame to access its rotational shafts. 
 
-</br>
-<h2>References </h2>
-[5] Alterations in peak inspiratory pressure and tidal volume delivered by manually operated self inflating bag resuscitation bags as a function of oxygen supply rate. (2018). Alterations in Peak Inspiratory Pressure and Tidal Volume Delivered by Manually Operated Self Inflating Bag Resuscitation Bags as a Function of Oxygen Supply Rate. http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1806-37132008001000010&lng=pt&tlng=pt
-</br>
+### References 
+[5] Alterations in peak inspiratory pressure and tidal volume delivered by manually operated self inflating bag resuscitation bags as a function of oxygen supply rate. (2018). Alterations in Peak Inspiratory Pressure and Tidal Volume Delivered by Manually Operated Self Inflating Bag Resuscitation Bags as a Function of Oxygen Supply Rate. http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1806-37132008001000010&lng=pt&tlng=pt 
+
 [6] Ambu bag / self inflating bag. (2018). Ambu Bag / Self Inflating Bag. https://www.pediatriconcall.com/medical-equipment/critical-care/8/ambu-bag--self-inflating-bag/22
-</br>
+
 [7] Difference in Manual Ventilation: Self-Inflating Ventilation Bag vs. a Free Flow Inflating Bag. (2017). Difference in Manual Ventilation: Self-Inflating Ventilation Bag vs. a Free Flow Inflating Bag. https://airwayjedi.com/2017/03/26/manual-ventilation-self-inflating-vs-free-flow-bag/
-
-
-
