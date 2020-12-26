@@ -15,7 +15,7 @@ Before the meeting our product owner (Shivani) would populate the backlog with d
 
 <h2>2. Standup</h2>
 <h2>The following link gives a description of the sprint planning: </h2>
-<a href="https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate1/sprint-planning.mdl"> SPRINT PLAN </a>
+<a href="https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate1/sprint-planning.md"> SPRINT PLAN </a>
 
 As we progressed the sprint process, our scrum master made a few adjustments with each iteration. Namely, making the standups more discussion based, so that the group members would have a chance to question members while they did their standups. This allowed group members to deliver feedback and suggestions to each other.  
 
@@ -36,9 +36,8 @@ eduled time”, since the members had meetings scheduled after some of the stand
 
 
  
-![alt text][logo]
+<img src="decembermvp_images/yoni.PNG" alt=" " class="inline"/>
 
-[logo]: https://github.com/SidB16/ENG4000-Team-A-F/blob/main/images/decembermvp/yoni.PNG "Logo Title Text 2"
 
 
 
@@ -61,48 +60,44 @@ Following Sunday: <b>Sprint Review and Sprint Retrospective</b>
 Over the course of the semester we ran 3 sprints. 
 The narratives were as follows:
 
-1. Explore and Understand how BVM’s work 
+**1. Explore and Understand how BVM’s work**
 (Specifications needed)
 
 Our proprietary research had led us to conclude that an effective way to aid patients with breathing difficulties was by automating the pumping of an AMBU/BVM.  We had previously established that we would design automated BVM’s for ambulances in rural communities of Gujarat India, as it addressed a critical need for patients with breathing difficulties who were travelling long distances between hospitals.  
 
 In order to understand how to do this effectively, it was crucial to acquire specifications for different BVM devices so we could develop a stronger understanding of what types of equipment we could use to meet our project requirements.  Additionally, we used our research to hone in on our design constraints and further develop our requirements. 
 
-<b>Some key takeaways from this sprint: </b>
-<ul>
-<li>Group members developed a deep level of understanding of BVM’s, including understanding different BVM designs, including knowledge of the different components of BVM’s</li>
-<li>Group members developed medical background of patient ventilation, including understanding appropriate applications and various implementations of the device ie. different settings for different oxygen levels, endotracheal intubation vs mask </li>
- <li>Modification of sprint: Itineraries included for each meeting</li>
+**Some key takeaways from this sprint:**
+* Group members developed a deep level of understanding of BVM’s, including understanding different BVM designs, including knowledge of the different components of BVM’s.
+* Group members developed medical background of patient ventilation, including understanding appropriate applications and various implementations of the device ie. different settings for different oxygen levels, endotracheal intubation vs mask.
+* Modification of sprint: Itineraries included for each meeting.
      
-
-<b>2. Explore possible design ideas for a crude pumping mechanism</b>
+**2. Explore possible design ideas for a crude pumping mechanism**
 
 This sprint prepared the team for our end of semester goal of implementation of the crude pumping mechanism through an analysis of various pumping designs.  To evaluate pumping designs we developed criteria for pumping mechanisms.  We also developed as well as criteria for our system to be, which gave the group a stronger understanding of how close our MVP would be to our final design. Each group member researched a design idea for the mechanical “pumping” aspect of the Automated BVM, presented their research findings, and evaluated the pumping design based on criteria we had established at the beginning of the sprint.  
 
 We ultimately decided that the most achievable design for our MVP would include converting a broken 3D printer into a pump, which would squeeze the BVM.   Although the group was happy with the research we had done in this sprint, we were a little anxious about falling behind on implementing the MVP. 
 
-<b>Key takeaways from this sprint:</b> 
-<ul>
- <li>Finalization of evaluation criteria for the pumping mechanisms for our BVM</li>
-<li>Finalization of evaluation criteria for the system to be (following the MVP)</li>
- <li>Evaluation of various pumping mechanisms through an evaluation matrix</li>
-<li>A design for a crude pumping mechanism (for the MVP)</li>
-<li>Establishment of Hardware components to be used</li> 
-<li>Following this sprint, we decided the research done in our sprints would be done concurrently with implementation</li>
-</ul>
-<b>3.Implement a crude pumping mechanism</b>
+**Key takeaways from this sprint:**
+* Finalization of evaluation criteria for the pumping mechanisms for our BVM.
+* Finalization of evaluation criteria for the system to be (following the MVP).
+* Evaluation of various pumping mechanisms through an evaluation matrix.
+* A design for a crude pumping mechanism (for the MVP).
+* Establishment of Hardware components to be used.
+* Following this sprint, we decided the research done in our sprints would be done concurrently with implementation.
+
+
+**3.Implement a crude pumping mechanism**
 
 With our design prepared, the team got to work ordering parts and assembling the crude pumping mechanism.  The 3D printer we had been donated had built in stepper motors which could be controlled by Arduino Microcontrollers.  These stepper motors controlled a block which moved laterally.  With some modifications, and programming additions, we assembled and programmed the device to pump air at a rate of 14 pumps per minute, meeting our key design requirement.  
 
 Since this sprint entailed implementation, rather than research, the team was faced with a few challenges. First, determining how to effectively work on a hardware device, when the work had to be done remotely, and (due to budgetary restrictions), not all the group members had access to the parts. Secondly, ordering parts during a time where walking into a hardware store was not possible. These two challenges delayed our progress considerably and made it much more difficult to meet our design requirements. To overcome these challenges, we delegated tasks according to the abilities of each group member. For example, group members with access to hardware components would work on assembly, and hardware configuration, while members without access would do research on additional components, and programming of existing components, which could be done remotely. We had a backup hardware design running in parallel with our main design as a contingency.  
 
 
- <b>Key takeaways from this sprint: </b>
-<ul>
-<li>An MVP device that met some of our design criteria</li>
-<li>An understanding of how to effectively work remotely on hardware designs</li>
-<li>An understanding of how to run concurrent processes such as research and implementation </li>
-</ul>
+**Key takeaways from this sprint:**
+* An MVP device that met some of our design criteria.
+* An understanding of how to effectively work remotely on hardware designs.
+* An understanding of how to run concurrent processes such as research and implementation.
 
 
 
