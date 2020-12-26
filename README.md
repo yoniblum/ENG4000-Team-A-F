@@ -146,15 +146,10 @@ We talked about our design's environmental impact and negative consequences  in 
 ### [Risk analysis during the project life cycle](docs/december_mvp/risk.md)
 This section talks about the risks we could encounter throughout the project cycle using SWOT analysis and how we tried to handle them.
 
-<b> MVP VIDEOS:</b>
+**MVP VIDEOS:**
 
-The following two videos outline our MVP. 
-<ul>
+The following two videos outline our MVP:
+1. ***[MVP overview and proof of concept](https://drive.google.com/file/d/1UStRh64E-9Y7tPR-XGxSC1WPrr48ruYQ/view?usp=sharing)*** 
+2. ***[Final MVP design](https://www.youtube.com/watch?fbclid=IwAR1AUkIMFm6ZRWM0tmYjjZvLybUq14E8MtLQHifRuKWpnr7fiNclaPoWzyU&v=nqXD6RNjhww&feature=youtu.be)***
 
-***[MVP overview and proof of concept](https://drive.google.com/file/d/1UStRh64E-9Y7tPR-XGxSC1WPrr48ruYQ/view?usp=sharing)*** 
-
-***[Final MVP design](https://www.youtube.com/watch?fbclid=IwAR1AUkIMFm6ZRWM0tmYjjZvLybUq14E8MtLQHifRuKWpnr7fiNclaPoWzyU&v=nqXD6RNjhww&feature=youtu.be)***
-</ul>
-
-***
 ### [Contributions](docs/december_mvp/contributions.md)
