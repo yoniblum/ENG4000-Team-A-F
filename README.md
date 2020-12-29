@@ -152,4 +152,4 @@ The following two videos outline our MVP:
 1. ***[MVP overview and proof of concept](https://drive.google.com/file/d/1UStRh64E-9Y7tPR-XGxSC1WPrr48ruYQ/view?usp=sharing)*** 
 2. ***[Final MVP design](https://www.youtube.com/watch?fbclid=IwAR1AUkIMFm6ZRWM0tmYjjZvLybUq14E8MtLQHifRuKWpnr7fiNclaPoWzyU&v=nqXD6RNjhww&feature=youtu.be)***
 
-### [Reflections & Contributions](docs/december_mvp/contributions.md)
+### [Contributions & ITP Mertric Report Reflections](docs/december_mvp/contributions.md)
