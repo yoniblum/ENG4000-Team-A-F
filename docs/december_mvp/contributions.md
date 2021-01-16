@@ -8,7 +8,7 @@
 
 <b> Jonathan Blumenfeld:</b> Facilitated scrum meetings as scrum master. Completed assigned deliverables.  Contributed to research, design, implementation of MVP.   Contributed to Gate 1 and 2 content, as well as MVP content. Contributed to team website maintenance. 
 
-<b>Siddarth Bhardwaj:</b> Created the team website. Participated in weekly meeting and completed all assigned deliverables. Contributed to research, and helped in making Gate 1 and 2 content. Also, contributed to team website maintanence. 
+<b>Siddarth Bhardwaj:</b> Created the team website. Participated in weekly meeting and completed all assigned deliverables. Contributed to research, and helped in making Gate 1 and 2 content. Also, contributed to team website maintanence. A specific example that i'd like to share is about a story point I completed during our product's specification needed sprint-- ***[here](https://drive.google.com/file/d/1fbR2aad2eUqU_aILc2vjHCjWiD7Ffg1f/view?usp=sharing)***. The team utilized my strengths of diving deep, and delivering results; giving me the oppurtunity to create a comprehensive research document on new subject. 
 
 ### Reflections
 ***Individual ITPmetrics review statements (Individual statements by each team member reviewing their ITPmetrics feedback)***
@@ -19,7 +19,7 @@
 * Jonathan Blumefield: 
   Individual statements by each team member reviewing their ITPmetrics feedback
 * Siddharth Bhardwaj:
-  ITP metric allowed me to holistic view my team, and view different member perspectives that may not get an opportunity to communicate during the meeting.
+  ITP metric allowed me to holistic view my team, and view different member perspectives that may not get an opportunity to communicate during the meeting. In essence, I was able to effectively identify my strenghts, and work on my weeknesses. 
 * Priyam Shah: 
   Individual statements by each team member reviewing their ITPmetrics feedback
 
