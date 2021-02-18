@@ -13,6 +13,7 @@
     + [Gate 1](#gate-1)
     + [Gate 2](#gate-2--sprint-process)
     + [December MVP](#december-mvp)
+    + [Gate 4](#gate-4)
     
     
 ### Team Members
@@ -153,3 +154,9 @@ The following two videos outline our MVP:
 2. ***[Final MVP design](https://www.youtube.com/watch?fbclid=IwAR1AUkIMFm6ZRWM0tmYjjZvLybUq14E8MtLQHifRuKWpnr7fiNclaPoWzyU&v=nqXD6RNjhww&feature=youtu.be)***
 
 ### [Contributions & ITP Mertric Report Reflections](docs/december_mvp/contributions.md)
+
+***
+### Gate 4
+
+### System Health Reporting (docs/systemhealthreporting.md)
+Shows the System Health Reporting portion of this project.
