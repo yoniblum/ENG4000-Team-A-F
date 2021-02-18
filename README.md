@@ -158,5 +158,5 @@ The following two videos outline our MVP:
 ***
 ### Gate 4
 
-### System Health Reporting (docs/systemhealthreporting.md)
+### [System Health Reporting](docs/systemhealthreporting.md)
 Shows the System Health Reporting portion of this project.
