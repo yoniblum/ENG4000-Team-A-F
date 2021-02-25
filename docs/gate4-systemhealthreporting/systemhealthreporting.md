@@ -10,10 +10,9 @@
 Alpha release of a system health reporting application, utilizing XBee transceivers and Raspberry Pi3 to create a mesh network that uses peer-to-peer communication.
 
 ### Application Architecture
-As of the Alpha release, this is the current architecture of the system health reporting application:
 <img src="gate4_syshealth_images/im1.png" alt=" " class="inline" width="690" height="490"/>
 
-**Figure1 shows the architecture of this application.**
+**Figure1 shows the architecture of the system health reporting application as of it's Alpha release.**
 
 ### Configuration Management
 Given the nature of this project, physical configurations of wiring and connection is maintated to through basic wiring eddiquete, learnt about in Electrical Engineering courses. Shown below are images that capture the physical set-up. Software Configurations for the basestation PC and Pi are managed using project documentation, and assets such as code are stored on Github. 
