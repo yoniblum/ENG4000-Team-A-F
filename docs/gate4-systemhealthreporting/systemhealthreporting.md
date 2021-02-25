@@ -15,7 +15,7 @@ Alpha release of a system health reporting application, utilizing XBee transceiv
 **Figure1 shows the architecture of the system health reporting application as of it's Alpha release.**
 
 ### Configuration Management
-Given the nature of this project, physical configurations of wiring and connection is maintated to through basic wiring eddiquete, learnt about in Electrical Engineering courses. Shown below are images that capture the physical set-up. Software Configurations for the basestation PC and Pi are managed using project documentation, and assets such as code are stored on Github. 
+Given the nature of this project, physical configurations of wiring and connection is maintated through basic wiring etiquette, learnt about in Electrical Engineering courses. Shown below are images that capture the physical set-up. Software Configurations for the basestation PC and Pi are managed using project documentation, and assets such as code are stored on Github. 
 
 <img src="gate4_syshealth_images/im3.png" alt=" " class="inline" width="400" height="400"/>
 
