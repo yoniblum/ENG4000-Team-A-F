@@ -1,4 +1,4 @@
-### Index
+### Page Index
 - <small><i>Table of contents</i></small>
     + [About](#about)
     + [Architecture](#application-architecture)
