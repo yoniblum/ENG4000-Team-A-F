@@ -10,7 +10,7 @@
 Alpha release of a system health reporting application, utilizing XBee transceivers and Raspberry Pi3 to create a mesh network that uses peer-to-peer communication- visualizing and presenting the data transmitted within the nework as information, on a web-based dashboard.
 
 ### Application Architecture
-<img src="gate4_syshealth_images/im1.png" alt=" " class="inline" width="690" height="490"/>
+<img src="gate4_syshealth_images/im1.png" alt=" " class="inline" width="715" height="490"/>
 
 **Figure1 shows the architecture of the system health reporting application as of it's Alpha release.**
 
@@ -40,7 +40,7 @@ This section contains three subsection that demonstrate the results of this Alph
 **Figure5 shows the first build- version 1.0 where instead of generic database, a .txt file was used to store messages.**
 
 ### 2) Processed Data Visualized
-<object data="https://docs.google.com/spreadsheets/d/e/2PACX-1vTOtlUA6_ut3XFsuj0FlkWg8S-ZV8Y1agQ2JxbpRSM8WFk134k7edO6xV-e-v02GFxi0yZMvwdY2nlV/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="700" height="500" seamless frameborder="0"></object>
+<object data="https://docs.google.com/spreadsheets/d/e/2PACX-1vTOtlUA6_ut3XFsuj0FlkWg8S-ZV8Y1agQ2JxbpRSM8WFk134k7edO6xV-e-v02GFxi0yZMvwdY2nlV/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1000" height="500" seamless frameborder="0"></object>
 **Figure6 shows the final build of the Alpha Release- data collected, processed and stored into a generic data-store on the Cloud. Please feel to scroll :)**
 
 ### 3) Data Presented
