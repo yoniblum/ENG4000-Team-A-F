@@ -21,7 +21,7 @@ Given the nature of this project, physical configurations of wiring and connecti
 
 **Figure2 shows physical set-up of router XBee connected to the Pi (right), and contoller XBee (connected to PC).**
 
-<img src="gate4_syshealth_images/im2.png" alt=" " class="inline" width="690" height="490"/>
+<img src="gate4_syshealth_images/im2.png" alt=" " class="inline"/>
 
 **Figure3 shows the how software based configuration are managed using the terminal. Leftmost pane shows the Pi's terminal. Top right pane shows the Pi's system resources viewer (that I use to manage how I use resources when programming on the Pi). Bottom right pane shows the terminal to interface with the basestation PC.**
 
