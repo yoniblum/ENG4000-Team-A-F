@@ -39,15 +39,15 @@ This section contains three subsection that demonstrate the results of this Alph
 <object data="https://docs.google.com/document/d/e/2PACX-1vS3oPCumTwzkfEPce57R6XSrqXaXSzlxlnErdOtRytYMSZzNwuyC5B_lHdbQMxnkSNnNaLHhbkhO4Y_/pub?embedded=true"  width="576" height="356" seamless frameborder="0" scrolling="no"></object>
 **Figure5 shows the first build- version 1.0 where instead of generic database, a .txt file was used to store messages.**
 
-### 2) Processed Data Visualized
+### 2) Processed Data Visualized Real-time
 <object data="https://docs.google.com/spreadsheets/d/e/2PACX-1vTOtlUA6_ut3XFsuj0FlkWg8S-ZV8Y1agQ2JxbpRSM8WFk134k7edO6xV-e-v02GFxi0yZMvwdY2nlV/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1000" height="500" seamless frameborder="0"></object>
-**Figure6 shows the final build of the Alpha Release- data collected, processed and stored into a generic data-store on the Cloud. Please feel to scroll :)**
+**Figure6 shows the final build of the Alpha Release- data collected, processed and stored into a generic data-store on the Cloud. This spreadsheet is live. Please feel to scroll :)**
 
-### 3) Data Presented
+### 3) Data Presented Real-time
 These two figures illustrate how the data collected can be visualized, and then presented on a website. This feature to embed visualizations will be used in the Beta release for better presentation of information.
 
 <object data="https://docs.google.com/spreadsheets/d/e/2PACX-1vTOtlUA6_ut3XFsuj0FlkWg8S-ZV8Y1agQ2JxbpRSM8WFk134k7edO6xV-e-v02GFxi0yZMvwdY2nlV/pubchart?oid=2105202285&amp;format=interactive" width="576" height="356" seamless frameborder="0" scrolling="no"></object>
-**Figure7 illustrates the System Status with respect to Time. Updated automatically as new database records are added.**
+**Figure7 illustrates the System Status with respect to Time. This figure updates automatically as new database records are added.**
 
 <object data="https://docs.google.com/spreadsheets/d/e/2PACX-1vTOtlUA6_ut3XFsuj0FlkWg8S-ZV8Y1agQ2JxbpRSM8WFk134k7edO6xV-e-v02GFxi0yZMvwdY2nlV/pubchart?oid=1815073469&amp;format=interactive" width="600" height="371" seamless frameborder="0" scrolling="no"></object>
-**Figure8 illustrates Percentage of time Error and Ok states occurred. Updated automatically as new database records are added.**
+**Figure8 illustrates Percentage of time Error and Ok states occurred. This figure updates automatically as new database records are added.**
