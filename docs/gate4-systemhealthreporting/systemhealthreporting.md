@@ -107,7 +107,7 @@ Continually, the "ERROR" and "OK" received are added to the spreadsheet (lines 1
 **Figure4 shows the correctly added entries into spreadsheet- lines 14 and 15 show the correct system health messages and corresponding timestamps. Also shows the 'New System Status with respect to Time' figure that was updated with the addition of the "ERROR" and "OK". I left the old 'System Status with respect to Time' to demonstrate how the new data entries changed the visual automatically.**
 
 ### Alpha Release Results
-This section contains three subsection that demonstrate the results of this Alpha Release. 
+This section contains three subsection I'd like to demonstrate as key results/features/milestones from the Alpha Release. 
 
 ### 1) Raw Data Processed at the Basestation
 <object data="https://docs.google.com/document/d/e/2PACX-1vS3oPCumTwzkfEPce57R6XSrqXaXSzlxlnErdOtRytYMSZzNwuyC5B_lHdbQMxnkSNnNaLHhbkhO4Y_/pub?embedded=true"  width="576" height="356" seamless frameborder="0" scrolling="no"></object>
