@@ -1,8 +1,8 @@
 ### Page Index
 - <small><i>Table of contents</i></small>
     + [About Summary](#about-summary)
-    + [Background](#background--what-is-this-piece-about-and-why-)
-    + [Product Vision](#product-vision--what-is-this-piece-of-project-doing-)
+    + [Background](#background)
+    + [Product Vision](#product-vision)
     + [Planned Releases](#planned-releases)
     + [Application Architecture](#application-architecture)
     + [Configuration Management](#configuration-management)
@@ -12,12 +12,14 @@
 ### About Summary
 Alpha release of a system health reporting application, utilizing XBee transceivers and Raspberry Pi3 to create a mesh network that uses peer-to-peer communication- visualizing and presenting the data transmitted within the nework as information, on a web-based dashboard.
 
-### Background- What is this piece about and Why?
+### Background
+Addresses: What is this piece about and Why?
 At of the start of the winter semester, our team decided to split into two-subteams. One dealing with the pump device, and the other dealing with failure reporting and visualizing system health. I took ownership of the latter.
 
 In this part of the project, under the supervision of Professor.Franz Newland, I’m building a robust mechanism to collect health data of the automated BVM system. The end-goal is to share this data with the ambulance crew, and the base station personnel that monitor the health of the system.
 
-### Product Vision- What is this piece of project doing?
+### Product Vision
+Addresses: What is this piece of project doing?
 This product is:
 * Providing mechanism to report issues.
 * Providing a low cost, mesh based communication. Allowing others abumblances to support a crew that might have fault.
@@ -95,7 +97,7 @@ In this test consisted of two parts: 1)the "REMOTE" XBee can detect "BASESTATION
 ### Testing Sending and Receving data using Python3
 This test was performed to verify the correctness of the end-to-end functionality of this application. In it, system health data- "OK" or "ERROR" is sent from Ambulance XBee to the basestation XBee, through the mesh network. Once received, the basestation processes the raw data and sends it to the cloud- a new record added to the spreadsheet and the corresponding visual is updated. This test was successful.
  
-As seen below, on the left- the Ambulance XBee sends "OK" and "ERROR" to basestation. On the right, "OK" and "ERROR" are received, respectively.
+As seen below, on the left- the Ambulance XBee sends "OK" and "ERROR" to basestation. On the right, "OK" and "ERROR" are received, respectively.<br/>
 <img src="gate4_syshealth_images/im4.png" alt=" " class="inline" width="690" height="490"/>
  
 **Figure3 shows how the Python3 scripts are used to test sending and receiving of data.**
