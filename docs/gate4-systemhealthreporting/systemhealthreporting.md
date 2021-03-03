@@ -13,13 +13,13 @@
 Alpha release of a system health reporting application, utilizing XBee transceivers and Raspberry Pi3 to create a mesh network that uses peer-to-peer communication- visualizing and presenting the data transmitted within the nework as information, on a web-based dashboard.
 
 ### Background
-Addresses: What is this piece about and Why?
+Addresses: What is this piece about and Why?  
 At of the start of the winter semester, our team decided to split into two-subteams. One dealing with the pump device, and the other dealing with failure reporting and visualizing system health. I took ownership of the latter.
 
 In this part of the project, under the supervision of Professor.Franz Newland, I’m building a robust mechanism to collect health data of the automated BVM system. The end-goal is to share this data with the ambulance crew, and the base station personnel that monitor the health of the system.
 
 ### Product Vision
-Addresses: What is this piece of project doing?
+Addresses: What is this piece of project doing?  
 This product is:
 * Providing mechanism to report issues.
 * Providing a low cost, mesh based communication. Allowing others abumblances to support a crew that might have fault.
