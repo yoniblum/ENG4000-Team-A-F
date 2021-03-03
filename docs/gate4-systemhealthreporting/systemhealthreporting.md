@@ -13,9 +13,9 @@ Alpha release of a system health reporting application, utilizing XBee transceiv
 
 ### Background
 Addresses: What is this project about and Why?  
-At of the start of the winter semester, our team decided to split into two-subteams. One dealing with the pump device, and the other dealing with failure reporting and visualizing system health. I took ownership of the latter.
+At of the start of the winter semester, our team decided to split into two-subteams. One dealing with the pump device, and the other dealing with failure reporting and visualizing system health. I took ownership of the latter. (More information about our project can be found [**here**](https://drive.google.com/file/d/1fbR2aad2eUqU_aILc2vjHCjWiD7Ffg1f/view?usp=sharing).)
 
-In this part of the project, under the supervision of Professor.Franz Newland, I’m building a robust mechanism to collect health data of the automated BVM system. The end-goal is to share this data with the ambulance crew, and the base station personnel that monitor the health of the system.
+In this part of the project, under the supervision of Professor.Franz Newland, I’m building a robust mechanism to collect health data of the automated BVM system. The end-goal is to share this data with the ambulance crew, and the base station personnel that monitor the health of the system.  
 
 ### Product Vision
 Addresses: What is it doing?  
@@ -118,7 +118,7 @@ Using Google Cloud APIs, I process then send data to generic database in the clo
 **Figure6 shows the final build of the Alpha Release- data collected, processed and stored into a generic data-store on the Cloud. This spreadsheet is live. Please feel to scroll :)**
 
 ### 3) Data Presented Real-time
-Building on top of result #2 above, I am able to embed indvidual visuals (that update realtime) into a webpage. This feature is key because it will be used in the creation of a more complex, but simple-to-use website.
+Building on top of result #2 above, I am able to embed individual visuals (that update realtime) into a webpage. This feature is key because it will be used in the creation of a more complex, but simple-to-use website.
 
 <object data="https://docs.google.com/spreadsheets/d/e/2PACX-1vTOtlUA6_ut3XFsuj0FlkWg8S-ZV8Y1agQ2JxbpRSM8WFk134k7edO6xV-e-v02GFxi0yZMvwdY2nlV/pubchart?oid=2105202285&amp;format=interactive" width="576" height="356" seamless frameborder="0" scrolling="no"></object>
 **Figure7 illustrates the System Status with respect to Time. This figure updates automatically as new database records are added.**
