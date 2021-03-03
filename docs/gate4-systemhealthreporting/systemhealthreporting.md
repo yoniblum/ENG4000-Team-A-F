@@ -1,10 +1,13 @@
 ### Page Index
 - <small><i>Table of contents</i></small>
-    + [About](#about)
-    + [Architecture](#application-architecture)
+    + [About Summary](#about-summary)
+    + [Background](#background--what-is-this-piece-about-and-why-)
+    + [Product Vision](#product-vision--what-is-this-piece-of-project-doing-)
+    + [Planned Releases](#planned-releases)
+    + [Application Architecture](#application-architecture)
     + [Configuration Management](#configuration-management)
     + [Testing](#testing)
-    + [Appendix](#appendix)
+    + [Alpha Release Results](#alpha-release-results)
 
 ### About Summary
 Alpha release of a system health reporting application, utilizing XBee transceivers and Raspberry Pi3 to create a mesh network that uses peer-to-peer communication- visualizing and presenting the data transmitted within the nework as information, on a web-based dashboard.
@@ -37,7 +40,7 @@ Final Release- April 12th.
 ### Configuration Management
 In this project, a Raspberry Pi 3 B+ and Dell Optiplex 7010 desktop are used as a the "ambulance" and "basestation", respectively. The key is transmission mode of the XBee transiver, to which the Pi or PC is connected too. Below I detail the hardware and software configuration of the Pi and the PC.
 
-### Hardware
+### Hardware Configurations
 ### Raspberry Pi 3 B+
 <img src="gate4_syshealth_images/im5.png" alt=" " class="inline" width="400" height="400"/><br/>
 Configuration(s):<br/>
@@ -70,7 +73,7 @@ XBee Connection Port: /dev/ttyUSB0<br/>
 XBee Baud Rate: 115200<br/>
 XBee MAC address: 0013A2004125A5B8<br/>
 
-### Software 
+### Software Configurations
 ### Raspberry Pi 3 B+
 <img src="gate4_syshealth_images/im8.png" alt=" " class="inline"/>
 
@@ -80,17 +83,29 @@ XBee MAC address: 0013A2004125A5B8<br/>
 As of the Alpha release, software configurations are primarily minimal. However, towards the Beta release, configuration files will be created that contain code-based configurations in a single space- modulated away from data transmission source code. 
 
 ### Testing
+For the Alpha release, I performed two types of tests that are described below. One that tests data transmission through the created mesh network, and the other that tests the transmission of system health data from Ambulance XBee to Basestation XBee- the data is processed, sent to the cloud and then visualized on a dashboard.
+
 ### Testing the Mesh Network using XCTU
-<img src="gate4_syshealth_images/im10.png" alt=" " class="inline" width="600" height="400"/>
+In this test consisted of two parts: 1)the "REMOTE" XBee can detect "BASESTATION XBEE", and 2) messages can be sent from "BASESTATION" XBee and properly received on "REMOTE" XBee. Tests for parts succeeded as seen in image below.
+<img src="gate4_syshealth_images/im10.png" alt=" " class="inline" width="600" height="400"/><br/>
+
+**Figure2 shows how XCTU is used to detect that the "Remote" Ambulance XBee and "Basestation" XBee are on the same network. Also, using XCTU data is sent- "Hello XBee" ASCII text from Basestation to Remote XBee, in this case.**
+
 
 ### Testing Sending and Receving data using Python3
-As of this Alpha release, a manual testing strategy is used. A Python3 script written on the sender side, and receiver side to send and receive data.
-
+This test was performed to verify the correctness of the end-to-end functionality of this application. In it, system health data- "OK" or "ERROR" is sent from Ambulance XBee to the basestation XBee, through the mesh network. Once received, the basestation processes the raw data and sends it to the cloud- a new record added to the spreadsheet and the corresponding visual is updated. This test was successful.
+ 
+As seen below, on the left- the Ambulance XBee sends "OK" and "ERROR" to basestation. On the right, "OK" and "ERROR" are received, respectively.
 <img src="gate4_syshealth_images/im4.png" alt=" " class="inline" width="690" height="490"/>
+ 
+**Figure3 shows how the Python3 scripts are used to test sending and receiving of data.**
+ 
+Continually, the "OK" and "ERROR" received are added to the spreadsheet below with corresponding time stamp. Note here: the visuals are update automatically as new system health data is added.
+<img src="gate4_syshealth_images/im11.png" alt=" " class="inline"/>
+ 
+**Figure4 shows the correctly added entries into spreadsheet- lines 14 and 15 show the correct system health messages and corresponding timestamps. Also shows the 'New System Status with respect to Time' figure that was updated with the addition of the "OK" and "ERROR". I left the old 'System Status with respect to Time' to demonstrate how the new data entries changed the visual automatically.**
 
-**Figure4 shows how the Python3 scripts are used to test sending and receiving of data.**
-
-### Results
+### Alpha Release Results
 This section contains three subsection that demonstrate the results of this Alpha Release. 
 
 ### 1) Raw Data Processed at the Basestation
@@ -98,11 +113,12 @@ This section contains three subsection that demonstrate the results of this Alph
 **Figure5 shows the first build- version 1.0 where instead of generic database, a .txt file was used to store messages.**
 
 ### 2) Processed Data Visualized Real-time
+This is a live spreadsheet that updates realtime as new system health data is sent from the Ambulance XBee to the basestation XBee.
 <object data="https://docs.google.com/spreadsheets/d/e/2PACX-1vTOtlUA6_ut3XFsuj0FlkWg8S-ZV8Y1agQ2JxbpRSM8WFk134k7edO6xV-e-v02GFxi0yZMvwdY2nlV/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1000" height="500" seamless frameborder="0"></object>
 **Figure6 shows the final build of the Alpha Release- data collected, processed and stored into a generic data-store on the Cloud. This spreadsheet is live. Please feel to scroll :)**
 
 ### 3) Data Presented Real-time
-These two figures illustrate how the data collected can be visualized, and then presented on a website. This feature to embed visualizations will be used in the Beta release for better presentation of information.
+These two figures illustrate how the data collected can be visualized, and then presented on a website. This feature to embed visualizations will be used in the Beta release for better presentation of information. They are interactive, and live i.e. update real-time as new database records are added.
 
 <object data="https://docs.google.com/spreadsheets/d/e/2PACX-1vTOtlUA6_ut3XFsuj0FlkWg8S-ZV8Y1agQ2JxbpRSM8WFk134k7edO6xV-e-v02GFxi0yZMvwdY2nlV/pubchart?oid=2105202285&amp;format=interactive" width="576" height="356" seamless frameborder="0" scrolling="no"></object>
 **Figure7 illustrates the System Status with respect to Time. This figure updates automatically as new database records are added.**
