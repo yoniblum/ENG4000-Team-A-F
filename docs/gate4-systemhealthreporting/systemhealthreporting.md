@@ -28,7 +28,7 @@ This product is:
 At the moment there is no automated reporting of device failures in an Ambulance operating in Gujarat, India. Thus, there is a need for automated failure reporting for mobile medical devices, used in various medical fields.
 
 In essence, through this solution, the ambulance crew does not need to manually report/call-in a failure to the basestation personael.  
-Furthermore, it allows one ambulance crew to support another, incase one experiences fault. The value is: if a automated BVM fails then a  higher load is placed on the crew, on top of pressure of caring for patients. This solutions minimizes the high workload placed on the ambulance crew- allowing them to focus on their patient. 
+Furthermore, it allows one ambulance crew to support another, incase one experiences fault. The value is: if a automated BVM fails then a  higher load is placed on the crew, on top of pressure of caring for patients. This solutions minimizes the high workload placed on the ambulance crew- allowing them to focus on their patients while providing a robust mechanism for reporting system failure. 
 
 ### Planned Releases
 Beta Release- March 29th.
