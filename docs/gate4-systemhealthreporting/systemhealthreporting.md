@@ -71,19 +71,19 @@ XBee Baud Rate: 115200<br/>
 XBee MAC address: 0013A2004125A5B8<br/>
 
 ### Software 
-###### Raspberry Pi 3 B+
-<img src="gate4_syshealth_images/im8.png" alt=" " class="inline" width="400" height="400"/>
+### Raspberry Pi 3 B+
+<img src="gate4_syshealth_images/im8.png" alt=" " class="inline"/>
 
-###### Basetation PC
-<img src="gate4_syshealth_images/im9.png" alt=" " class="inline" width="400" height="400"/>
+### Basetation PC
+<img src="gate4_syshealth_images/im9.png" alt=" " class="inline"/>
 
 As of the Alpha release, software configurations are primarily minimal. However, towards the Beta release, configuration files will be created that contain code-based configurations in a single space- modulated away from data transmission source code. 
 
 ### Testing
-###### Testing the Mesh Network using XCTU
+### Testing the Mesh Network using XCTU
 <img src="gate4_syshealth_images/im10.png" alt=" " class="inline" width="400" height="400"/>
 
-###### Testing Sending and Receving data using Python3
+### Testing Sending and Receving data using Python3
 As of this Alpha release, a manual testing strategy is used. A Python3 script written on the sender side, and receiver side to send and receive data.
 
 <img src="gate4_syshealth_images/im4.png" alt=" " class="inline" width="690" height="490"/>
