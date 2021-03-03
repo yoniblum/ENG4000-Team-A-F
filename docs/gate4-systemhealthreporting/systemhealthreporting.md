@@ -9,7 +9,7 @@
     + [Alpha Release Results](#alpha-release-results)
 
 ### About
-Alpha release of a system health reporting application, utilizing XBee transceivers and Raspberry Pi3 to create a mesh network that uses peer-to-peer communication- visualizing and presenting the data transmitted within the nework as information, on a web-based dashboard.
+Alpha release of a system health reporting application, utilizing XBee transceivers and Raspberry Pi3 to create a mesh network that uses peer-to-peer communication- visualizing and presenting the data transmitted within the nework as information, on a real-time web-based dashboard.
 
 ### Background
 Addresses: What is this project about and Why?  
