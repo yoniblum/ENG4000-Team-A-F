@@ -81,7 +81,7 @@ XBee MAC address: 0013A2004125A5B8<br/>
 ### Basetation PC
 <img src="gate4_syshealth_images/im9.png" alt=" " class="inline"/>
 
-As of the Alpha release, software configurations are primarily minimal. However, towards the Beta release, configuration files will be created that contain code-based configurations in a single space- modulated away from data transmission source code. 
+As of the Alpha release, software configurations are primarily minimal. However, towards the Beta release, configuration files will be created that contain code-based configurations in a single space- modulated away from data transmission source code. **Note:** python3 source code i.e. the scripts will be available publically in future releases.
 
 ### Testing
 For the Alpha release, I performed two types of tests that are described below. One that tests data transmission through the created mesh network, and the other that tests the transmission of system health data from Ambulance XBee to Basestation XBee- the data is processed, sent to the cloud and then visualized on a dashboard.
