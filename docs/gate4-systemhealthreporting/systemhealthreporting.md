@@ -49,12 +49,14 @@ Manufacturer and Model: CanaKit, Raspberry Pi 3 Model B+<br/>
 Processor: Broadcom BCM2837B0, Cortex-A53 (ARMv8) 64-bit SoC @ 1.4GHz<br/>
 Python version: Python 3.6.9<br/>
 Memory: 1GB LPDDR2 SDRAM<br/>
+PC Peripherals: 2.4Ghz "Ultra" Wifi dongle<br/>
+XBee Model: XBee Pro 538<br/>
 XBee Mode: Router<br/>
 XBee Transport Mode: API 2<br/>
 XBee Connection Port: /dev/ttyS0<br/>
 XBee Baud Rate: 9600<br/>
 XBee MAC address: 0013A2004125A5B9<br/>
-Peripherals: 2.4Ghz "Ultra" Wifi dongle<br/>
+XCTU Version: 6.5.5<br/>
 
 Also, the below figure shows how the XBee is connected to the Raspberry Pi 3 B+:<br/>
 <img src="gate4_syshealth_images/im7.png" alt=" " class="inline" width="400" height="400"/><br/>
@@ -67,11 +69,13 @@ Manufacturer and Model: Dell, Optiplex 7010<br/>
 Processor: 2.3 GHz Dual-Core Intel Core i5<br/>
 Python version: Python 3.6.9<br/>
 Memory: 8.0 GB<br/>
+XBee Model: XBee Pro 538<br/>
 XBee Mode: Controller<br/>
 XBee Transport Mode: API 2<br/>
 XBee Connection Port: /dev/ttyUSB0<br/>
 XBee Baud Rate: 115200<br/>
 XBee MAC address: 0013A2004125A5B8<br/>
+XCTU Version: 6.5.5<br/>
 
 ### Software Configurations
 ### Raspberry Pi 3 B+
@@ -86,7 +90,7 @@ As of the Alpha release, software configurations are primarily minimal. However,
 For the Alpha release, I performed two types of tests that are described below. One that tests data transmission through the created mesh network, and the other that tests the transmission of system health data from Ambulance XBee to Basestation XBee- the data is processed, sent to the cloud and then visualized on a dashboard.
 
 ### Testing the Mesh Network using XCTU
-In this test consisted of two parts: 1)the "REMOTE" XBee can detect "BASESTATION" XBee, and 2) messages can be sent from "BASESTATION" XBee and properly received on "REMOTE" XBee. Tests for parts succeeded as seen in image below.
+XBee Configuration & Test Utility (XCTU) is a configuration Platform for XBee/RF solutions (such as the XBees used in this project) manufactured by Digi. In this test consisted of two parts: 1)the "REMOTE" XBee can detect "BASESTATION" XBee, and 2) messages can be sent from "BASESTATION" XBee and properly received on "REMOTE" XBee. Tests for parts succeeded as seen in image below.
 <img src="gate4_syshealth_images/im10.png" alt=" " class="inline" width="600" height="400"/><br/>
 
 **Figure2 shows how XCTU is used to detect that the "Remote" Ambulance XBee and "Basestation" XBee are on the same network. Also, using XCTU data is sent- "Hello XBee" ASCII text from Basestation to Remote XBee, in this case.**
