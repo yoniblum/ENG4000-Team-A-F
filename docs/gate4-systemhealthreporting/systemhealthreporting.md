@@ -87,7 +87,7 @@ As of the Alpha release, software configurations are primarily minimal. However,
 For the Alpha release, I performed two types of tests that are described below. One that tests data transmission through the created mesh network, and the other that tests the transmission of system health data from Ambulance XBee to Basestation XBee- the data is processed, sent to the cloud and then visualized on a dashboard.
 
 ### Testing the Mesh Network using XCTU
-In this test consisted of two parts: 1)the "REMOTE" XBee can detect "BASESTATION XBEE", and 2) messages can be sent from "BASESTATION" XBee and properly received on "REMOTE" XBee. Tests for parts succeeded as seen in image below.
+In this test consisted of two parts: 1)the "REMOTE" XBee can detect "BASESTATION" XBee, and 2) messages can be sent from "BASESTATION" XBee and properly received on "REMOTE" XBee. Tests for parts succeeded as seen in image below.
 <img src="gate4_syshealth_images/im10.png" alt=" " class="inline" width="600" height="400"/><br/>
 
 **Figure2 shows how XCTU is used to detect that the "Remote" Ambulance XBee and "Basestation" XBee are on the same network. Also, using XCTU data is sent- "Hello XBee" ASCII text from Basestation to Remote XBee, in this case.**
