@@ -27,8 +27,7 @@ This product is:
 
 At the moment there is no automated reporting of device failures in an Ambulance operating in Gujarat, India. Thus, there is a need for automated failure reporting for mobile medical devices, used in various medical fields.
 
-In essence, through this solution, the ambulance crew does not need to manually report/call-in a failure to the basestation personnel.  
-Furthermore, it allows one ambulance crew to support another, incase one experiences fault. The value is: if a automated BVM unit fails then a higher load is placed on the crew, on top of pressure of caring for patients. This solution minimizes the high workload placed on the ambulance crew, allowing them to focus on their patients while providing a robust mechanism for reporting system failure. Furthermore, system health data that is collected is visualized- leveraged to allow base station personnel to formulate a meaningful strategy to handle system failure.
+In essence, through this solution, the ambulance crew does not need to manually report/call-in a failure to the basestation personnel. Furthermore, it allows one ambulance crew to support another, incase one experiences fault. The value is: if a automated BVM unit fails then a higher load is placed on the crew, on top of pressure of caring for patients. This solution minimizes the high workload placed on the ambulance crew, allowing them to focus on their patients while providing a robust mechanism for reporting system failure. Furthermore, system health data that is collected realtime, is visualized realtime i.e. is leveraged to allow base station personnel to formulate a meaningful strategy to handle system failure.
 
 ### Planned Releases
 Beta Release- March 29th.  
@@ -97,15 +96,15 @@ In this test consisted of two parts: 1)the "REMOTE" XBee can detect "BASESTATION
 ### Testing Sending and Receving data using Python3
 This test was performed to verify the correctness of the end-to-end functionality of this application. In it, system health data- "OK" or "ERROR" is sent from Ambulance XBee to the basestation XBee, through the mesh network. Once received, the basestation processes the raw data and sends it to the cloud- a new record added to the spreadsheet and the corresponding visual is updated. This test was successful.
  
-As seen below, on the left- the Ambulance XBee sends "OK" and "ERROR" to basestation. On the right, "OK" and "ERROR" are received, respectively.<br/>
+As seen below, on the left- the Ambulance XBee sends "ERROR" and "OK" to basestation. On the right, "ERROR" and "OK" are received, respectively.<br/>
 <img src="gate4_syshealth_images/im4.png" alt=" " class="inline" width="690" height="490"/>
  
 **Figure3 shows how the Python3 scripts are used to test sending and receiving of data.**
  
-Continually, the "OK" and "ERROR" received are added to the spreadsheet below with corresponding time stamp. Note here: the visuals are update automatically as new system health data is added.
+Continually, the "ERROR" and "OK" received are added to the spreadsheet (lines 14 and 15) below with corresponding time stamp. Note here: the visuals are update automatically as new system health data is added.
 <img src="gate4_syshealth_images/im11.png" alt=" " class="inline"/>
  
-**Figure4 shows the correctly added entries into spreadsheet- lines 14 and 15 show the correct system health messages and corresponding timestamps. Also shows the 'New System Status with respect to Time' figure that was updated with the addition of the "OK" and "ERROR". I left the old 'System Status with respect to Time' to demonstrate how the new data entries changed the visual automatically.**
+**Figure4 shows the correctly added entries into spreadsheet- lines 14 and 15 show the correct system health messages and corresponding timestamps. Also shows the 'New System Status with respect to Time' figure that was updated with the addition of the "ERROR" and "OK". I left the old 'System Status with respect to Time' to demonstrate how the new data entries changed the visual automatically.**
 
 ### Alpha Release Results
 This section contains three subsection that demonstrate the results of this Alpha Release. 
