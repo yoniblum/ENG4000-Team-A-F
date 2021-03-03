@@ -38,7 +38,7 @@ Final Release- April 12th.
 In this project, a Raspberry Pi 3 B+ and Dell Optiplex 7010 desktop are used as a the "ambulance" and "basestation", respectively. The key is transmission mode of the XBee transiver, to which the Pi or PC is connected too. Below I detail the hardware and software configuration of the Pi and the PC.
 
 ### Hardware
-###### Raspberry Pi 3 B+
+### Raspberry Pi 3 B+
 <img src="gate4_syshealth_images/im5.png" alt=" " class="inline" width="400" height="400"/><br/>
 Configuration(s):<br/>
 Operating System:  Raspberry Pi OS 32-bit (Released: 2021-01-11, 1.1GB)<br/>
@@ -56,7 +56,7 @@ Peripherals: 2.4Ghz "Ultra" Wifi dongle<br/>
 Also, the below figure shows how the XBee is connected to the Raspberry Pi 3 B+:<br/>
 <img src="gate4_syshealth_images/im7.png" alt=" " class="inline" width="400" height="400"/><br/>
 
-###### Basetation PC
+### Basetation PC
 <img src="gate4_syshealth_images/im6.png" alt=" " class="inline" width="400" height="400"/><br/>
 Configuration(s):<br/>
 Operating System:  Lubuntu 18.04<br/>
@@ -81,7 +81,7 @@ As of the Alpha release, software configurations are primarily minimal. However,
 
 ### Testing
 ### Testing the Mesh Network using XCTU
-<img src="gate4_syshealth_images/im10.png" alt=" " class="inline" width="400" height="400"/>
+<img src="gate4_syshealth_images/im10.png" alt=" " class="inline" width="600" height="400"/>
 
 ### Testing Sending and Receving data using Python3
 As of this Alpha release, a manual testing strategy is used. A Python3 script written on the sender side, and receiver side to send and receive data.
