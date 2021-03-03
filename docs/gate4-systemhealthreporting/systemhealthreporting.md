@@ -3,7 +3,6 @@
     + [About](#about)
     + [Background](#background)
     + [Product Vision](#product-vision)
-    + [Planned Releases](#planned-releases)
     + [Application Architecture](#application-architecture)
     + [Configuration Management](#configuration-management)
     + [Testing](#testing)
@@ -34,7 +33,7 @@ Beta Release- March 29th.
 Final Release- April 12th.
 
 ### Application Architecture
-<img src="gate4_syshealth_images/im1.png" alt=" " class="inline" width="990" height="600"/>
+<img src="gate4_syshealth_images/im1.png" alt=" " class="inline"/>
 
 **Figure1 shows the architecture of the system health reporting application as of it's Alpha release.**
 
