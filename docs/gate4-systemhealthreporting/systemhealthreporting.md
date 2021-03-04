@@ -56,7 +56,8 @@ XBee Transport Mode: API 2<br/>
 XBee Connection Port: /dev/ttyS0<br/>
 XBee Baud Rate: 9600<br/>
 XBee MAC address: 0013A2004125A5B9<br/>
-XCTU Version: 6.5.5<br/>
+
+**Note**: XCTU was not installed on the Pi. This was because of software architecture constraints where XCTU executable code cannot run on a ARM based processor. <br/>
 
 Also, the below figure shows how the XBee is connected to the Raspberry Pi 3 B+:<br/>
 <img src="gate4_syshealth_images/im7.png" alt=" " class="inline" width="400" height="400"/><br/>
