@@ -3,6 +3,7 @@
     + [About](#about)
     + [Background](#background)
     + [Product Vision](#product-vision)
+    + [Planned Releases](#planned-releases)
     + [Application Architecture](#application-architecture)
     + [Configuration Management](#configuration-management)
     + [Testing](#testing)
