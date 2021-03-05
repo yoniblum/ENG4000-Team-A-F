@@ -29,8 +29,20 @@ At the moment there is no automated reporting of device failures in an Ambulance
 In essence, through this solution, the ambulance crew does not need to manually report/call-in a failure to the basestation personnel. Furthermore, it allows one ambulance crew to support another, incase one experiences fault. The value is: if a automated BVM unit fails then a higher load is placed on the crew, on top of pressure of caring for patients. This solution minimizes the high workload placed on the ambulance crew, allowing them to focus on their patients while providing a robust mechanism for reporting system failure. Furthermore, system health data that is collected realtime, is visualized realtime i.e. is leveraged to allow base station personnel to formulate a meaningful strategy to handle system failure (for example, re-route other active ambulances on the mesh network for support, incase one ambulance is experiencing fault with it's BVM).
 
 ### Planned Releases
+<img src="gate4_syshealth_images/im12.png" alt=" " class="inline" width="400" height="400"/><br/>
+**Figure1 shows the transition system model of this application. It attempts to visualize operation modes of various components of this system. Though not correct in principle, I use the red (arrow) edge to identify a constraint, for my convinience.**
+
 Beta Release- March 29th.  
-Final Release- April 12th.
+Key Features:  
+-Read in sensor data realtime. (using heartbeat technique)  
+-Improve visulization and presentation. (deploying visuals on a stand-alone, publicly accessible website)    
+-Use configuration files as opposed to hard-coded configurations.  
+
+Final Release- April 12th.  
+Key Features:  
+-Demo the mesh.  
+-Implements full visualization.  
+-Addresses failures modes. (includes reboot functionality)  
 
 ### Application Architecture
 <img src="gate4_syshealth_images/im1.png" alt=" " class="inline"/>
