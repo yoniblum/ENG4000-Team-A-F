@@ -118,12 +118,12 @@ This section contains three subsection I'd like to demonstrate as key results/fe
 <object data="https://docs.google.com/document/d/e/2PACX-1vS3oPCumTwzkfEPce57R6XSrqXaXSzlxlnErdOtRytYMSZzNwuyC5B_lHdbQMxnkSNnNaLHhbkhO4Y_/pub?embedded=true"  width="576" height="356" seamless frameborder="0" scrolling="no"></object>
 **Figure5 shows the first build- version 1.0 where instead of generic database, a .txt file was used to store messages.**
 
-### 2) Processed Data Visualized Real-time
-Using Google Cloud APIs, I process then send data to generic database in the cloud. This spreadsheet below is that database. It is a live spreadsheet that updates realtime as new system health data is sent from the Ambulance XBee to the basestation XBee.
+### 2) The Dashboard
+Using Google Cloud APIs, I process then send data to generic database in the cloud. This spreadsheet below is that database. Using google spreadsheets I'm able to perform analytics and create real-time dashboard. In essence, this is a live spreadsheet that updates realtime as new system health data is sent from the Ambulance XBee to the basestation XBee.
 <object data="https://docs.google.com/spreadsheets/d/e/2PACX-1vTOtlUA6_ut3XFsuj0FlkWg8S-ZV8Y1agQ2JxbpRSM8WFk134k7edO6xV-e-v02GFxi0yZMvwdY2nlV/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1000" height="500" seamless frameborder="0"></object>
 **Figure6 shows the final build of the Alpha Release- data collected, processed and stored into a generic data-store on the Cloud. This spreadsheet is live. Please feel to scroll :)**
 
-### 3) Data Presented Real-time
+### 3) Individual Visuals
 Building on top of result #2 above, I am able to embed individual visuals (that update realtime) into a webpage. This feature is key because it will be used in the creation of a more complex, but simple-to-use website.
 
 <object data="https://docs.google.com/spreadsheets/d/e/2PACX-1vTOtlUA6_ut3XFsuj0FlkWg8S-ZV8Y1agQ2JxbpRSM8WFk134k7edO6xV-e-v02GFxi0yZMvwdY2nlV/pubchart?oid=2105202285&amp;format=interactive" width="576" height="356" seamless frameborder="0" scrolling="no"></object>
