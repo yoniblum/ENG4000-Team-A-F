@@ -3,11 +3,11 @@
     + [About](#about)
     + [Background](#background)
     + [Product Vision](#product-vision)
-    + [Planned Releases](#planned-releases)
     + [Application Architecture](#application-architecture)
     + [Configuration Management](#configuration-management)
     + [Testing](#testing)
     + [Alpha Release Results](#alpha-release-results)
+    + [Planned Releases](#planned-releases)
 
 ### About
 Alpha release of a system health reporting application, utilizing XBee transceivers and Raspberry Pi3 to create a mesh network that uses peer-to-peer communication- visualizing and presenting the data transmitted within the nework as information, on a real-time web-based dashboard.
@@ -28,22 +28,6 @@ This product is:
 At the moment there is no automated reporting of device failures in an Ambulance operating in Gujarat, India. Thus, there is a need for automated failure reporting for mobile medical devices, used in various medical fields.
 
 In essence, through this solution, the ambulance crew does not need to manually report/call-in a failure to the basestation personnel. Furthermore, it allows one ambulance crew to support another, incase one experiences fault. The value is: if a automated BVM unit fails then a higher load is placed on the crew, on top of pressure of caring for patients. This solution minimizes the high workload placed on the ambulance crew, allowing them to focus on their patients while providing a robust mechanism for reporting system failure. Furthermore, system health data that is collected realtime, is visualized realtime i.e. is leveraged to allow base station personnel to formulate a meaningful strategy to handle system failure (for example, re-route other active ambulances on the mesh network for support, incase one ambulance is experiencing fault with it's BVM).
-
-### Planned Releases
-<img src="gate4_syshealth_images/im12.png" alt=" " class="inline"/><br/>
-**Figure1 shows the transition system model of this application. It attempts to visualize operation modes of various components of this system. Though not correct in principle, I use the red (arrow) edge to identify a constraint, for my convinience.**
-
-Beta Release- March 29th.  
-Key Features:  
--Read in sensor data realtime. (using heartbeat technique)  
--Improve visulization and presentation. (deploying visuals on a stand-alone, publicly accessible website)    
--Use configuration files as opposed to hard-coded configurations.  
-
-Final Release- April 12th.  
-Key Features:  
--Demo the mesh.  
--Implements full visualization.  
--Addresses failures modes. (includes reboot functionality)  
 
 ### Application Architecture
 <img src="gate4_syshealth_images/im1.png" alt=" " class="inline"/>
@@ -147,3 +131,19 @@ Building on top of result #2 above, I am able to embed individual visuals (that 
 
 <object data="https://docs.google.com/spreadsheets/d/e/2PACX-1vTOtlUA6_ut3XFsuj0FlkWg8S-ZV8Y1agQ2JxbpRSM8WFk134k7edO6xV-e-v02GFxi0yZMvwdY2nlV/pubchart?oid=1815073469&amp;format=interactive" width="600" height="371" seamless frameborder="0" scrolling="no"></object>
 **Figure9 illustrates Percentage of time Error and Ok states occurred. This figure updates automatically as new database records are added.**
+
+### Planned Releases
+<img src="gate4_syshealth_images/im12.png" alt=" " class="inline"/><br/>
+**Figure1 shows the transition system model of this application. It attempts to visualize operation modes of various components of this system. Though not correct in principle, I use the red (arrow) edge to identify a constraint, for my convinience.**
+
+Beta Release- March 29th.  
+Key Features:  
+-Read in sensor data realtime. (using heartbeat technique)  
+-Improve visulization and presentation. (deploying visuals on a stand-alone, publicly accessible website)    
+-Use configuration files as opposed to hard-coded configurations.  
+
+Final Release- April 12th.  
+Key Features:  
+-Demo the mesh.  
+-Implements full visualization.  
+-Addresses failures modes. (includes reboot functionality)  
