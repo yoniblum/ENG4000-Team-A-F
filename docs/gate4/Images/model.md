@@ -22,3 +22,7 @@ The pneumatic cylinder is attached using variable length wires to the 5-2 valve 
 
 <img src="3dModelSystem/unnamed.png" alt=" " class="inline"/>
 
+
+[3D model PDF](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/3dModelSystem/Assem.pdf)
+Once you open the 3d PDF file, you can open it using Adobe Reader. Once you open it, you will have to enable the feature by clicking on options-->trust this document always. Give  it some time and it should be seen!
+
