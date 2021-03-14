@@ -1,7 +1,5 @@
 
-**Update on Roadmap: ** 
-
-
+**Update on Roadmap: ** \
 While in previous parts of our project we strictly adhered to the agile process, for our Alpha release, we pivoted to a more traditional waterfall style approach since we were determining which hardware we would be using in our final product: a process that is harder to do in an iterative manner. 
 
 To narrow down our scope as to what design path we should take, we did a deep-dive research into different pumping mechanisms again, figuring out the different  hardware components required for the automation, figuring out the microcontroller to use for each approach and trying to procure it if necessary and figure out the software control system for each approach.
@@ -13,4 +11,3 @@ We faced a number of challenges which slowed down our progress.  Firstly, commun
 Followed by the alpha release, we have approved a plan with the help of stakeholders for how we wish to release our Beta and final release. For the Beta release we will be physically implementing the design, and testing each component and the system as a whole. Once we receive all the required parts, we will assemble it by following the above schematic. We will dive back into our agile project management process in which we will be researching how to obtain 0V and 24V signals from raspberry pi for the control of the 5/2-valve solenoid, and which  compressor to purchase for our design. Once we have all the physical components and the answers to our research questions we will assemble our design and implement it such that our software and hardware requirements are met.
 
 For the Final Release, we will work on any unforeseen technical issues that were faced during the beta release, specified previously. We also plan on implementing a basic fault detection system to detect any loose connections between the components. 
-
