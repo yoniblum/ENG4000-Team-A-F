@@ -1,5 +1,5 @@
 
-** Update on Roadmap: ** 
+**Update on Roadmap: ** 
 
 
 While in previous parts of our project we strictly adhered to the agile process, for our Alpha release, we pivoted to a more traditional waterfall style approach since we were determining which hardware we would be using in our final product: a process that is harder to do in an iterative manner. 
