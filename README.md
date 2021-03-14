@@ -161,14 +161,14 @@ The following two videos outline our MVP:
 ### [System Health Reporting](docs/gate4-systemhealthreporting/systemhealthreporting.md)
 Shows the System Health Reporting portion of this project.
 
-### [System configuration and failure tacking](docs/gate4/sys_con_fail.md)
+### [System configuration and failure tracking](docs/gate4/sys_con_fail.md)
 Section focuses on the mechanisms used to configure components along with troubleshooting system failures. System issues in MVP
 
 
 ### [Alpha Design](docs/gate4/sys_con_fail.md)
 Section focuses on System issues with the MVP release and the resolution.
 
-### [Stalkholder Feedback](docs/gate4/sys_con_fail.md)
+### [Stakeholder Feedback](docs/gate4/sys_con_fail.md)
 Section focuses on feedback received by the stalkholders
 
 ### [Agile Process Update for the Alpha Release](docs/gate4/sys_con_fail.md)
