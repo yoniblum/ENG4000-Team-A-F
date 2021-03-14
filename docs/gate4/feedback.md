@@ -8,11 +8,11 @@ The qualitative requirements we set were that the design had to be:  \
 <ul> 
   <li>Non-intrusive size</li>
   <li>Portable</li>
-  <li>Light-weight</ul>
-  <li>Durable </ul>
-  <li>Modifiable</ul>
-  <li>Constructed with repairable and readily sourced parts</ul>
-  <li>Includes easily replicable code</ul>
+  <li>Light-weight</li>
+  <li>Durable </li>
+  <li>Modifiable</li>
+  <li>Constructed with repairable and readily sourced parts</li>
+  <li>Includes easily replicable code</li>
   <li>Cheap </li>
 </ul>
 Although our design was functional in that it pumped the bag at the desired rate, it could be improved to be** **lightweight, portable and have enough torque to pump the bag. It was imperative that the device be simple and intuitive, such that a medical practitioner could seamlessly transition from manual use of the BVM to automatic use of the BVM. This was not possible in our MVP design which had the BVM embedded into the system making it fixed and impossible to place it in an ambulance environment. In the tense situations the automated BVM is being designed for, there is too much at stake, to rely on a potentially stressed user to follow detailed and possibly complicated instructions. We would like to make a design that has as few fail points as possible.  
