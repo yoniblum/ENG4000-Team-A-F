@@ -1,5 +1,5 @@
 
-**System configuration and failure tracking is defined**
+**System Configuration And Failure Tracking**
 
 We are still waiting on some parts before implementing our design for the Beta release.
 Once we get the parts we will assemble the design step by step and ensure that each component is working as required.
