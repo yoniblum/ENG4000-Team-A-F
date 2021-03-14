@@ -1,5 +1,7 @@
 
 **Update on Roadmap: ** \
+
+
 While in previous parts of our project we strictly adhered to the agile process, for our Alpha release, we pivoted to a more traditional waterfall style approach since we were determining which hardware we would be using in our final product: a process that is harder to do in an iterative manner. 
 
 To narrow down our scope as to what design path we should take, we did a deep-dive research into different pumping mechanisms again, figuring out the different  hardware components required for the automation, figuring out the microcontroller to use for each approach and trying to procure it if necessary and figure out the software control system for each approach.
