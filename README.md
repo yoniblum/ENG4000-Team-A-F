@@ -156,7 +156,7 @@ The following two videos outline our MVP:
 ### [Contributions & ITP Mertric Report Reflections](docs/december_mvp/contributions.md)
 
 ***
-### Gate 4
+### Alpha Release
 
 ### [System Health Reporting](docs/gate4-systemhealthreporting/systemhealthreporting.md)
 Shows the System Health Reporting portion of this project.
