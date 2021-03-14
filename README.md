@@ -164,11 +164,11 @@ Shows the System Health Reporting portion of this project.
 ### [System configuration and failure tracking](docs/gate4/fail.md)
 Section focuses on the mechanisms used to configure components along with troubleshooting system failures. System issues in MVP
 
-### [Alpha Design](docs/gate4/sys_con_fail.md)
+### [Alpha Design](docs/gate4/Alpha.md)
 Section focuses on System issues with the MVP release and the resolution.
 
-### [Stakeholder Feedback](docs/gate4/sys_con_fail.md)
+### [Stakeholder Feedback](docs/gate4/feedback.md)
 Section focuses on feedback received by the stalkholders
 
-### [Final Product Road Map](docs/gate4/sys_con_fail.md)
+### [Final Product Roadmap](docs/gate4/roadmap.md)
 Section focuses on product release timeline for our alpha release
