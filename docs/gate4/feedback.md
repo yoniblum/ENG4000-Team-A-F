@@ -7,18 +7,12 @@ Upon submitting our minimum viable product we re-evaluated our product using the
 The qualitative requirements we set were that the design had to be:  \
 <li> 
   <ul>non-intrusive size</ul>
-
--portable
-
--light-weight
-
--durable
-
--modifiable 
-
--constructed with repairable and readily sourced parts
-
--includes easily replicable code
+  <ul>portable</ul>
+  <ul>light-weight</ul>
+  <ul>durable </ul>
+  <ul>modifiable</ul>
+  <ul>constructed with repairable and readily sourced parts</ul>
+  <ul>includes easily replicable code</ul>
 
 -cheap 
 </li>
