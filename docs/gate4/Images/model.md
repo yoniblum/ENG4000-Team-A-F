@@ -19,4 +19,3 @@
 
 <img src="3dModelSystem/unnamed.png" alt=" " class="inline"/>
 
-3dModelSystem/unnamed (1).png
