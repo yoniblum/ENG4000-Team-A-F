@@ -2,7 +2,7 @@
 
 <ul>
   
-  <img src="Images/Festo Design.png.PNG" alt=" " class="inline"/>
+  <img src="Images/Festo_Design.png" alt=" " class="inline"/>
   
   <li><b>Air Compressor:</b> Will be able to compress air upto 100psi and contain an inbuilt air reservoir such that the compressor does not run all the time, we recognize that they can be loud if kept running for long periods of time which could discomfort patients. The volume of the reservoir we can include for our POC will depend on our budget constraints for the time being.</li>
   
