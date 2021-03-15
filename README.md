@@ -168,7 +168,7 @@ Section focuses on the new pneumatic design and explains the functiong, relevanc
 Section focuses on the mechanisms used to identify and troubleshoot failure in configured components. 
 
 ### [Stakeholder Feedback](docs/gate4/feedback.md)
-Section focuses on feedback provided by various engineering and medical professionals includind stakeholders.
+Section focuses on feedback provided by various engineering and medical professionals including stakeholders.
 
 ### [Final Product Roadmap](docs/gate4/roadmap.md)
 Section focuses on product release timeline for Alpha and future releases.
