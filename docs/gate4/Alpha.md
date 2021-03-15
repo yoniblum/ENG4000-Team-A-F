@@ -15,6 +15,11 @@
 
   All of the pneumatic components will be connected together using tubings which may be color coated. We will show a video demonstration of the various connectors used to afford easy detachment of tubings when performing maintenance in our Beta Release.
   
+<ul>
+  
+    <img src="Images/3dModelSystem/Capture.JPG" alt=" " class="inline"/>
 
+  We plan on placing the air compressor, air prep unit and the solenoid valve together at a location that is yet to be determined based on where other medical equipment are situated in the ambulance and feasibility. These components will be placed inside of a casing, as can be seen in the figure above,  that is easily accessible incase maintenance or replacement is required. The positioning of the pneumatic cylinder shown above is to visualize its connection to the solenoid valve, in actuality the tubes connecting the two will be much longer (based on how far apart the two components are from one another).
+</ul>
 
 //https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/3dAmbuMan/pasted%20image%200.png
