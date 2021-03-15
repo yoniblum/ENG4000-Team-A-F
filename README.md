@@ -161,14 +161,14 @@ The following two videos outline our MVP:
 ### [System Health Reporting](docs/gate4-systemhealthreporting/systemhealthreporting.md)
 Shows the System Health Reporting portion of this project.
 
-### [System configuration and failure tracking](docs/gate4/fail.md)
-Section focuses on the mechanisms used to configure components along with troubleshooting system failures. System issues in MVP
-
 ### [Alpha Design](docs/gate4/Alpha.md)
-Section focuses on System issues with the MVP release and the resolution.
+Section focuses on the new pneumatic design and explains the functiong, relevance and configuration of each component.
+
+### [System configuration and failure tracking](docs/gate4/fail.md)
+Section focuses on the mechanisms used to identify and troubleshoot failure in configured components. 
 
 ### [Stakeholder Feedback](docs/gate4/feedback.md)
-Section focuses on feedback received by the stalkholders
+Section focuses on feedback provided by various engineering and medical professionals includind stakeholders.
 
 ### [Final Product Roadmap](docs/gate4/roadmap.md)
-Section focuses on product release timeline for our alpha release
+Section focuses on product release timeline for Alpha and future releases.
