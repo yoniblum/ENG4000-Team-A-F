@@ -12,10 +12,10 @@
   
   <li><b>Pneumatic Cylinder:</b> Connects to ports 2 and 4 of the solenoid valve and based on the air flow the piston in the cylinder either releases or retracts. This cylinder has a stroke of 100mm and is about 250mm in length. There will be 2 sensors mounted on the cylinder that check whether the piston is being deployed and retracted fully within a certain time frame, if not we can flag that as an error scenario which can then be troubleshooted to determine where the fault lies within the system.</li>
 
-<br>
+</br>
   All of the pneumatic components will be connected together using tubings which may be color coated. We will show a video demonstration of the various connectors used to afford easy detachment of tubings when performing maintenance in our Beta Release.
   
-<br>
+</br>
 <img src="Images/3dModelSystem/Capture.JPG" alt=" " class="inline"/>
 
 <br>
