@@ -13,7 +13,7 @@
     + [Gate 1](#gate-1)
     + [Gate 2](#gate-2--sprint-process)
     + [December MVP](#december-mvp)
-    + [Gate 4](#gate-4)
+    + [Alpha Release](#alpha-release)
     
     
 ### Team Members
