@@ -15,11 +15,11 @@
 <br>
   All of the pneumatic components will be connected together using tubings which may be color coated. We will show a video demonstration of the various connectors used to afford easy detachment of tubings when performing maintenance in our Beta Release.
   
-<br>
+<br> </br>
 <img src="Images/3dModelSystem/Capture.JPG" alt=" " class="inline"/>
-<br>
+<br> </br>
   We plan on placing the air compressor, air prep unit and the solenoid valve together at a location that is yet to be determined based on where other medical equipment are situated in the ambulance and feasibility. These components will be placed inside of a casing, as can be seen in the figure above,  that is easily accessible incase maintenance or replacement is required. The positioning of the pneumatic cylinder shown above is to visualize its connection to the solenoid valve, in actuality the tubes connecting the two will be much longer (based on how far apart the two components are from one another).
-<br>
+<br> </br>
 In trying to making our design portable we realized that making a compact carriabble ventilator would not be technically feasible because of the amount and weight of components needed so we opted to make a semi-portable design. Our design will be restricted to the ambulance but will allow the automated BVM pumping mechanism to be brought to a patient wherever they are situated, regardless of the height or placement of their bed. Our design does not require the medical professionals to provide extensions to the endotracheal tube or mask end to connect with the BVM as we make sure our system enables all functionalities and conveniences a manual BVM provided.
 
 </ul>
