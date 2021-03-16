@@ -8,7 +8,7 @@
 
 The pneumatic cylinder is attached using variable length wires to the 5-2 valve which will be at a farther distance from the casing when implementing the design.
 
-<img src="3dModelSystem/Capture.JPG" alt=" " class="inline"/>
+<img src="3dModelDesign/3d_Assemble1.png" alt=" " class="inline"/>
 
 
 
