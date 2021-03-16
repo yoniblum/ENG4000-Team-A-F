@@ -26,14 +26,15 @@ In trying to making our design portable we realized that making a compact carria
   [<b>A detailed explanation of the Design</b>](https://youtu.be/pYWL6JigDXs) 
 
 
-Below you can find the links to all necessary design documents and the BOM: 
-<li>[Bill of Materials](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/Billing/BOM.PDF)</li>
+<h4>Below you can find the links to all necessary design documents and the BOM: </h4>
 
-<li>[3D Model of the Arm on which the BVM and Cylinder are mounted] (https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/3dman.md) </li>
+  -[Bill of Materials](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/Billing/BOM.PDF)
 
-<li>[3D Model of the Components present inside of the Casing](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/model.md)</li>
+  -[3D Model of the Arm on which the BVM and Cylinder are mounted] (https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/3dman.md) 
+  
+  -[3D Model of the Components present inside of the Casing](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/model.md)
 
-<li>[Schematic of the Pneumatic Design](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/schem.md)</li>
+  -[Schematic of the Pneumatic Design](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/schem.md)
 
 </ul>
 
