@@ -26,4 +26,4 @@ In trying to making our design portable we realized that making a compact carria
 
 
 
-[<b>A detailed explanation of the Design</b>](https://youtu.be/pYWL6JigDXs) 
+    [<b>A detailed explanation of the Design</b>](https://youtu.be/pYWL6JigDXs) 
