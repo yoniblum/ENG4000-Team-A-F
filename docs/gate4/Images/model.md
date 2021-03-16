@@ -10,11 +10,8 @@ The pneumatic cylinder is attached using variable length wires to the 5-2 valve 
 
 <img src="3dModelSystem/Capture.JPG" alt=" " class="inline"/>
 
-<img src="3dModelSystem/unnamed (1).png" alt=" " class="inline"/>
-
 <img src="3dModelSystem/unnamed (2).png" alt=" " class="inline"/>
 
-<img src="3dModelSystem/unnamed.png" alt=" " class="inline"/>
 
 
 [3D model PDF](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/3dModelSystem/Assem.pdf)
