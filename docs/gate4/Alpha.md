@@ -27,9 +27,12 @@ In trying to making our design portable we realized that making a compact carria
 
 
 Below you can find the links to all necessary design documents and the BOM: 
-<li>[Bill of Materials](docs/gate4/Images/Billing/Q0542464 (1).PDF)</li>
+<li>[Bill of Materials](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/Billing/BOM.PDF)</li>
+
 <li>[3D Model of the Arm on which the BVM and Cylinder are mounted] (https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/3dman.md) </li>
+
 <li>[3D Model of the Components present inside of the Casing](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/model.md)</li>
+
 <li>[Schematic of the Pneumatic Design](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/schem.md)</li>
 
 </ul>
