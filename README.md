@@ -172,3 +172,10 @@ Section focuses on feedback provided by various engineering and medical professi
 
 ### [Final Product Roadmap](docs/gate4/roadmap.md)
 Section focuses on product release timeline for Alpha and future releases.
+
+***
+### Beta Release
+
+### [System Health Reporting Application](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/)
+Beta release of the system health reporting component of this project.
+
