@@ -7,7 +7,7 @@
 
 <img src="3dModelDesign/C-Arm2.png" alt=" " class="inline"/>
 
-<img src="3dModelDesign/step1.png" alt=" " class="inline"/>
+<img src="3dModelDesign/step 1.png" alt=" " class="inline"/>
 
 <img src="3dModelDesign/step2.png" alt=" " class="inline"/>
 
