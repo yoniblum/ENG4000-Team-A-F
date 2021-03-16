@@ -22,7 +22,8 @@
 <br> </br>
 In trying to making our design portable we realized that making a compact carriabble ventilator would not be technically feasible because of the amount and weight of components needed so we opted to make a semi-portable design. Our design will be restricted to the ambulance but will allow the automated BVM pumping mechanism to be brought to a patient wherever they are situated, regardless of the height or placement of their bed. Our design does not require the medical professionals to provide extensions to the endotracheal tube or mask end to connect with the BVM as we make sure our system enables all functionalities and conveniences a manual BVM provided.
 
+
+[<b>A detailed explanation of the Design</b>](https://youtu.be/pYWL6JigDXs) 
 </ul>
 
 
-[<b>A detailed explanation of the Design</b>](https://youtu.be/pYWL6JigDXs) 
