@@ -14,6 +14,7 @@
     + [Gate 2](#gate-2--sprint-process)
     + [December MVP](#december-mvp)
     + [Alpha Release](#alpha-release)
+    + [Beta Release](#beta-release)
     
     
 ### Team Members
