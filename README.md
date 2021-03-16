@@ -160,7 +160,7 @@ The following two videos outline our MVP:
 ### Alpha Release
 
 ### [System Health Reporting](docs/gate4-systemhealthreporting/systemhealthreporting.md)
-Shows the System Health Reporting portion of this project.
+Details the alpha release of the system health reporting component of this project.
 
 ### [Alpha Design](docs/gate4/Alpha.md)
 Section focuses on the new pneumatic design and explains the functiong, relevance and configuration of each component.
