@@ -177,6 +177,6 @@ Section focuses on product release timeline for Alpha and future releases.
 ***
 ### Beta Release
 
-### [System Health Reporting Application](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/)
+### [System Health Reporting Application](http://webdashboard-env.eba-kz9hmne2.us-east-1.elasticbeanstalk.com/)
 Beta release of the system health reporting component of this project.
 
