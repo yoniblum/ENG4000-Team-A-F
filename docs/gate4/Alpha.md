@@ -24,7 +24,7 @@
   <b>Design Video: </b> [<b>A detailed explanation of the Design</b>](https://youtu.be/pYWL6JigDXs) 
 
 
-<h4>Below you can find the links to all necessary design documents and the BOM: </h4>
+<h3>Below you can find the links to all necessary design documents and the BOM: </h3>
 
   -[Bill of Materials](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/Billing/BOM.PDF)
   
