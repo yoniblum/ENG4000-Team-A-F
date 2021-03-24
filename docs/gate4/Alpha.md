@@ -21,22 +21,18 @@
   We plan on placing the air compressor, air prep unit and the solenoid valve together at a location that is yet to be determined based on where other medical equipment are situated in the ambulance and feasibility. These components will be placed inside of a casing, as can be seen in the figure above,  that is easily accessible incase maintenance or replacement is required. The positioning of the pneumatic cylinder shown above is to visualize its connection to the solenoid valve, in actuality the tubes connecting the two will be much longer (based on how far apart the two components are from one another).
 <br> </br>
 In trying to making our design portable we realized that making a compact carriabble ventilator would not be technically feasible because of the amount and weight of components needed so we opted to make a semi-portable design. Our design will be restricted to the ambulance but will allow the automated BVM pumping mechanism to be brought to a patient wherever they are situated, regardless of the height or placement of their bed. Our design does not require the medical professionals to provide extensions to the endotracheal tube or mask end to connect with the BVM as we make sure our system enables all functionalities and conveniences a manual BVM provided.
-
-
+<br> </br>
   <b>Design Video: </b> [<b>A detailed explanation of the Design</b>](https://youtu.be/pYWL6JigDXs) 
 
 
 <h4>Below you can find the links to all necessary design documents and the BOM: </h4>
 
   -[Bill of Materials](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/Billing/BOM.PDF)
-  
-
+  <br> </br>
   -[3D Model of the Arm on which the BVM and Cylinder are mounted](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/3dman.md) 
-  
-  
+  <br> </br>
   -[3D Model of the Components present inside of the Casing](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/model.md)
-  
-
+  <br> </br>
   -[Schematic of the Pneumatic Design](https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/schem.md)
 
 
