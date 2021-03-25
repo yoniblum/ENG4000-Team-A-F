@@ -15,6 +15,7 @@
     + [December MVP](#december-mvp)
     + [Alpha Release](#alpha-release)
     + [Beta Release](#beta-release)
+    + [Final Release](#final-release)
     
     
 ### Team Members
