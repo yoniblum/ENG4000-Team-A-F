@@ -11,9 +11,9 @@
     + [Error Notification Feature](#error-notification-feature)
   * [Deep-dive into Code](#deep-dive-into-code)
 - [Financial and Management Volume](#financial-and-management-volume)
-  * [Hours Allocated & Work Breakdown](#hours-allocated---work-breakdown)
+  * [Hours Allocated and Work Breakdown](#hours-allocated-and-work-breakdown)
   * [Estimated Budget for Rebuild](#estimated-budget-for-rebuild)
-  * [Failures & Lessons Learnt](#failures---lessons-learnt)
+  * [Failures and Lessons Learnt](#failures-and-lessons-learnt)
 - [Appendix](#appendix)
   * [Video Transcripts](#video-transcripts)
 
@@ -57,11 +57,11 @@
 🔨 🔨 🔨
 
 ## Financial and Management Volume
-### Hours Allocated & Work Breakdown
+### Hours Allocated and Work Breakdown
 
 ### Estimated Budget for Rebuild
 
-### Failures & Lessons Learnt
+### Failures and Lessons Learnt
 
 ## Appendix
 ### Video Transcripts
