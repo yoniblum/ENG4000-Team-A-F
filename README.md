@@ -184,6 +184,6 @@ Beta release of the system health reporting component of this project.
 ***
 ### Final Release
 
-### [System Health Reporting Application]()
+### [System Health Reporting Application](docs/syshealth-finalrelease-doc/syshealth_finaldocumentation.md)
 Final release documentation of the system health reporting component of this project.
 
