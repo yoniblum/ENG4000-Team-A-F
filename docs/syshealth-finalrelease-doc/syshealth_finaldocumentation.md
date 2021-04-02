@@ -72,5 +72,5 @@
 * [Data Reliability Test Video Transcript](video_transcripts/omega_video_transcript.pdf)
 * [Error Notification Feature Video Transcript](video_transcripts/errornotification_video_transcript.pdf)
 
-### Applcation Website
+### Application Website
 This ***[website](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/)*** the web-based system health reporting dashboard.
