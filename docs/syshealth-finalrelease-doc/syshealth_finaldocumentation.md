@@ -2,6 +2,8 @@
 - [Technical Volume](#technical-volume)
   * [Executive Summary](#executive-summary)
   * [Product Vision](#product-vision)
+  * [Solution Architecture](#solution-architecture)
+  * [System-As-Is](#system-as-is)
   * [Technical Demonstration Videos](#technical-demonstration-videos)
     + [Alpha Release](#alpha-release)
     + [Beta Release](#beta-release)
@@ -11,17 +13,22 @@
     + [Error Notification Feature](#error-notification-feature)
   * [Deep-dive into Code](#deep-dive-into-code)
 - [Financial and Management Volume](#financial-and-management-volume)
-  * [Hours Allocated and Work Breakdown](#hours-allocated-and-work-breakdown)
+   * [Backlog and Planned set of Deliveries](#backlog-and-planned-set-of-deliveries)
   * [Estimated Budget for Rebuild](#estimated-budget-for-rebuild)
+  * [Business Plan](#business-plan)
   * [Failures and Lessons Learnt](#failures-and-lessons-learnt)
 - [Appendix](#appendix)
   * [Video Transcripts](#video-transcripts)
-  * [Application Website](#application-website)
 
 ## Technical Volume
 ### Executive Summary
 
 ### Product Vision
+
+### Solution Architecture
+
+### System-As-Is
+This ***[webapplication](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/)*** is the web-based, realtime system health reporting application.
 
 ### Technical Demonstration Videos
 #### Alpha Release 
@@ -58,9 +65,11 @@
 🔨 🔨 🔨
 
 ## Financial and Management Volume
-### Hours Allocated and Work Breakdown
+### Backlog and Planned set of Deliveries
 
 ### Estimated Budget for Rebuild
+
+### Business Plan
 
 ### Failures and Lessons Learnt
 
@@ -71,6 +80,3 @@
 * [Omega Release Video Transcript](video_transcripts/omega_video_transcript.pdf)
 * [Data Reliability Test Video Transcript](video_transcripts/omega_video_transcript.pdf)
 * [Error Notification Feature Video Transcript](video_transcripts/errornotification_video_transcript.pdf)
-
-### Application Website
-This ***[website](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/)*** the web-based system health reporting dashboard.
