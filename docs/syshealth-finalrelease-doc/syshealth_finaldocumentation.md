@@ -12,9 +12,9 @@
     + [Alpha Release](#alpha-release)
     + [Beta Release](#beta-release)
     + [Omega Release](#omega-release)
-    + [Final Release](#final-release)
     + [Data Propogation Reliability Test](#data-propogation-reliability-test)
     + [Error Notification Feature](#error-notification-feature)
+    + [Final Release](#final-release)
   * [Deep-dive into Code](#deep-dive-into-code)
     + [Tested Software Configurations](#tested-software-configurations)
 - [Financial and Management Volume](#financial-and-management-volume)
@@ -26,6 +26,8 @@
   * [Video Transcripts](#video-transcripts)
 
 ## Technical Volume
+This volume presents the technical aspects on this project, presenting infromation about the system-as-designed and system-as-designed.
+
 ### Executive Summary
 Addresses: What is this project about and Why?
 
@@ -54,7 +56,7 @@ In essence, through this solution, the ambulance crew does not need to manually 
 ### Solution Architecture
 #### Architecture Diagram
 <img src="syshealth-finalrelease-images/4k-architecture.png" alt=" " class="inline"/>
-**Figure1** shows the end-to-end architecture of this application. It is also the highest-level view of this solution. Each phase of the solution is labelled (from 1 to 7), and a brief description is provided for each section. 
+**Figure1** shows the end-to-end architecture of this application- capturing the system-as-designed, and system-as-built. It is also the highest-level view of this solution. Each phase of the solution is labelled (from 1 to 7), and a brief description is provided for each section. 
 
 #### State Diagram
 <img src="syshealth-finalrelease-images/4k_transition_sys.png" alt=" " class="inline"/>
@@ -80,7 +82,6 @@ XBee Transport Mode: API 2<br/>
 XBee Connection Port: /dev/ttyS0<br/>
 XBee Baud Rate: 9600<br/>
 XBee MAC address: 0013A2004125A5B9<br/>
-XCTU Version: 6.5.5<br/>
 Gryoscope Sensor: MPU-6050 <br/>
 Gryoscope Sensor Version: SEN-11028 <br/>
 
@@ -101,41 +102,42 @@ XBee Transport Mode: API 2<br/>
 XBee Connection Port: /dev/ttyUSB0<br/>
 XBee Baud Rate: 115200<br/>
 XBee MAC address: 0013A2004125A5B8<br/>
+XCTU Version: 6.5.5
 
 ### System-As-Built Software
-This ***[webapplication](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/)*** is the web-based, realtime system health reporting dashboard.<br/>
-[![Final Release System Health Reporting Website](syshealth-finalrelease-images/4k_website_finalrelease.png)](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/ "Final Release Webapplication")
+**Figure6** is the web-based, realtime system health reporting dashboard developed in this project.<br/>
+[![Final Release System Health Reporting Website](syshealth-finalrelease-images/4k_website_finalrelease.png)](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/ "Click here to access the Final Release Webapplication")
 
 Brief explanation of code 🔨 🔨 🔨
 
 ### Technical Demonstration Videos
 #### Alpha Release 
-[![Alpha Release Demonstration Video](http://img.youtube.com/vi/JA0sFErDQJs/0.jpg)](http://www.youtube.com/watch?v=JA0sFErDQJs "Alpha Release")
+[![Alpha Release Demonstration Video](http://img.youtube.com/vi/JA0sFErDQJs/0.jpg)](http://www.youtube.com/watch?v=JA0sFErDQJs "Click here to view Alpha Release video")
 ##### Time Stamps
 🔨 🔨 🔨
 
 #### Beta Release 
-[![Beta Release Demonstration Video](http://img.youtube.com/vi/hYYy9_IT4uc/0.jpg)](http://www.youtube.com/watch?v=hYYy9_IT4uc "Beta Release")
+[![Beta Release Demonstration Video](http://img.youtube.com/vi/hYYy9_IT4uc/0.jpg)](http://www.youtube.com/watch?v=hYYy9_IT4uc "Click here to view Beta Release video")
 ##### Time Stamps
 🔨 🔨 🔨
 
 #### Omega Release
-[![Omega Release Demonstration Video](http://img.youtube.com/vi/XcdjYUXQX3U/0.jpg)](http://www.youtube.com/watch?v=XcdjYUXQX3U "Omega Release")
+[![Omega Release Demonstration Video](http://img.youtube.com/vi/XcdjYUXQX3U/0.jpg)](http://www.youtube.com/watch?v=XcdjYUXQX3U "Click here to view Omega Release video")
+##### Time Stamps
+🔨 🔨 🔨
+
+#### Data Propogation Reliability Test
+[![Data Propogation Test Video Demonstration](http://img.youtube.com/vi/au7qQV5Tq-Q/0.jpg)](http://www.youtube.com/watch?v=au7qQV5Tq-Q "Click here to view Data Propogation Reliability Test video")
+##### Time Stamps
+🔨 🔨 🔨
+
+#### Error Notification Feature
+[![Error Notification Feature Demonstration](http://img.youtube.com/vi/tYvPlJ4o5VE/0.jpg)](http://www.youtube.com/watch?v=tYvPlJ4o5VE "Click here to view Error Notification Feature video")
 ##### Time Stamps
 🔨 🔨 🔨
 
 #### Final Release 
 🔨 🔨 🔨
-##### Time Stamps
-🔨 🔨 🔨
-
-#### Data Propogation Reliability Test
-[![Data Propogation Test Video Demonstration](http://img.youtube.com/vi/au7qQV5Tq-Q/0.jpg)](http://www.youtube.com/watch?v=au7qQV5Tq-Q "Data Propogation Reliability Test")
-##### Time Stamps
-🔨 🔨 🔨
-
-#### Error Notification Feature
-[![Error Notification Feature Demonstration](http://img.youtube.com/vi/tYvPlJ4o5VE/0.jpg)](http://www.youtube.com/watch?v=tYvPlJ4o5VE "Error Notification Feature")
 ##### Time Stamps
 🔨 🔨 🔨
 
@@ -145,6 +147,8 @@ Brief explanation of code 🔨 🔨 🔨
 #### Tested Software Configurations
 
 ## Financial and Management Volume
+This volume presents the financial and management aspects on this project, examing project progress as planned versus as executed. Futheremore, presents a failure report, and lessons learnt.
+
 ### Backlog and Planned set of Deliveries
 
 ### Estimated Budget for Rebuild
