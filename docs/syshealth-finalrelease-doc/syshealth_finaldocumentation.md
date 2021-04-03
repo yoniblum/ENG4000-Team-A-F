@@ -52,20 +52,20 @@ In essence, through this solution, the ambulance crew does not need to manually 
 ### Solution Architecture
 #### Architecture Diagram
 <img src="syshealth-finalrelease-images/4k-architecture.png" alt=" " class="inline"/>
-Figure1 shows the end-to-end architecture of this application. It is also the highest-level view of this solution. Each phase of the solution is labelled (from 1 to 7), and a brief description is provided for each section. 
+**Figure1** shows the end-to-end architecture of this application. It is also the highest-level view of this solution. Each phase of the solution is labelled (from 1 to 7), and a brief description is provided for each section. 
 
 #### State Diagram
 <img src="syshealth-finalrelease-images/4k_transition_sys.png" alt=" " class="inline"/>
-Figure2 shows the Alpha, Beta and (other) Omega releases in the form of a state diagram. This figure absracts away individual hardware and software components, considering them as a whole i.e. a system. A breif description about the state diagram, and each release is provided in the figure. For more information please refer to corresponding release(s) in the [Technical Video Demonstration section](#technical-demonstration-videos).
+**Figure2** shows the Alpha, Beta and (other) Omega releases in the form of a state diagram. This figure absracts away individual hardware and software components, considering them as a whole i.e. a system. A breif description about the state diagram, and each release is provided in the figure. For more information please refer to corresponding release(s) in the [Technical Video Demonstration section](#technical-demonstration-videos).
 
 #### Sequence Diagram
 <img src="syshealth-finalrelease-images/4k_sequence_diagram.png" alt=" " class="inline"/>
-Figure3 presents a lower-level view of this solution, compared to the architecture diagram. This figure considers the target user(s), and identifies their interaction with each component of the solution. In it, a Ambulance Crew or Basestation personnel memebers wants to view the dashboard. To do so they access the website, which is in production, and is updating the presentated analytics visuals; real-time as more microcontroller health data is transmitted (from the microcontroller in the ambulance, connected to an XBee transiever) and recieved on the Basestation.
+**Figure3** presents a lower-level view of this solution, compared to the architecture diagram. This figure considers the target user(s), and identifies their interaction with each component of the solution. In it, a Ambulance Crew or Basestation personnel memebers wants to view the dashboard. To do so they access the website, which is in production, and is updating the presentated analytics visuals; real-time as more microcontroller health data is transmitted (from the microcontroller in the ambulance, connected to an XBee transiever) and recieved on the Basestation.
 
 ### System-As-Built Hardware
 ##### Raspberry Pi 3 B+-- transmits health data
-<img src="syshealth-finalrelease-images/4k_sender_circuit.png" alt=" " class="inline"/>
-Figure4 shows the f
+**Figure4** shows the fritzing diagram of microcontroller used in the the system-as-built, in this final release. It shows the Raspberry Pi B+ used, along with the XBee transiever and Gyroscopic sensor connected to it.
+<img src="syshealth-finalrelease-images/4k_sender_circuit.png" alt=" " class="inline"/><br/>
 Configuration(s):<br/>
 Operating System:  Raspberry Pi OS 32-bit (Released: 2021-01-11, 1.1GB)<br/>
 Manufacturer and Model: CanaKit, Raspberry Pi 3 Model B+<br/> 
@@ -84,7 +84,8 @@ XCTU Version: 6.5.5<br/>
 **Note**: XCTU was not installed on the Pi. This was because of software architecture constraints where XCTU executable code cannot run on a ARM based processor. <br/>
 
 ##### Basestation PC-- recieves health data
-<img src="syshealth-finalrelease-images/4k_reciever_circuit.png" alt=" " class="inline" width="400" height="400"/>
+**Figure5** shows the fritzing diagram of Basestation PC used in the the system-as-built. It shows the chipset of my Desktop PC connected to the XBee transiever through a USB cord.
+<img src="syshealth-finalrelease-images/4k_reciever_circuit.png" alt=" " class="inline" width="400" height="400"/><br/>
 Configuration(s):<br/>
 Operating System:  Lubuntu 18.04<br/>
 Manufacturer and Model: Dell, Optiplex 7010<br/>
