@@ -81,6 +81,8 @@ XBee Connection Port: /dev/ttyS0<br/>
 XBee Baud Rate: 9600<br/>
 XBee MAC address: 0013A2004125A5B9<br/>
 XCTU Version: 6.5.5<br/>
+Gryoscope Sensor: MPU-6050 <br/>
+Gryoscope Sensor Version: SEN-11028 <br/>
 
 **Note**: XCTU was not installed on the Pi. This was because of software architecture constraints where XCTU executable code cannot run on a ARM based processor. <br/>
 
@@ -99,8 +101,6 @@ XBee Transport Mode: API 2<br/>
 XBee Connection Port: /dev/ttyUSB0<br/>
 XBee Baud Rate: 115200<br/>
 XBee MAC address: 0013A2004125A5B8<br/>
-Gryoscope Sensor: MPU-6050 <br/>
-Gryoscope Sensor Version: SEN-11028 <br/>
 
 ### System-As-Built Software
 This ***[webapplication](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/)*** is the web-based, realtime system health reporting dashboard.
