@@ -84,7 +84,7 @@ XCTU Version: 6.5.5<br/>
 **Note**: XCTU was not installed on the Pi. This was because of software architecture constraints where XCTU executable code cannot run on a ARM based processor. <br/>
 
 ##### Basestation PC-- recieves health data
-**Figure5** shows the fritzing diagram of Basestation PC used in the the system-as-built. It shows the chipset of my Desktop PC connected to the XBee transiever through a USB cord.
+**Figure5** shows the fritzing diagram of Basestation PC used in the the system-as-built. It shows the chipset of my Desktop PC connected to the XBee transiever through a USB cord.<br/>
 <img src="syshealth-finalrelease-images/4k_reciever_circuit.png" alt=" " class="inline" width="400" height="400"/><br/>
 Configuration(s):<br/>
 Operating System:  Lubuntu 18.04<br/>
