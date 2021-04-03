@@ -64,7 +64,7 @@ In essence, through this solution, the ambulance crew does not need to manually 
 
 ### System-As-Built Hardware
 ##### Raspberry Pi 3 B+-- transmits health data
-**Figure4** shows the fritzing diagram of microcontroller used in the the system-as-built, in this final release. It shows the Raspberry Pi B+ used, along with the XBee transiever and Gyroscopic sensor connected to it.
+**Figure4** shows the fritzing diagram of microcontroller used in the the system-as-built, in this final release. It shows the Raspberry Pi B+ used, along with the XBee transiever and Gyroscopic sensor connected to it.<br/>
 <img src="syshealth-finalrelease-images/4k_sender_circuit.png" alt=" " class="inline"/><br/>
 Configuration(s):<br/>
 Operating System:  Raspberry Pi OS 32-bit (Released: 2021-01-11, 1.1GB)<br/>
