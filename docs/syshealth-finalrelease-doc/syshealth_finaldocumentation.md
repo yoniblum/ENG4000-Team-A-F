@@ -26,11 +26,13 @@
 
 ## Technical Volume
 ### Executive Summary
+Addresses: What is this project about and Why?
+
 Final release of a solution that performs real-time analytics on the health of microcontroller systems in ambulance(s).
 
 At the start of the winter semester, our team decided to split into two-subteams. One dealing with the pump device, and the other dealing with failure reporting and visualizing system health. I took ownership of the latter. (More information about the earlier phase of our project can be found [**here**](https://drive.google.com/file/d/1fbR2aad2eUqU_aILc2vjHCjWiD7Ffg1f/view?usp=sharing).) In this part of the project, under the supervision of Professor.Franz Newland, I’m building a robust mechanism to collect health data of the automated BVM system. The end-goal of this solution is to share this data real-time with the ambulance crew and base station personnel that monitor the health of the system.
 
-In this solution, I create a mesh network of XBee transceivers to send microcontroller health data from multiple ambulances simultaneously- processing the data on a basestation before storing it on a structured database on the Cloud. Thereafter, visualizing the stored data real-time on a web-based dashboard.
+In this solution, I create a mesh network of XBee transceivers to continuously send and recieve a Raspberry Pi's health data. Data on the mesh network is transmitted through peer-to-peer communication, and the microcontroller's health data is dependent on a real-time ouput from a gyroscopic sensor. (The gyroscope sensor simulates a automated Bag-Value-Mask (BVM) pumping mechanism in operation, inside of the ambulance). As system health data from the Pi is continuously transmitted, it is processed on a Basestation PC before being stored real-time onto a structured database, on the Cloud. As system health data is stored realtime, it presented realtime- as visuals on web-based analytics dashboard. A "open-source and free first" approach is used where Python3 and free Google services such as Google Spreadsheets and Google APIs (under a trial account) are used to implement for data processing, data storage onto the cloud, and presentation of analytics visuals on a website.  
 
 ### Product Vision
 Addresses: What is it doing?
@@ -63,6 +65,7 @@ Figure3 presents a lower-level view of this solution, compared to the architectu
 ### System-As-Built Hardware
 ##### Raspberry Pi 3 B+-- transmits health data
 <img src="syshealth-finalrelease-images/4k_sender_circuit.png" alt=" " class="inline"/>
+Figure4 shows the f
 Configuration(s):<br/>
 Operating System:  Raspberry Pi OS 32-bit (Released: 2021-01-11, 1.1GB)<br/>
 Manufacturer and Model: CanaKit, Raspberry Pi 3 Model B+<br/> 
