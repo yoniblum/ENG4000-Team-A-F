@@ -18,7 +18,7 @@
   * [Deep-dive into Code](#deep-dive-into-code)
     + [Tested Software Configurations](#tested-software-configurations)
 - [Financial and Management Volume](#financial-and-management-volume)
-   * [Backlog and Planned set of Deliveries](#backlog-and-planned-set-of-deliveries)
+  * [Backlog and Planned set of Deliveries](#backlog-and-planned-set-of-deliveries)
   * [Estimated Budget for Rebuild](#estimated-budget-for-rebuild)
   * [Business Plan](#business-plan)
   * [Failures and Lessons Learnt](#failures-and-lessons-learnt)
@@ -54,6 +54,8 @@ In essence, through this solution, the ambulance crew does not need to manually 
 
 
 ### Solution Architecture
+This section presents the system-as-desgined and system-as-built through a series of diagrams, which were used to architect this project's solution. The presented diagrams range from high-level to low(er)-level.
+
 #### Architecture Diagram
 <img src="syshealth-finalrelease-images/4k-architecture.png" alt=" " class="inline"/>
 **Figure1** shows the end-to-end architecture of this application- capturing the system-as-designed, and system-as-built. It is also the highest-level view of this solution. Each phase of the solution is labelled (from 1 to 7), and a brief description is provided for each section. 
@@ -67,6 +69,8 @@ In essence, through this solution, the ambulance crew does not need to manually 
 **Figure3** presents a lower-level view of this solution, compared to the architecture diagram. This figure considers the target user(s), and identifies their interaction with each component of the solution. In it, a Ambulance Crew or Basestation personnel memebers wants to view the dashboard. To do so they access the website, which is in production, and is updating the presentated analytics visuals; real-time as more microcontroller health data is transmitted (from the microcontroller in the ambulance, connected to an XBee transiever) and recieved on the Basestation.
 
 ### System-As-Built Hardware
+This section details the hardware and software configuration of the hardware components used in this project-- a Raspberry Pi 3 B+ and Dell Optiplex 7010 desktop are used as a the "ambulance" and "basestation", respectively. The key configuration for data transmission is mode of the XBee transiver, to which the Pi or PC is connected too. 
+
 ##### Raspberry Pi 3 B+-- transmits health data
 **Figure4** shows the fritzing diagram of microcontroller used in the the system-as-built, in this final release. It shows the Raspberry Pi B+ used, along with the XBee transiever and Gyroscopic sensor connected to it.<br/>
 <img src="syshealth-finalrelease-images/4k_sender_circuit.png" alt=" " class="inline"/><br/>
@@ -105,12 +109,16 @@ XBee MAC address: 0013A2004125A5B8<br/>
 XCTU Version: 6.5.5
 
 ### System-As-Built Software
+This section presents the webapplication dashboard of this project. To login please use username: "ambulance_crew" or username: "basestation_personnel" with password for both as password:"eng4k".
+
 **Figure6** is the web-based, realtime system health reporting dashboard developed in this project.<br/>
 [![Final Release System Health Reporting Website](syshealth-finalrelease-images/4k_website_finalrelease.png)](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/ "Click here to access the Final Release Webapplication")
 
 Brief explanation of code 🔨 🔨 🔨
 
 ### Technical Demonstration Videos
+This section shows the technical demonstration of each planned release of this project.
+
 #### Alpha Release 
 [![Alpha Release Demonstration Video](http://img.youtube.com/vi/JA0sFErDQJs/0.jpg)](http://www.youtube.com/watch?v=JA0sFErDQJs "Click here to view Alpha Release video")
 ##### Time Stamps
@@ -142,6 +150,7 @@ Brief explanation of code 🔨 🔨 🔨
 🔨 🔨 🔨
 
 ### Deep-dive into Code
+This section presents a deep-dive into the code written for the project- considering the "sender side" and "reciever side". Also, it shows the tested software configurations (such as python libraries, etc) used to achieve expected and presented (above in technical demos section) functionality for this solution.
 🔨 🔨 🔨
 
 #### Tested Software Configurations
