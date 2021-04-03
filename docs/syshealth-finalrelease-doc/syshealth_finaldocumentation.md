@@ -3,7 +3,7 @@
   * [Executive Summary](#executive-summary)
   * [Product Vision](#product-vision)
   * [Solution Architecture](#solution-architecture)
-  * [System-As-Is](#system-as-is)
+  * [System-As-Built](#system-as-built)
   * [Technical Demonstration Videos](#technical-demonstration-videos)
     + [Alpha Release](#alpha-release)
     + [Beta Release](#beta-release)
@@ -27,7 +27,7 @@
 
 ### Solution Architecture
 
-### System-As-Is
+### System-As-Built
 This ***[webapplication](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/)*** is the web-based, realtime system health reporting application.
 
 ### Technical Demonstration Videos
