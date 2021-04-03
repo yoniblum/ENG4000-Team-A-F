@@ -30,7 +30,7 @@ Final release of a solution that performs real-time analytics on the health of m
 
 At the start of the winter semester, our team decided to split into two-subteams. One dealing with the pump device, and the other dealing with failure reporting and visualizing system health. I took ownership of the latter. (More information about the earlier phase of our project can be found [**here**](https://drive.google.com/file/d/1fbR2aad2eUqU_aILc2vjHCjWiD7Ffg1f/view?usp=sharing).) In this part of the project, under the supervision of Professor.Franz Newland, I’m building a robust mechanism to collect health data of the automated BVM system. The end-goal of this solution is to share this data real-time with the ambulance crew and base station personnel that monitor the health of the system.
 
-In this solution, I create a mesh network of transceivers to send microcontroller health data from multiple ambulances simultaneously- processing the data on a basestation before storing it on a structured database on the Cloud. Thereafter, visualizing the stored data real-time on a web-based dashboard.
+In this solution, I create a mesh network of XBee transceivers to send microcontroller health data from multiple ambulances simultaneously- processing the data on a basestation before storing it on a structured database on the Cloud. Thereafter, visualizing the stored data real-time on a web-based dashboard.
 
 ### Product Vision
 Addresses: What is it doing?
@@ -50,12 +50,15 @@ In essence, through this solution, the ambulance crew does not need to manually 
 ### Solution Architecture
 #### Architecture Diagram
 <img src="syshealth-finalrelease-images/4k-architecture.png" alt=" " class="inline"/>
+Figure1 shows the end-to-end architecture of this application. It is also the highest-level view of this solution. Each phase of the solution is labelled (from 1 to 7), and a brief description is provided for each section. 
 
 #### State Diagram
 <img src="syshealth-finalrelease-images/4k_transition_sys.png" alt=" " class="inline"/>
+Figure2 shows the Alpha, Beta and (other) Omega releases in the form of a state diagram. This figure absracts away individual hardware and software components, considering them as a whole i.e. a system. A breif description about the state diagram, and each release is provided in the figure. For more information please refer to corresponding release(s) in the [Technical Video Demonstration section](#technical-demonstration-videos).
 
 #### Sequence Diagram
 <img src="syshealth-finalrelease-images/4k_sequence_diagram.png" alt=" " class="inline"/>
+Figure3 presents a lower-level view of this solution, compared to the architecture diagram. This figure considers the target user(s), and identifies their interaction with each component of the solution. In it, a Ambulance Crew or Basestation personnel memebers wants to view the dashboard. To do so they access the website, which is in production, and is updating the presentated analytics visuals; real-time as more microcontroller health data is transmitted (from the microcontroller in the ambulance, connected to an XBee transiever) and recieved on the Basestation.
 
 ### System-As-Built Hardware
 ##### Raspberry Pi 3 B+-- transmits health data
