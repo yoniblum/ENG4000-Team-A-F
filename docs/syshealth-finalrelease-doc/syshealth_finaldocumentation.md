@@ -78,7 +78,7 @@ XCTU Version: 6.5.5<br/>
 **Note**: XCTU was not installed on the Pi. This was because of software architecture constraints where XCTU executable code cannot run on a ARM based processor. <br/>
 
 ##### Basestation PC
-<img src="syshealth-finalrelease-images/4k_reciever_circuit.png" alt=" " class="inline"/>
+<img src="syshealth-finalrelease-images/4k_reciever_circuit.png" alt=" " class="inline" width="400" height="400"/>
 Configuration(s):<br/>
 Operating System:  Lubuntu 18.04<br/>
 Manufacturer and Model: Dell, Optiplex 7010<br/>
