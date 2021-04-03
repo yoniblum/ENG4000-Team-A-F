@@ -157,3 +157,7 @@ Brief explanation of code 🔨 🔨 🔨
 * [Omega Release Video Transcript](video_transcripts/omega_video_transcript.pdf)
 * [Data Reliability Test Video Transcript](video_transcripts/omega_video_transcript.pdf)
 * [Error Notification Feature Video Transcript](video_transcripts/errornotification_video_transcript.pdf)
+
+## References
+1. Deliverables Documentation.ENG4000 Fall-Winter-2020-21. Retrieved from: https://eclass.yorku.ca/eclass/course/view.php?id=6123
+
