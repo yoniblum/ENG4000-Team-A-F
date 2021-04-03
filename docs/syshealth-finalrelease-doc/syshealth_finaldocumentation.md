@@ -26,7 +26,7 @@
 
 ## Technical Volume
 ### Executive Summary
-A solution that performs real-time analytics on the health of microcontroller systems in ambulance(s).
+Final release of a solution that performs real-time analytics on the health of microcontroller systems in ambulance(s).
 
 At the start of the winter semester, our team decided to split into two-subteams. One dealing with the pump device, and the other dealing with failure reporting and visualizing system health. I took ownership of the latter. (More information about the earlier phase of our project can be found here.) In this part of the project, under the supervision of Professor.Franz Newland, I’m building a robust mechanism to collect health data of the automated BVM system. The end-goal of this solution is to share this data real-time with the ambulance crew and base station personnel that monitor the health of the system.
 
