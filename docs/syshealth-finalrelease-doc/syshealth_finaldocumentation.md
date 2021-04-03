@@ -73,7 +73,6 @@ Manufacturer and Model: CanaKit, Raspberry Pi 3 Model B+<br/>
 Processor: Broadcom BCM2837B0, Cortex-A53 (ARMv8) 64-bit SoC @ 1.4GHz<br/>
 Python version: Python 3.6.9<br/>
 Memory: 1GB LPDDR2 SDRAM<br/>
-PC Peripherals: 2.4Ghz "Ultra" Wifi dongle<br/>
 XBee Model: XBee Pro 538<br/>
 XBee Mode: Router<br/>
 XBee Transport Mode: API 2<br/>
