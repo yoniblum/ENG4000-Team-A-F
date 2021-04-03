@@ -43,6 +43,7 @@ This product is:
 * Providing a way to visualize data as gathered, real-time.
 * Providing a way to push notifications to users if an issue is detected.
 * Providing a way to configure the application during run-time, without stopping it.
+* Providing a way to read health data from any type of pumping mechanism, using a gyroscopic sensor.
 
 At the moment there is no automated reporting of device failures in an Ambulance operating in Gujarat, India. Thus, there is a need for automated failure reporting for mobile medical devices, used in various medical fields.
 
