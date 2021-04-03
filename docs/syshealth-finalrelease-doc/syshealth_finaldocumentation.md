@@ -58,7 +58,7 @@ In essence, through this solution, the ambulance crew does not need to manually 
 <img src="syshealth-finalrelease-images/4k_sequence_diagram.png" alt=" " class="inline"/>
 
 ### System-As-Built Hardware
-##### Raspberry Pi 3 B+
+##### Raspberry Pi 3 B+-- transmits health data
 <img src="syshealth-finalrelease-images/4k_sender_circuit.png" alt=" " class="inline"/>
 Configuration(s):<br/>
 Operating System:  Raspberry Pi OS 32-bit (Released: 2021-01-11, 1.1GB)<br/>
@@ -77,7 +77,7 @@ XCTU Version: 6.5.5<br/>
 
 **Note**: XCTU was not installed on the Pi. This was because of software architecture constraints where XCTU executable code cannot run on a ARM based processor. <br/>
 
-##### Basestation PC
+##### Basestation PC-- recieves health data
 <img src="syshealth-finalrelease-images/4k_reciever_circuit.png" alt=" " class="inline" width="400" height="400"/>
 Configuration(s):<br/>
 Operating System:  Lubuntu 18.04<br/>
