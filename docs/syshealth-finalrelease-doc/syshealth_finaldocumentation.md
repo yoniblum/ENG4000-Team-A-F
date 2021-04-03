@@ -3,7 +3,11 @@
   * [Executive Summary](#executive-summary)
   * [Product Vision](#product-vision)
   * [Solution Architecture](#solution-architecture)
-  * [System-As-Built](#system-as-built)
+    + [Architecture Diagram](#architecture-diagram)
+    + [State Diagram](#state-diagram)
+    + [Sequence Diagram](#sequence-diagram)
+  * [System-As-Built Hardware](#system-as-built-hardware)
+  * [System-As-Built Software](#system-as-built-software)
   * [Technical Demonstration Videos](#technical-demonstration-videos)
     + [Alpha Release](#alpha-release)
     + [Beta Release](#beta-release)
@@ -22,13 +26,78 @@
 
 ## Technical Volume
 ### Executive Summary
+A solution that performs real-time analytics on the health of microcontroller systems in ambulance(s).
+
+At the start of the winter semester, our team decided to split into two-subteams. One dealing with the pump device, and the other dealing with failure reporting and visualizing system health. I took ownership of the latter. (More information about the earlier phase of our project can be found here.) In this part of the project, under the supervision of Professor.Franz Newland, I’m building a robust mechanism to collect health data of the automated BVM system. The end-goal of this solution is to share this data real-time with the ambulance crew and base station personnel that monitor the health of the system.
+
+In this solution, I create a mesh network of transceivers to send microcontroller health data from multiple ambulances simultaneously- processing the data on a basestation before storing it on a structured database on the Cloud. Thereafter, visualizing the stored data real-time on a web-based dashboard.
 
 ### Product Vision
+Addresses: What is it doing?
+
+This product is:
+* Providing a mechanism to report issues.
+* Providing a low cost, mesh based communication- allowing others abumblances to support a crew that might have fault.
+* Providing a way to visualize data as gathered, real-time.
+* Providing a way to push notifications to users if an issue is detected.
+* Providing a way to configure the application during run-time, without stopping it.
+
+At the moment there is no automated reporting of device failures in an Ambulance operating in Gujarat, India. Thus, there is a need for automated failure reporting for mobile medical devices, used in various medical fields.
+
+In essence, through this solution, the ambulance crew does not need to manually report/call-in a failure to the basestation personnel. Furthermore, it allows one ambulance crew to support another, incase one experiences fault. The value is: if a automated BVM unit fails then a higher load is placed on the crew, on top of pressure of caring for patients. This solution minimizes the high workload placed on the ambulance crew, allowing them to focus on their patients while providing a robust mechanism for reporting system failure. Furthermore, system health data that is collected realtime, is visualized realtime i.e. is leveraged to allow base station personnel to formulate a meaningful strategy to handle system failure (for example, re-route other active ambulances on the mesh network for support, incase one ambulance is experiencing fault with it's BVM).
+
 
 ### Solution Architecture
+#### Architecture Diagram
+<img src="syshealth-finalrelease-images/4k-architecture.png" alt=" " class="inline"/>
 
-### System-As-Built
-This ***[webapplication](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/)*** is the web-based, realtime system health reporting application.
+#### State Diagram
+<img src="syshealth-finalrelease-images/4k_transition_sys.png" alt=" " class="inline"/>
+
+#### Sequence Diagram
+<img src="syshealth-finalrelease-images/4k_sequence_diagram.png" alt=" " class="inline"/>
+
+### System-As-Built Hardware
+##### Raspberry Pi 3 B+
+<img src="syshealth-finalrelease-images/4k_sender_circuit.png" alt=" " class="inline"/>
+Configuration(s):<br/>
+Operating System:  Raspberry Pi OS 32-bit (Released: 2021-01-11, 1.1GB)<br/>
+Manufacturer and Model: CanaKit, Raspberry Pi 3 Model B+<br/> 
+Processor: Broadcom BCM2837B0, Cortex-A53 (ARMv8) 64-bit SoC @ 1.4GHz<br/>
+Python version: Python 3.6.9<br/>
+Memory: 1GB LPDDR2 SDRAM<br/>
+PC Peripherals: 2.4Ghz "Ultra" Wifi dongle<br/>
+XBee Model: XBee Pro 538<br/>
+XBee Mode: Router<br/>
+XBee Transport Mode: API 2<br/>
+XBee Connection Port: /dev/ttyS0<br/>
+XBee Baud Rate: 9600<br/>
+XBee MAC address: 0013A2004125A5B9<br/>
+XCTU Version: 6.5.5<br/>
+
+**Note**: XCTU was not installed on the Pi. This was because of software architecture constraints where XCTU executable code cannot run on a ARM based processor. <br/>
+
+##### Basestation PC
+<img src="syshealth-finalrelease-images/4k_reciever_circuit.png" alt=" " class="inline"/>
+Configuration(s):<br/>
+Operating System:  Lubuntu 18.04<br/>
+Manufacturer and Model: Dell, Optiplex 7010<br/>
+Processor: 2.3 GHz Dual-Core Intel Core i5<br/>
+Python version: Python 3.6.9<br/>
+Memory: 8.0 GB<br/>
+XBee Model: XBee Pro 538<br/>
+XBee Mode: Controller<br/>
+XBee Transport Mode: API 2<br/>
+XBee Connection Port: /dev/ttyUSB0<br/>
+XBee Baud Rate: 115200<br/>
+XBee MAC address: 0013A2004125A5B8<br/>
+Gryoscope Sensor: MPU-6050 <br/>
+Gryoscope Sensor Version: SEN-11028 <br/>
+
+### System-As-Built Software
+This ***[webapplication](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/)*** is the web-based, realtime system health reporting dashboard.
+
+Brief explanation of code 🔨 🔨 🔨
 
 ### Technical Demonstration Videos
 #### Alpha Release 
