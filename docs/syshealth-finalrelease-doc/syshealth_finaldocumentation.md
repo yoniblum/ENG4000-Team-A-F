@@ -102,7 +102,8 @@ XBee Baud Rate: 115200<br/>
 XBee MAC address: 0013A2004125A5B8<br/>
 
 ### System-As-Built Software
-This ***[webapplication](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/)*** is the web-based, realtime system health reporting dashboard.
+This ***[webapplication](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/)*** is the web-based, realtime system health reporting dashboard.<br/>
+[![Final Release System Health Reporting Website](syshealth-finalrelease-images/4k_website_finalrelease.png)](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/ "Final Release Webapplication")
 
 Brief explanation of code 🔨 🔨 🔨
 
