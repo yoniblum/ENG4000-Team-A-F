@@ -26,7 +26,7 @@
   * [Video Transcripts](#video-transcripts)
 
 ## Technical Volume
-This volume presents the technical aspects on this project, presenting infromation about the system-as-designed and system-as-designed.
+This volume presents the technical aspects on this project, presenting infromation about the system-as-designed and system-as-built.
 
 ### Executive Summary
 Addresses: What is this project about and Why?
