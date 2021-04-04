@@ -132,7 +132,7 @@ Shows **Figure8** (below) that demonstrates the end-to-end solution in it's Beta
 🔨 🔨 🔨
 
 #### Omega Release
-Shows **Figure9** (below) that demonstrates the end-to-end solution in it's (other) Omega release state.<br/>
+Shows **Figure9** (below) that demonstrates the end-to-end solution in it's (other i.e.) Omega release state.<br/>
 [![Omega Release Demonstration Video](http://img.youtube.com/vi/XcdjYUXQX3U/0.jpg)](http://www.youtube.com/watch?v=XcdjYUXQX3U "Click here to view Omega Release video")
 ##### Time Stamps
 🔨 🔨 🔨
