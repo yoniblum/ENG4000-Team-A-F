@@ -112,8 +112,9 @@ XCTU Version: 6.5.5
 ### System-As-Built Software
 This section presents the webapplication dashboard of this project.
 
-**Figure6** shows the system health reporting application. Please click on the image to access the login page to the dashboard. To access login credentials, email sid16@my.yorku.ca<br/>
-[![Final Release System Health Reporting Website](syshealth-finalrelease-images/4k_website_finalrelease.png)](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/ "Click here to access the Final Release Webapplication")
+**Figure6** shows the system health reporting application. Please click on the image to access the login page to the dashboard. To access login credentials, email sid16@my.yorku.ca.<br/>
+[![Final Release System Health Reporting Website](syshealth-finalrelease-images/4k_website_finalrelease.png)](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/ "Click here to access the Final Release Webapplication")<br/>
+This same application, in Beta release version can be accessed from [***here***](http://webdashboard-env.eba-kz9hmne2.us-east-1.elasticbeanstalk.com/).
 
 Brief explanation of code 🔨 🔨 🔨
 
@@ -121,31 +122,31 @@ Brief explanation of code 🔨 🔨 🔨
 This section shows the technical demonstration of each planned release of this project.
 
 #### Alpha Release 
-Shows **Figure7** (below) that demonstrates the end-to-end solution in it's alpha release state.<br/>
+Shows **Figure7** (below) that demonstrates the end-to-end solution in it's alpha release state. This video was recorded on March 22nd.<br/>
 [![Alpha Release Demonstration Video](http://img.youtube.com/vi/JA0sFErDQJs/0.jpg)](http://www.youtube.com/watch?v=JA0sFErDQJs "Click here to view Alpha Release video")
 ##### Time Stamps
 🔨 🔨 🔨
 
 #### Beta Release 
-Shows **Figure8** (below) that demonstrates the end-to-end solution in it's Beta release state.<br/>
+Shows **Figure8** (below) that demonstrates the end-to-end solution in it's Beta release state. This video was recorded on March 22nd.<br/>
 [![Beta Release Demonstration Video](http://img.youtube.com/vi/hYYy9_IT4uc/0.jpg)](http://www.youtube.com/watch?v=hYYy9_IT4uc "Click here to view Beta Release video")
 ##### Time Stamps
 🔨 🔨 🔨
 
 #### Omega Release
-Shows **Figure9** (below) that demonstrates the end-to-end solution in it's (other i.e.) Omega release state.<br/>
+Shows **Figure9** (below) that demonstrates the end-to-end solution in it's (other i.e.) Omega release state. This video was recorded on March 22nd.<br/>
 [![Omega Release Demonstration Video](http://img.youtube.com/vi/XcdjYUXQX3U/0.jpg)](http://www.youtube.com/watch?v=XcdjYUXQX3U "Click here to view Omega Release video")
 ##### Time Stamps
 🔨 🔨 🔨
 
 #### Data Propogation Reliability Test
-Shows **Figure10** (below) that demonstrates a test performed to improve data propogation reliability on the web-based anaytics dashboard. The application was in Beta Release during this demonstration.<br/>
+Shows **Figure10** (below) that demonstrates a test performed to improve data propogation reliability on the web-based anaytics dashboard. The application was in Beta Release during this demonstration. This video was recorded on March 29th.<br/>
 [![Data Propogation Test Video Demonstration](http://img.youtube.com/vi/au7qQV5Tq-Q/0.jpg)](http://www.youtube.com/watch?v=au7qQV5Tq-Q "Click here to view Data Propogation Reliability Test video")
 ##### Time Stamps
 🔨 🔨 🔨
 
 #### Error Notification Feature
-Shows **Figure11** (below) that demonstrates a push-notification feature implemented to improve user convinience. The application was in Beta Release during this demonstration.<br/>
+Shows **Figure11** (below) that demonstrates a push-notification feature implemented to improve user convinience. The application was in Beta Release during this demonstration. This video was recorded on March 29th.<br/>
 [![Error Notification Feature Demonstration](http://img.youtube.com/vi/tYvPlJ4o5VE/0.jpg)](http://www.youtube.com/watch?v=tYvPlJ4o5VE "Click here to view Error Notification Feature video")
 ##### Time Stamps
 🔨 🔨 🔨
