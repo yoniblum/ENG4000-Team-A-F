@@ -109,9 +109,9 @@ XBee MAC address: 0013A2004125A5B8<br/>
 XCTU Version: 6.5.5
 
 ### System-As-Built Software
-This section presents the webapplication dashboard of this project. To login please use username: "ambulance_crew" or username: "basestation_personnel" with password for both as password:"eng4k".
+This section presents the webapplication dashboard of this project.
 
-**Figure6** shows the system health reporting application. Please click on the image to access the login page to the dashboard.<br/>
+**Figure6** shows the system health reporting application. Please click on the image to access the login page to the dashboard. To access login credentials, email sid16@my.yorku.ca<br/>
 [![Final Release System Health Reporting Website](syshealth-finalrelease-images/4k_website_finalrelease.png)](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/ "Click here to access the Final Release Webapplication")
 
 Brief explanation of code 🔨 🔨 🔨
