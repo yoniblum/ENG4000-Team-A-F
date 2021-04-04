@@ -4,8 +4,8 @@
   * [Product Vision](#product-vision)
   * [Solution Architecture](#solution-architecture)
     + [Architecture Diagram](#architecture-diagram)
-    + [State Diagram](#state-diagram)
-    + [Sequence Diagram](#sequence-diagram)
+    + [System States Diagram](#system-states-diagram)
+    + [Solution Sequence Diagram](#solution-sequence-diagram)
   * [System-As-Built Hardware](#system-as-built-hardware)
   * [System-As-Built Software](#system-as-built-software)
   * [Technical Demonstration Videos](#technical-demonstration-videos)
@@ -60,11 +60,11 @@ This section presents the system-as-desgined and system-as-built through a serie
 <img src="syshealth-finalrelease-images/4k-architecture.png" alt=" " class="inline"/><br/>
 **Figure1** shows the end-to-end architecture of this application- capturing the flow of data in the system-as-designed, and the system-as-built. It is also the highest-level view of this solution- showing interactions between the microcontroller transmitting it's health infromation (from inside an ambulance) to the website presenting that transmitted data as visuals on a analytics dashboard. Each phase of the solution is labelled (from 1 to 7), and a brief description is provided for each section. 
 
-#### State Diagram
+#### System States Diagram
 <img src="syshealth-finalrelease-images/4k_transition_sys.png" alt=" " class="inline"/><br/>
 **Figure2** shows the Alpha, Beta and (other) Omega releases in the form of a state diagram. This figure absracts away individual hardware and software components, considering them as a whole i.e. a system. A breif description about the state diagram, and each release is provided in the figure. For more information please refer to corresponding release(s) in the [Technical Video Demonstration section](#technical-demonstration-videos).
 
-#### Sequence Diagram
+#### Solution Sequence Diagram
 <img src="syshealth-finalrelease-images/4k_sequence_diagram.png" alt=" " class="inline"/><br/>
 **Figure3** presents a lower-level view of this solution, compared to the architecture diagram. This figure considers the target user(s), and identifies their interaction with each component of the solution. In it, a Ambulance Crew or Basestation personnel memebers wants to view the dashboard. To do so they access the website, which is in production, and is updating the presentated analytics visuals; real-time as more microcontroller health data is transmitted (from the microcontroller in the ambulance, connected to an XBee transiever) and recieved on the Basestation.
 
