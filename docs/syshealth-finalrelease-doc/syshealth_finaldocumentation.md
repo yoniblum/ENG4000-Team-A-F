@@ -57,15 +57,15 @@ In essence, through this solution, the ambulance crew does not need to manually 
 This section presents the system-as-desgined and system-as-built through a series of diagrams, which were used to architect this project's solution. The presented diagrams range from high-level to low(er)-level.
 
 #### Architecture Diagram
-<img src="syshealth-finalrelease-images/4k-architecture.png" alt=" " class="inline"/>
-**Figure1** shows the end-to-end architecture of this application- capturing the system-as-designed, and system-as-built. It is also the highest-level view of this solution. Each phase of the solution is labelled (from 1 to 7), and a brief description is provided for each section. 
+<img src="syshealth-finalrelease-images/4k-architecture.png" alt=" " class="inline"/><br/>
+**Figure1** shows the end-to-end architecture of this application- capturing the flow of data in the system-as-designed, and the system-as-built. It is also the highest-level view of this solution- showing interactions between the microcontroller transmitting it's health infromation (from inside an ambulance) to the website presenting that transmitted data as visuals on a analytics dashboard. Each phase of the solution is labelled (from 1 to 7), and a brief description is provided for each section. 
 
 #### State Diagram
-<img src="syshealth-finalrelease-images/4k_transition_sys.png" alt=" " class="inline"/>
+<img src="syshealth-finalrelease-images/4k_transition_sys.png" alt=" " class="inline"/><br/>
 **Figure2** shows the Alpha, Beta and (other) Omega releases in the form of a state diagram. This figure absracts away individual hardware and software components, considering them as a whole i.e. a system. A breif description about the state diagram, and each release is provided in the figure. For more information please refer to corresponding release(s) in the [Technical Video Demonstration section](#technical-demonstration-videos).
 
 #### Sequence Diagram
-<img src="syshealth-finalrelease-images/4k_sequence_diagram.png" alt=" " class="inline"/>
+<img src="syshealth-finalrelease-images/4k_sequence_diagram.png" alt=" " class="inline"/><br/>
 **Figure3** presents a lower-level view of this solution, compared to the architecture diagram. This figure considers the target user(s), and identifies their interaction with each component of the solution. In it, a Ambulance Crew or Basestation personnel memebers wants to view the dashboard. To do so they access the website, which is in production, and is updating the presentated analytics visuals; real-time as more microcontroller health data is transmitted (from the microcontroller in the ambulance, connected to an XBee transiever) and recieved on the Basestation.
 
 ### System-As-Built Hardware
@@ -120,26 +120,31 @@ Brief explanation of code 🔨 🔨 🔨
 This section shows the technical demonstration of each planned release of this project.
 
 #### Alpha Release 
+Shows **Figure7** (below) that demonstrates the end-to-end solution in it's alpha release state.<br/>
 [![Alpha Release Demonstration Video](http://img.youtube.com/vi/JA0sFErDQJs/0.jpg)](http://www.youtube.com/watch?v=JA0sFErDQJs "Click here to view Alpha Release video")
 ##### Time Stamps
 🔨 🔨 🔨
 
 #### Beta Release 
+Shows **Figure8** (below) that demonstrates the end-to-end solution in it's Beta release state.<br/>
 [![Beta Release Demonstration Video](http://img.youtube.com/vi/hYYy9_IT4uc/0.jpg)](http://www.youtube.com/watch?v=hYYy9_IT4uc "Click here to view Beta Release video")
 ##### Time Stamps
 🔨 🔨 🔨
 
 #### Omega Release
+Shows **Figure9** (below) that demonstrates the end-to-end solution in it's (other) Omega release state.<br/>
 [![Omega Release Demonstration Video](http://img.youtube.com/vi/XcdjYUXQX3U/0.jpg)](http://www.youtube.com/watch?v=XcdjYUXQX3U "Click here to view Omega Release video")
 ##### Time Stamps
 🔨 🔨 🔨
 
 #### Data Propogation Reliability Test
+Shows **Figure10** (below) that demonstrates a test performed to improve data propogation reliability on the web-based anaytics dashboard. The application was in Beta Release during this demonstration.<br/>
 [![Data Propogation Test Video Demonstration](http://img.youtube.com/vi/au7qQV5Tq-Q/0.jpg)](http://www.youtube.com/watch?v=au7qQV5Tq-Q "Click here to view Data Propogation Reliability Test video")
 ##### Time Stamps
 🔨 🔨 🔨
 
 #### Error Notification Feature
+Shows **Figure11** (below) that demonstrates a push-notification feature implemented to improve user convinience. The application was in Beta Release during this demonstration.<br/>
 [![Error Notification Feature Demonstration](http://img.youtube.com/vi/tYvPlJ4o5VE/0.jpg)](http://www.youtube.com/watch?v=tYvPlJ4o5VE "Click here to view Error Notification Feature video")
 ##### Time Stamps
 🔨 🔨 🔨
