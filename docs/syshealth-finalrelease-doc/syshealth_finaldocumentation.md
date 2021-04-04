@@ -4,7 +4,7 @@
   * [Product Vision](#product-vision)
   * [Solution Architecture](#solution-architecture)
     + [Architecture Diagram](#architecture-diagram)
-    + [System States Diagram](#system-states-diagram)
+    + [System State(s) Diagram](#system-states-diagram)
     + [Solution Sequence Diagram](#solution-sequence-diagram)
   * [System-As-Built Hardware](#system-as-built-hardware)
   * [System-As-Built Software](#system-as-built-software)
