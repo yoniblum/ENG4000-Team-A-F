@@ -26,7 +26,7 @@
   * [Video Transcripts](#video-transcripts)
 
 ## Technical Volume
-This volume presents the technical aspects on this project, presenting infromation about the system-as-designed and system-as-built.
+This volume is about the technical aspects on this project, presenting infromation about the system-as-designed and system-as-built.
 
 ### Executive Summary
 Addresses: What is this project about and Why?
@@ -156,7 +156,7 @@ This section presents a deep-dive into the code written for the project- conside
 #### Tested Software Configurations
 
 ## Financial and Management Volume
-This volume presents the financial and management aspects on this project, examing project progress as planned versus as executed. Futheremore, presents a failure report, and lessons learnt.
+This volume is about the financial and management aspects on this project, examining project progress as planned versus as executed. Futheremore, presents a failure report, and lessons learnt section.
 
 ### Backlog and Planned set of Deliveries
 
