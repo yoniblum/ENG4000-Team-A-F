@@ -111,7 +111,7 @@ XCTU Version: 6.5.5
 ### System-As-Built Software
 This section presents the webapplication dashboard of this project. To login please use username: "ambulance_crew" or username: "basestation_personnel" with password for both as password:"eng4k".
 
-**Figure6** is the web-based, realtime system health reporting dashboard developed in this project.<br/>
+**Figure6** (below) shows the web-based, realtime system health reporting dashboard developed in this project. Please click on the image to access the web-application.<br/>
 [![Final Release System Health Reporting Website](syshealth-finalrelease-images/4k_website_finalrelease.png)](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/ "Click here to access the Final Release Webapplication")
 
 Brief explanation of code 🔨 🔨 🔨
