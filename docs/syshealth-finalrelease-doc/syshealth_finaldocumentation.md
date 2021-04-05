@@ -152,7 +152,7 @@ Shows **Figure11** (below) that demonstrates a push-notification feature impleme
 🔨 🔨 🔨
 
 #### Final Release 
-Shows **Figure12** (below) that demonstrates the final release of this application. This video was recorded on April 4th. Note: key moments in this video have organized into "chapters", if you follow the link below to the video on Youtube.<br/>
+Shows **Figure12** (below) that demonstrates the final release of this application. This video was recorded on April 4th. **Note:** key moments of this demonstration video have organized into "chapters" (to improve viewer convinience), if you follow the link below to the video on Youtube.<br/>
 [![Final Release Demonstration Video](http://img.youtube.com/vi/0CmlQ8UWoUE/0.jpg)](http://www.youtube.com/watch?v=0CmlQ8UWoUE "Click here to view Final Release Demonstration video") 
 
 ##### Key Moments (TBD-- Franz Feedback here) 
