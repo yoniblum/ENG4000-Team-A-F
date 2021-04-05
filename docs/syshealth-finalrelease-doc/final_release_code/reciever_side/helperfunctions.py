@@ -13,7 +13,7 @@ sns = boto3.client("sns",
     
 def get_xbeeData_from_config_file(key_name):
     #open config file
-    with open('config2.json') as config_file:
+    with open('config.json') as config_file:
         data = json.load(config_file) 
     #get key_name from config file
     if key_name in data['xbeeData']:
@@ -22,14 +22,14 @@ def get_xbeeData_from_config_file(key_name):
         raise ValueError("Error: " + key_name + "value is not in config.json!")
 def search_ambulanceID_from_config_file(xbeeMAC):
     #open config file
-    with open('config2.json') as config_file:
+    with open('config.json') as config_file:
         data = json.load(config_file)
     for keyval in data['ambulanceData']:
         if xbeeMAC.lower() == keyval['xbeeMAC'].lower():
             return keyval['ambulance']
 def get_notificationData_from_config_file(key_name):
     #open config file
-    with open('config2.json') as config_file:
+    with open('config.json') as config_file:
         data = json.load(config_file) 
     #get key_name from config file
     if key_name in data['notificationData']:
@@ -46,7 +46,7 @@ def data_receive_callback(xbee_message):
             print("From %s >> %s" % (sender_MAC, message))
 
             #open config file
-            with open('config2.json') as config_file:
+            with open('config.json') as config_file:
                 data = json.load(config_file) 
 
             #B) validating incoming XBee's MAC, and reterving Ambulance ID from config file
@@ -60,12 +60,12 @@ def data_receive_callback(xbee_message):
                 email = get_notificationData_from_config_file('email')
                 cell = get_notificationData_from_config_file('cell')
                 # Create SMS subscription
-                response = sns.subscribe(TopicArn="arn:aws:sns:us-east-1:09277538165:myErrorNotification", Protocol="SMS", Endpoint="+1*********")
+                response = sns.subscribe(TopicArn="arn:aws:sns:us-east-1:09277538165:myErrorNotification", Protocol="SMS", Endpoint=cell)
                 subscription_arn = response["SubscriptionArn"]                
 
 
                 # Create email subscription
-                response = sns.subscribe(TopicArn="arn:aws:sns:us-east-1:09277538165:myErrorNotification", Protocol="email", Endpoint="sid16@my.yorku.ca")
+                response = sns.subscribe(TopicArn="arn:aws:sns:us-east-1:09277538165:myErrorNotification", Protocol="email", Endpoint=email)
                 subscription_arn = response["SubscriptionArn"]
 
                 # Publish to topic
@@ -74,7 +74,7 @@ def data_receive_callback(xbee_message):
                             Subject="ERROR Encountered")
 
                 # Send a single SMS (no topic, no subscription needed)
-                sns.publish(PhoneNumber="+1*********", 
+                sns.publish(PhoneNumber=cell, 
                 Message="ERROR Encountered")
             
             #C) open, read and write to database
