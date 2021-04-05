@@ -1,0 +1,15 @@
+{
+    "xbeeData": {
+        "port": "/dev/ttyS0",
+        "baud_rate": "9600",
+        "remote_node_id": "BASESTATION"
+    }, 
+    "gyroData": {
+        "power_management_register": "0x6b", 
+        "address": "0x68", 
+        "x_threshold": "-100",
+        "y_threshold": "-200",
+        "z_threshold": "0"
+    }
+}
+
