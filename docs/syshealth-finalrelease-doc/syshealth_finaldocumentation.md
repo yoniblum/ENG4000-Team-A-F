@@ -175,17 +175,17 @@ This section presents a deep-dive into the code written for the project- conside
 
 #### Sender Side
 **Figure13** is a video in which I deep-dive into 'Sender Side' code. Please click on the image to access video.<br/>
-[![Deep-Dive into Sender-Side Code Video](http://img.youtube.com/vi/p60Z7ODrm3o/0.jpg)](http://www.youtube.com/watch?v=p60Z7ODrm3o "Deep-Dive into Sender-Side Code")<br/>
+[![Deep-Dive into Sender-Side Code Video](http://img.youtube.com/vi/p60Z7ODrm3o/0.jpg)](http://www.youtube.com/watch?v=p60Z7ODrm3o "Click here to view Deep-Dive into Sender-Side Code")<br/>
 The code shown in above video can be accessed from [***here***](final_release_code/sender_side/). <br/>
 
 #### Reciever Side
 **Figure14** is a video in which I deep-dive into 'Sender Side' code. Please click on the image to access video.<br/>
-[![Deep-Dive into Receiver-Side Code Video](http://img.youtube.com/vi/kcaFv91OEqU/0.jpg)](http://www.youtube.com/watch?v=kcaFv91OEqU "Deep-Dive into Receiver-Side Code")<br/>
+[![Deep-Dive into Receiver-Side Code Video](http://img.youtube.com/vi/kcaFv91OEqU/0.jpg)](http://www.youtube.com/watch?v=kcaFv91OEqU "Click here to view Deep-Dive into Receiver-Side Code")<br/>
 The code shown in above video can be accessed from [***here***](final_release_code/reciever_side/). <br/>
 
 #### Data Visualization and Presentation Side
 **Figure15** is a video in which I deep-dive into 'Data Visualization and Presentation Side' code. Please click on the image to access video.<br/>
-[![Deep-Dive into Data Visualization and Presentation Code Deep-Dive-Side Code Video](http://img.youtube.com/vi/Neu80C-x1JM/0.jpg)](http://www.youtube.com/watch?v=Neu80C-x1JM "Data Visualization and Presentation Code Deep-Dive")<br/>
+[![Deep-Dive into Data Visualization and Presentation Code Deep-Dive-Side Code Video](http://img.youtube.com/vi/Neu80C-x1JM/0.jpg)](http://www.youtube.com/watch?v=Neu80C-x1JM "Click here to view Data Visualization and Presentation Code Deep-Dive")<br/>
 The code shown in above video can be accessed from [***here***](final_release_code/data_visulization_and_presentation_side/). <br/>
 
 
@@ -198,6 +198,9 @@ The 'requirements.txt' files shown in above video can be accessed from [***here 
 This volume is about the financial and management aspects on this project, examining project progress as planned versus as executed. Furthermore, presents a failure report, and lessons learnt section.
 
 ### Backlog and Planned set of Deliveries
+**Figure16** is a video in which I address what did I ended up not doing, doing, and how things went different (if at all).
+<br/>
+[![Final Release: Backlog and Planned set of Deliveries Video](http://img.youtube.com/vi/27j5lJWL4go/0.jpg)](http://www.youtube.com/watch?v=27j5lJWL4go "Final Release: Backlog and Planned set of Deliveries")<br/>
 
 ### Estimated Budget for Rebuild
 
