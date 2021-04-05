@@ -186,9 +186,11 @@ The code shown in above video can be accessed from [***here***](final_release_co
 #### Data Visualization and Presentation Side
 **Figure15** is a video in which I deep-dive into 'Data Visualization and Presentation Side' code. Please click on the image to access video.<br/>
 [![Deep-Dive into Data Visualization and Presentation Code Deep-Dive-Side Code Video](http://img.youtube.com/vi/Neu80C-x1JM/0.jpg)](http://www.youtube.com/watch?v=Neu80C-x1JM "Data Visualization and Presentation Code Deep-Dive")<br/>
+The code shown in above video can be accessed from [***here***](final_release_code/data_visulization_and_presentation_side/). <br/>
+
 
 #### Tested Software Configurations
-**Figure15** is a video in which I present the sender side and reciever side software configurations as utilized in my production environment. Please click on the image to access video.<br/>
+**Figure16** is a video in which I present the sender side and reciever side software configurations as utilized in my production environment. Please click on the image to access video.<br/>
 [![Final Release System Health Reporting Website](syshealth-finalrelease-images/4k_website_finalrelease.png)](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/ "Click here to access the Final Release Webapplication")<br/>
 The 'requirements.txt' files shown in above video can be accessed from [***here for Reciever side***](final_release_code/reciever_side/requirements.txt), and [***here for Sender side***](final_release_code/sender_side/requirements.txt). <br/>
 
