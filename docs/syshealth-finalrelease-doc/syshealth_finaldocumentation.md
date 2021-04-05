@@ -114,9 +114,9 @@ This section presents the webapplication dashboard of this project.
 
 **Figure6** shows the system health reporting application. Please click on the image to access the login page to the dashboard. To access login credentials, email sid16@my.yorku.ca.<br/>
 [![Final Release System Health Reporting Website](syshealth-finalrelease-images/4k_website_finalrelease.png)](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/ "Click here to access the Final Release Webapplication")<br/>
-This same application, in Beta release version can be accessed from [***here***](http://webdashboard-env.eba-kz9hmne2.us-east-1.elasticbeanstalk.com/).
+This same application, in Beta release version can be accessed from [***here***](http://webdashboard-env.eba-kz9hmne2.us-east-1.elasticbeanstalk.com/). <br/>
 
-Brief explanation of code 🔨 🔨 🔨
+I cover the written code in-depth in section [Deep-dive into Code](#deep-dive-into-code). However, in short, I have two python executables running- one on the Pi, and the other on the Basestation PC. The Pi sends data about it's health to the Basestation PC through XBee Zigbee protocol python APIs. I also detail python libraries used and their versions in [Tested Software Configurations](#tested-software-configurations) section.
 
 ### Technical Demonstration Videos
 This section shows the technical demonstration of each planned release of this project.
@@ -155,8 +155,8 @@ Shows **Figure11** (below) that demonstrates a push-notification feature impleme
 Shows **Figure12** (below) that demonstrates the final release of this application. This video was recorded on April 4th.<br/>
 [![Final Release Demonstration Video](http://img.youtube.com/vi/0CmlQ8UWoUE/0.jpg)](http://www.youtube.com/watch?v=0CmlQ8UWoUE "Click here to view Final Release Demonstration video") 
 
-##### Time Stamps
-* Introduction and Summary of Content Covered in Video: https://youtu.be/0CmlQ8UWoUE?t=66
+##### Key Moments
+* Introduction and Summary of Content Covered in Video: [***here***](https://www.youtube.com/embed/0CmlQ8UWoUE?start=0&end=66)
 * Demonstration Set-up: 
 * Demonstration of Gyroscopic sensor in-operation:
 * Demonstration of Sending and Receiving data continuously (i.e. transition state Beta): 
