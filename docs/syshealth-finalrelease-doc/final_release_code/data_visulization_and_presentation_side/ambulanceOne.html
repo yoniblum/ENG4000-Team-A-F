@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<meta http-equiv="refresh" content="30;url=http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/ambulanceOne.html" />
+<!-- previous url when testing locally was:  /webdashboard/ambulanceOne.html -->
+<title>AmbulanceA</title>
+  <head>
+  <link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+	integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+	crossorigin="anonymous" />
+	
+    <!--Load the AJAX API-->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+    // Load Charts and the corechart package.
+    google.charts.load('current', {'packages':['corechart']});
+    //Call back functions to draw chart
+    google.charts.setOnLoadCallback(drawBasicChart);
+    google.charts.setOnLoadCallback(drawAnotherChart);
+    	
+    function drawBasicChart() {
+    	 var query = new google.visualization.Query(
+    	    'https://docs.google.com/spreadsheets/d/1JBF7YKX42XMaTmYnoiCazo-XRLtaoNrHFikdbpw08NQ/edit#gid=1104861896&sheet=production-env'
+    	  );
+    	  query.setQuery('SELECT B, C');
+    	  query.send(handleQueryResponse);
+    	}
+
+    	function handleQueryResponse(response) {
+    	  if (response.isError()) {
+    	    alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+    	    return;
+    	  }
+
+    	  var data = response.getDataTable();
+    	  var options = {
+    	    title: "Ambulance A System Health History",
+    	    width: 680,
+    	    height: 480,
+    	    bar: {groupWidth: "95%"},
+    	    legend: { position: "none" },
+    	  };
+    	  var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+    	  chart.draw(data, options);
+    	  
+    	  var scatter_chart = new google.visualization.ScatterChart(document.getElementById('scatter_chart_div'));
+    	  scatter_chart.draw(data, options);
+    	}
+    	function drawAnotherChart() {
+      	  var query = new google.visualization.Query(
+      	    'https://docs.google.com/spreadsheets/d/1JBF7YKX42XMaTmYnoiCazo-XRLtaoNrHFikdbpw08NQ/edit#gid=1104861896&sheet=production-env&header=0'
+      	  );
+      	  query.setQuery('SELECT B, C');
+      	  query.send(handleQueryResponse_two);
+      	}
+    	function handleQueryResponse_two(response) {
+      	  if (response.isError()) {
+      	    alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+      	    return;
+      	  }
+      	  
+      	var data = response.getDataTable();
+        visualization = new google.visualization.LineChart(document.getElementById('pie_chart_div'));
+        visualization.draw(data, {legend: 'bottom'});
+      	}   	
+    </script>
+  </head>
+  <body>
+  <nav class="navbar navbar-dark bg-primary" >
+  <span class="navbar-brand mb-0 h1">
+  <img src="yu_red_logo.png" width="45" height="45" alt="YorkU Logo" /> System Health Reporting Application</span>
+</nav>
+  <h1>Ambulance A Dashboard</h1>
+    <table class="columns">
+      <tr>
+        <td><div id="scatter_chart_div" style="border: 1px solid #ccc"></div></td>
+       <!--<td><div id="pie_chart_div" style="border: 1px solid #ccc"></div></td> -->
+      </tr>
+      <tr><td><div id="chart_div" style="border: 1px solid #ccc"></div></td></tr>
+    </table>
+  </body>
+  <div class="row justify-content-center">
+ <div class="footer">
+ <p> &#169; Copyright 2021 Siddharth Bhardwaj ENG4000</p>
+ </div>
+</div>
+</html>
