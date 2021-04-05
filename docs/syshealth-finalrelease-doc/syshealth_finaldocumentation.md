@@ -164,6 +164,8 @@ Shows **Figure12** (below) that demonstrates the final release of this applicati
 * Demonstration of Error-push-notification feature:
 * Conclusion:
 
+##### Video Transcript
+[Final Release Video Demonstration Transcript](video_transcripts/finalrelease_video_transcript.pdf)
 ### Deep-dive into Code
 This section presents a deep-dive into the code written for the project- considering the "sender side" and "reciever side". Also, it shows the tested software configurations (such as python libraries, etc) used to achieve expected and presented (above in technical demos section) functionality for this solution.
 🔨 🔨 🔨
