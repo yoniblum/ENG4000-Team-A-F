@@ -152,9 +152,17 @@ Shows **Figure11** (below) that demonstrates a push-notification feature impleme
 🔨 🔨 🔨
 
 #### Final Release 
-🔨 🔨 🔨
+Shows **Figure12** (below) that demonstrates the final release of this application. This video was recorded on April 4th.<br/>
+[![Final Release Demonstration Video](http://img.youtube.com/vi/0CmlQ8UWoUE/0.jpg)](http://www.youtube.com/watch?v=0CmlQ8UWoUE "Click here to view Final Release Demonstration video") 
+
 ##### Time Stamps
-🔨 🔨 🔨
+* Introduction and Summary of Content Covered in Video: https://youtu.be/0CmlQ8UWoUE?t=66
+* Demonstration Set-up: 
+* Demonstration of Gyroscopic sensor in-operation:
+* Demonstration of Sending and Receiving data continuously (i.e. transition state Beta): 
+* Demonstration of Sending and Receiving data on Reboot (i.e. transition state Omega):
+* Demonstration of Error-push-notification feature:
+* Conclusion:
 
 ### Deep-dive into Code
 This section presents a deep-dive into the code written for the project- considering the "sender side" and "reciever side". Also, it shows the tested software configurations (such as python libraries, etc) used to achieve expected and presented (above in technical demos section) functionality for this solution.
