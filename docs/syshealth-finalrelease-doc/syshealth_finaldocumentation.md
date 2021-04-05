@@ -16,6 +16,8 @@
     + [Error Notification Feature](#error-notification-feature)
     + [Final Release](#final-release)
   * [Deep-dive into Code](#deep-dive-into-code)
+    + [Sender Side](#sender-side)
+    + [Reciever Side](#reciever-side)
     + [Tested Software Configurations](#tested-software-configurations)
 - [Financial and Management Volume](#financial-and-management-volume)
   * [Backlog and Planned set of Deliveries](#backlog-and-planned-set-of-deliveries)
