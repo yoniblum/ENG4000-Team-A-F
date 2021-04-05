@@ -198,7 +198,7 @@ The 'requirements.txt' files shown in above video can be accessed from [***here 
 This volume is about the financial and management aspects on this project, examining project progress as planned versus as executed. Furthermore, presents a failure report, and lessons learnt section.
 
 ### Backlog and Planned set of Deliveries
-**Figure16** is a video in which I address what did I ended up not doing, doing, and how things went different (if at all).
+**Figure17** is a video in which I address what did I ended up not doing, doing, and how things went different (if at all).
 <br/>
 [![Final Release: Backlog and Planned set of Deliveries Video](http://img.youtube.com/vi/27j5lJWL4go/0.jpg)](http://www.youtube.com/watch?v=27j5lJWL4go "Final Release: Backlog and Planned set of Deliveries")<br/>
 
