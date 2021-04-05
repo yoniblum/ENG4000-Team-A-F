@@ -166,11 +166,24 @@ Shows **Figure12** (below) that demonstrates the final release of this applicati
 
 ##### Video Transcript
 [Final Release Video Demonstration Transcript](video_transcripts/finalrelease_video_transcript.pdf)
+
 ### Deep-dive into Code
 This section presents a deep-dive into the code written for the project- considering the "sender side" and "reciever side". Also, it shows the tested software configurations (such as python libraries, etc) used to achieve expected and presented (above in technical demos section) functionality for this solution.
-🔨 🔨 🔨
+
+#### Sender Side
+**Figure13** is a video in which I deep-dive into 'Sender Side' code. Please click on the image to access video.<br/>
+[![Final Release System Health Reporting Website](syshealth-finalrelease-images/4k_website_finalrelease.png)](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/ "Click here to access the Final Release Webapplication")<br/>
+The code shown in above video can be accessed from [***here***](final_release_code/sender_side/). <br/>
+
+#### Reciever Side
+**Figure14** is a video in which I deep-dive into 'Sender Side' code. Please click on the image to access video.<br/>
+[![Final Release System Health Reporting Website](syshealth-finalrelease-images/4k_website_finalrelease.png)](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/ "Click here to access the Final Release Webapplication")<br/>
+The code shown in above video can be accessed from [***here***](final_release_code/reciever_side/). <br/>
 
 #### Tested Software Configurations
+**Figure15** is a video in which I present the sender side and reciever side software configurations as utilized in my production environment. Please click on the image to access video.<br/>
+[![Final Release System Health Reporting Website](syshealth-finalrelease-images/4k_website_finalrelease.png)](http://webdashboard-env.eba-gddzrybt.us-east-1.elasticbeanstalk.com/ "Click here to access the Final Release Webapplication")<br/>
+The 'requirements.txt' files shown in above video can be accessed from [***here for Reciever side***](final_release_code/reciever_side/requirements.txt), and [***here for Sender side***](final_release_code/reciever_side/requirements.txt). <br/>
 
 ## Financial and Management Volume
 This volume is about the financial and management aspects on this project, examining project progress as planned versus as executed. Furthermore, presents a failure report, and lessons learnt section.
