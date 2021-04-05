@@ -152,10 +152,10 @@ Shows **Figure11** (below) that demonstrates a push-notification feature impleme
 🔨 🔨 🔨
 
 #### Final Release 
-Shows **Figure12** (below) that demonstrates the final release of this application. This video was recorded on April 4th.<br/>
+Shows **Figure12** (below) that demonstrates the final release of this application. This video was recorded on April 4th. Note: key moments in this video have organized into "chapters", if you follow the link below to the video on Youtube.<br/>
 [![Final Release Demonstration Video](http://img.youtube.com/vi/0CmlQ8UWoUE/0.jpg)](http://www.youtube.com/watch?v=0CmlQ8UWoUE "Click here to view Final Release Demonstration video") 
 
-##### Key Moments
+##### Key Moments (TBD-- Franz Feedback here) 
 * Introduction and Summary of Content Covered in Video: [***here***](https://www.youtube.com/embed/0CmlQ8UWoUE?start=0&end=66)
 * Demonstration Set-up: 
 * Demonstration of Gyroscopic sensor in-operation:
