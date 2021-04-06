@@ -205,8 +205,17 @@ This volume is about the financial and management aspects on this project, exami
 ### Estimated Budget for Rebuild
 <object data="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4fxWeobQg3k6nQTKFKnkujs5Tx9-UX7vqbfHfuYsjIOXNxMjg1a6L3SQlK4WroObdA0PMuPVRr7_c/pubhtml?gid=2030781969&amp;single=true&amp;widget=true&amp;headers=false" width="1000" height="500" seamless frameborder="0"></object>
 ### Business Plan
+🔨 🔨 🔨
 
 ### Failures and Lessons Learnt
+🔨 🔨 🔨
+Lessons Learnt were:
+* Bias for Action: 
+* Dive-Deep: 
+* Ownership: 
+* Learn and be Curious: 
+* Earn Trust: 
+* Deliver Results: 
 
 ## Appendix
 ### Video Transcripts
