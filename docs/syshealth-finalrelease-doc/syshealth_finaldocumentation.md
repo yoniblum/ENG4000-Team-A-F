@@ -203,7 +203,7 @@ This volume is about the financial and management aspects on this project, exami
 [![Final Release: Backlog and Planned set of Deliveries Video](http://img.youtube.com/vi/27j5lJWL4go/0.jpg)](http://www.youtube.com/watch?v=27j5lJWL4go "Final Release: Backlog and Planned set of Deliveries")<br/>
 
 ### Estimated Budget for Rebuild
-<object data="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4fxWeobQg3k6nQTKFKnkujs5Tx9-UX7vqbfHfuYsjIOXNxMjg1a6L3SQlK4WroObdA0PMuPVRr7_c/pubhtml?gid=2030781969&amp;single=true&amp;widget=true&amp;headers=false" width="10000" height="200" seamless frameborder="0"></object>
+<object data="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4fxWeobQg3k6nQTKFKnkujs5Tx9-UX7vqbfHfuYsjIOXNxMjg1a6L3SQlK4WroObdA0PMuPVRr7_c/pubhtml?gid=2030781969&amp;single=true&amp;widget=true&amp;headers=false" width="1000" height="350" seamless frameborder="0"></object>
 ### Business Plan
 🔨 🔨 🔨
 
