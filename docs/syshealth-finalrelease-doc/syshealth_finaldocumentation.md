@@ -127,32 +127,22 @@ This section shows the technical demonstration of each planned release of this p
 #### Alpha Release 
 Shows **Figure7** (below) that demonstrates the end-to-end solution in it's alpha release state. This video was recorded on March 22nd.<br/>
 [![Alpha Release Demonstration Video](http://img.youtube.com/vi/JA0sFErDQJs/0.jpg)](http://www.youtube.com/watch?v=JA0sFErDQJs "Click here to view Alpha Release video")
-##### Time Stamps
-🔨 🔨 🔨
 
 #### Beta Release 
 Shows **Figure8** (below) that demonstrates the end-to-end solution in it's Beta release state. This video was recorded on March 22nd.<br/>
 [![Beta Release Demonstration Video](http://img.youtube.com/vi/hYYy9_IT4uc/0.jpg)](http://www.youtube.com/watch?v=hYYy9_IT4uc "Click here to view Beta Release video")
-##### Time Stamps
-🔨 🔨 🔨
 
 #### Omega Release
 Shows **Figure9** (below) that demonstrates the end-to-end solution in it's (other i.e.) Omega release state. This video was recorded on March 22nd.<br/>
 [![Omega Release Demonstration Video](http://img.youtube.com/vi/XcdjYUXQX3U/0.jpg)](http://www.youtube.com/watch?v=XcdjYUXQX3U "Click here to view Omega Release video")
-##### Time Stamps
-🔨 🔨 🔨
 
 #### Data Propogation Reliability Test
 Shows **Figure10** (below) that demonstrates a test performed to improve data propogation reliability on the web-based anaytics dashboard. The application was in Beta Release during this demonstration. This video was recorded on March 29th.<br/>
 [![Data Propogation Test Video Demonstration](http://img.youtube.com/vi/au7qQV5Tq-Q/0.jpg)](http://www.youtube.com/watch?v=au7qQV5Tq-Q "Click here to view Data Propogation Reliability Test video")
-##### Time Stamps
-🔨 🔨 🔨
 
 #### Error Notification Feature
 Shows **Figure11** (below) that demonstrates a push-notification feature implemented to improve user convinience. The application was in Beta Release during this demonstration. This video was recorded on March 29th.<br/>
 [![Error Notification Feature Demonstration](http://img.youtube.com/vi/tYvPlJ4o5VE/0.jpg)](http://www.youtube.com/watch?v=tYvPlJ4o5VE "Click here to view Error Notification Feature video")
-##### Time Stamps
-🔨 🔨 🔨
 
 #### Final Release 
 Shows **Figure12** (below) that demonstrates the final release of this application. This video was recorded on April 4th. **Note:** key moments of this demonstration video have organized into "chapters" (to improve viewer convinience), if you follow the link below to the video on Youtube.<br/>
@@ -220,7 +210,8 @@ The features needed to make this implemented solution a full-up system are:
 * Mechanical interface (i.e. wiring and how it gets mounted to ambulance) improvement.
 
 ### Failures and Lessons Learnt
-🔨 🔨 🔨
+Addresses: How did plans deviate (if any)? What to do the same or different for project, team and yourself?
+
 Lessons Learnt were:
 * Bias for Action: 
 * Dive-Deep: 
