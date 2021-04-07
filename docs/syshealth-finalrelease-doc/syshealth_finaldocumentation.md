@@ -204,8 +204,20 @@ This volume is about the financial and management aspects on this project, exami
 
 ### Estimated Budget for Rebuild
 <object data="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4fxWeobQg3k6nQTKFKnkujs5Tx9-UX7vqbfHfuYsjIOXNxMjg1a6L3SQlK4WroObdA0PMuPVRr7_c/pubhtml?gid=2030781969&amp;single=true&amp;widget=true&amp;headers=false" width="1000" height="350" seamless frameborder="0"></object>
+
 ### Business Plan
-🔨 🔨 🔨
+Addresses: Why is this an adequate solution(important financially)? How do you get from this to a full-up system?
+
+The solution implemented for this project has parts which can be bought in bulk. Detecting problems early so that there is less downtime, which means ambulance crews can focus on part of the job that cannot  be automated. This part of this solution is relatively low cost compared to the pneumatic pumping, which would be expensive to implement redundancy on.  This solution is not providing a means to recover in-case of failure, it is providing early warning of failure, and supporting quick recovery from failure.<br/>
+ If this solution is not implemented, it requires paying someone to constantly report on system health. By having an automated system- 1) if bvm fails basetstation cantell crew 2) it allows the basestation to have parts to swap out when ambulance comes back 3) another ambulance that is off duty can be triggered to bring in a spare in their ambulance. In essence, this part of the solution has the potential to improve patient outcome- quicker detection of failure and quicker recovery from failure. Also, it’s less expensive than a fully-redundant pneumatic pumping system.<br/>
+ 
+A full up system is a robust, fully functional and reliable system. In essence, a full-up system is a (possibly proprietary) final product.<br/>
+The features needed to make this implemented solution a full-up system are:
+* Reporting on intermediate ambulances.
+* Configuring other sensors through config file.
+* Making the web-interface more intuitive and configurable by the end-user.
+* Making the visuals more informative.
+* Mechanical interface (i.e. wiring and how it gets mounted to ambulance) improvement.
 
 ### Failures and Lessons Learnt
 🔨 🔨 🔨
