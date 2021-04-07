@@ -123,8 +123,8 @@ I cover the written code in-depth in section [Deep-dive into Code](#deep-dive-in
 ### Technical Demonstration Videos
 This section shows the technical demonstration of each planned release of this project.
 
-> **_NOTE:_** Please watch [***this***](https://youtu.be/6q5vhEFsnqY) video before watching any technical demonstration videos below.
-> 
+> **_NOTE:_** Please watch [***this***](https://youtu.be/6q5vhEFsnqY) video before watching any technical demonstration videos below. 
+
 #### Alpha Release 
 Shows **Figure7** (below) that demonstrates the end-to-end solution in it's alpha release state. This video was recorded on March 22nd.<br/>
 [![Alpha Release Demonstration Video](http://img.youtube.com/vi/JA0sFErDQJs/0.jpg)](http://www.youtube.com/watch?v=JA0sFErDQJs "Click here to view Alpha Release video")
