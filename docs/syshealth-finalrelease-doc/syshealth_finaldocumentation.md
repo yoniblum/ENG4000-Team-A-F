@@ -130,34 +130,40 @@ This section shows the technical demonstration of each planned release of this p
 Shows **Figure7** (below) that demonstrates the end-to-end solution in it's alpha release state. This video was recorded on March 22nd.<br/>
 [![Alpha Release Demonstration Video](http://img.youtube.com/vi/JA0sFErDQJs/0.jpg)](http://www.youtube.com/watch?v=JA0sFErDQJs "Click here to view Alpha Release video")
 
+##### Video Transcript
+[Alpha Release Video Transcript](video_transcripts/alpha_video_transcript.pdf)
+
 #### Beta Release 
 Shows **Figure8** (below) that demonstrates the end-to-end solution in it's Beta release state. This video was recorded on March 22nd.<br/>
 [![Beta Release Demonstration Video](http://img.youtube.com/vi/hYYy9_IT4uc/0.jpg)](http://www.youtube.com/watch?v=hYYy9_IT4uc "Click here to view Beta Release video")
+
+##### Video Transcript
+[Beta Release Video Transcript](video_transcripts/beta_video_transcript.pdf)
 
 #### Omega Release
 Shows **Figure9** (below) that demonstrates the end-to-end solution in it's (other i.e.) Omega release state. This video was recorded on March 22nd.<br/>
 [![Omega Release Demonstration Video](http://img.youtube.com/vi/XcdjYUXQX3U/0.jpg)](http://www.youtube.com/watch?v=XcdjYUXQX3U "Click here to view Omega Release video")
 
+##### Video Transcript
+[Omega Release Video Transcript](video_transcripts/omega_video_transcript.pdf)
+
 #### Data Propogation Reliability Test
 Shows **Figure10** (below) that demonstrates a test performed to improve data propogation reliability on the web-based anaytics dashboard. The application was in Beta Release during this demonstration. This video was recorded on March 29th.<br/>
 [![Data Propogation Test Video Demonstration](http://img.youtube.com/vi/au7qQV5Tq-Q/0.jpg)](http://www.youtube.com/watch?v=au7qQV5Tq-Q "Click here to view Data Propogation Reliability Test video")
+
+##### Video Transcript
+[Data Reliability Test Video Transcript](video_transcripts/omega_video_transcript.pdf)
 
 #### Error Notification Feature
 Shows **Figure11** (below) that demonstrates a push-notification feature implemented to improve user convinience. The application was in Beta Release during this demonstration. This video was recorded on March 29th.<br/>
 [![Error Notification Feature Demonstration](http://img.youtube.com/vi/tYvPlJ4o5VE/0.jpg)](http://www.youtube.com/watch?v=tYvPlJ4o5VE "Click here to view Error Notification Feature video")
 
+##### Video Transcript
+[Error Notification Feature Video Transcript](video_transcripts/errornotification_video_transcript.pdf)
+
 #### Final Release 
 Shows **Figure12** (below) that demonstrates the final release of this application. This video was recorded on April 4th. **Note:** key moments of this demonstration video have organized into "chapters" (to improve viewer convinience), if you follow the link below to the video on Youtube.<br/>
 [![Final Release Demonstration Video](http://img.youtube.com/vi/0CmlQ8UWoUE/0.jpg)](http://www.youtube.com/watch?v=0CmlQ8UWoUE "Click here to view Final Release Demonstration video") 
-
-##### Key Moments (TBD-- Franz Feedback here) 
-* Introduction and Summary of Content Covered in Video: [***here***](https://www.youtube.com/embed/0CmlQ8UWoUE?start=0&end=66)
-* Demonstration Set-up: 
-* Demonstration of Gyroscopic sensor in-operation:
-* Demonstration of Sending and Receiving data continuously (i.e. transition state Beta): 
-* Demonstration of Sending and Receiving data on Reboot (i.e. transition state Omega):
-* Demonstration of Error-push-notification feature:
-* Conclusion:
 
 ##### Video Transcript
 [Final Release Video Demonstration Transcript](video_transcripts/finalrelease_video_transcript.pdf)
