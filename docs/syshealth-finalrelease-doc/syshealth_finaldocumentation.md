@@ -228,14 +228,6 @@ Lessons Learnt were:
 * Earn Trust: 
 * Deliver Results: 
 
-## Appendix
-### Video Transcripts
-* [Alpha Release Video Transcript](video_transcripts/alpha_video_transcript.pdf)
-* [Beta Release Video Transcript](video_transcripts/beta_video_transcript.pdf)
-* [Omega Release Video Transcript](video_transcripts/omega_video_transcript.pdf)
-* [Data Reliability Test Video Transcript](video_transcripts/omega_video_transcript.pdf)
-* [Error Notification Feature Video Transcript](video_transcripts/errornotification_video_transcript.pdf)
-
 ## References
 1. Deliverables Documentation.ENG4000 Fall-Winter-2020-21. Retrieved from: https://eclass.yorku.ca/eclass/course/view.php?id=6123
 
