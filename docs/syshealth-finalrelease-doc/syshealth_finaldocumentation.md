@@ -25,8 +25,7 @@
   * [Estimated Budget for Rebuild](#estimated-budget-for-rebuild)
   * [Business Plan](#business-plan)
   * [Failures and Lessons Learnt](#failures-and-lessons-learnt)
-- [Appendix](#appendix)
-  * [Video Transcripts](#video-transcripts)
+- [References](#references)
 
 ## Technical Volume
 This volume is about the technical aspects on this project, presenting information about the system-as-designed and system-as-built.
