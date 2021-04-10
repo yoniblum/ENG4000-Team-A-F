@@ -219,13 +219,21 @@ The features needed to make this implemented solution a full-up system are:
 ### Failures and Lessons Learnt
 Addresses: How did plans deviate (if any)? What to do the same or different for project, team and yourself?
 
-Lessons Learnt were:
-* Bias for Action: 
-* Dive-Deep: 
-* Ownership: 
-* Learn and be Curious: 
-* Earn Trust: 
-* Deliver Results: 
+Plans deviated from original when I was not able to obtain multiple Raspberry Pi units. This was due to the 1000$ financial budget allocated to teams, and also because of the Pandemic- the deliveries of these parts would not be in-time for the planned final release. Instead, I focused on building other parts of the project that drove the product further. In essence, I pivoted from adding multiple Pis  to adding a push-notification error feature, which did not have any task dependencies and was built using Software. Otherwise, all tasks were executed as planned (though here I’d like to acknowledge again that the work done could definitely be better e.g. make the analytics visuals more meaningful, test transceiver communication with a 9km radius, etc).
+
+For the project, I would do everything the same (as done for this winter-term project). I am satisfied with work inputted, and corresponding output achieved- in a course of 3 months I was able deliver an end-to-end solution.
+
+For the team, I would want to operate better in a team setting. Our team faced alot of challenges in the fall term, which impacted members in their personal lives- speaking for myself. Thus, I would want to want to work differently (i.e. better) in a team setting with other members to deliver a meaningful solution as one unit. 
+
+For myself, I’d like to have a different mindset when initially starting ENG4000. I enrolled with a mindset that by joining a team and working on a project, I would be able to find meaning that would help me grow as an engineer. However, if given the opportunity, I would change this mindset to- instead of waiting for that meaning to come to you within a project, you have to go search for that meaning within the project itself. It’s not going to appear “one-fine-day” rather you have to diligently look for work within the project that would add meaning to you as an engineer or builder. In essence, this is the mindset I would’ve liked to have had when enrolling this course, and deciding on team-members to work with. 
+
+Also, some other lessons learnt were:
+* Bias for Action: diligent conducting sprints, completing tasks, and using time with my supervisor for feedback rather than direction. Throughout the semester, I made sure to do the work ahead of time or build an example before taking it to my supervisor for feedback. In essence, I boosted project progress by having conversations with my supervisor at level 2 instead of level 1 through my bias for action.
+* Dive-Deep: taking on an unknown topic by dedicating time to reading documentation, testing and integration into the project. I have zero prior experience with Google APIs. Thus, in deciding on the technology to use for data storage I collected data from supervisors and peers, then dove-deep into understanding what are Google APIs and how can I use them in this project. Through a successful deep-dive I was able to learn about and understand Google APIs and then subsequently use them in two parts of this project- data storage and data visualization.
+* Ownership: through empathizing and understanding the problem I was able to take ownership of this end-to-end solution- delivering a working (but still could be improved) product. In essence, through this ownership I was able channel my passion and motivation to successfully deliver an alpha, beta and final release; of this solution. 
+* Learn and be Curious: through viewing unknown knowledge from a lens of curiosity, and channelling that into a desire to learn- I was able to drive product development by diving-deep into learning about technologies (using XBee transceivers to create a mesh network, Raspberry Pi, Google APIs, etc), and techniques (using java-script to generate visuals, using configuration files, etc).
+*  Earn Trust: through the work done in the Alpha, Beta and Final release I was able to earn trust with my supervisor and stakeholder.
+* Deliver Results: through the final release of this end-to-end solution I was able to deliver a meaningful solution that could help ambulance crews and basestation personnel-- potentially improve mortality rate through using this fault detection system. In essence, I delivered on all committed-to tasks that constitute to the delivery of this final project (system health reporting application) in ENG4000.  
 
 ## References
 1. Deliverables Documentation.ENG4000 Fall-Winter-2020-21. Retrieved from: https://eclass.yorku.ca/eclass/course/view.php?id=6123
