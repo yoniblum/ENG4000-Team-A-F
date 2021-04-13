@@ -185,4 +185,4 @@ Beta release of the system health reporting component of this project. Shows the
 ### Final Release
 
 ### [System Health Reporting Application](docs/syshealth-finalrelease-doc/syshealth_finaldocumentation.md)
-Built by [Siddharth Bhardwaj](https://github.com/SidB16), this is the final release documentation of this end-to-end solution. This solution integrates with the automated pumping device (covered in subsequent sections) as a fault detection and down-time mitigation component.
+Built and documented by [Siddharth Bhardwaj](https://github.com/SidB16), this is the final release documentation of this end-to-end solution. This solution integrates with the automated pumping device (covered in subsequent sections) as a fault detection and down-time mitigation component.
