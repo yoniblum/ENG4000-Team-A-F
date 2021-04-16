@@ -27,7 +27,7 @@ Current Status of design
 
 
 Here is the link for the demo of the current state of our design: 
-https://www.youtube.com/watch?v=_AZJozpitFU&ab_channel=AreebaAbidi
+<h2> https://www.youtube.com/watch?v=_AZJozpitFU&ab_channel=AreebaAbidi </h2>
 
 
 Roadmap for Final Release
