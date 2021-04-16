@@ -5,8 +5,12 @@ The original purpose of our Beta Release was to create the first iteration of ou
 
 The automated BVM is controlled by relaying voltages to the 5/2 valve.  The solenoid in the valve moves back and forth depending on the voltage it receives at the port. When the voltage sent into the 5/2 valve is 24 V, the solenoid contracts, causing air to be directed from the 4 outlet.
 
-
+ocs/gate5/pasted image 0 (4).png
 <img src="https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/Festo_Design.png" alt="Italian Trulli">
+
+
+  <img src="gate5/pasted image 0 (4).png" alt=" " class="inline"/>
+
 
 When the voltage sent in is 0V, the solenoid retracts, causing air to be directed from the 2 outlet.  This causes the piston in the cylinder to move back and forth, which compresses the BVM.  
 
