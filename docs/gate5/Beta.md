@@ -26,9 +26,9 @@ Picture 24 Volts is relayed across the resistor, which will be replaced by the 5
 Current Status of design
 
 
-Here is the link for the demo of the current state of our design: 
-<h2> https://www.youtube.com/watch?v=_AZJozpitFU&ab_channel=AreebaAbidi </h2>
-
+<h2> 
+###[Here is the link for the demo of the current state of our design:] (https://www.youtube.com/watch?v=_AZJozpitFU&ab_channel=AreebaAbidi)
+ </h2>
 
 Roadmap for Final Release
 
