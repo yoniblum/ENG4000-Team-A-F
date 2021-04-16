@@ -26,12 +26,11 @@ Picture 24 Volts is relayed across the resistor, which will be replaced by the 5
 Current Status of design
 
 
-### [Stakeholder Feedback](docs/gate4/feedback.md)
-<h2> 
-###[Here is the link for the demo of the current state of our design:] (https://www.youtube.com/watch?v=_AZJozpitFU&ab_channel=AreebaAbidi)
- </h2>
+### [Here is the link for the demo of the current state of our design](https://www.youtube.com/watch?v=_AZJozpitFU&ab_channel=AreebaAbidi)
 
-Roadmap for Final Release
+
+
+<h2>Roadmap for Final Release</h2>
 
 
 As mentioned previously, for the beta release we physically implemented and tested the parts of our design that we had access to. While originally we had intended to use the final release to implement fault detection and fine tune the assembled design, we are now also using it to complete the assembly of the automatic BVM.  We have recently received the pneumatic components and have begun the assembly for the final product.  
