@@ -3,7 +3,12 @@
 The original purpose of our Beta Release was to create the first iteration of our final product design, recognizing that the final product would require fine tuning. Due to delays in the delivery of the pneumatic components of our product, we have had to modify our plans to make do with the parts that we had received.  
 
 
-The automated BVM is controlled by relaying voltages to the 5/2 valve.  The solenoid in the valve moves back and forth depending on the voltage it receives at the port. When the voltage sent into the 5/2 valve is 24 V, the solenoid contracts, causing air to be directed from the 4 outlet (https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/Festo_Design.png), and when the voltage sent in is 0V, the solenoid retracts, causing air to be directed from the 2 outlet.  This causes the piston in the cylinder to move back and forth, which compresses the BVM.  
+The automated BVM is controlled by relaying voltages to the 5/2 valve.  The solenoid in the valve moves back and forth depending on the voltage it receives at the port. When the voltage sent into the 5/2 valve is 24 V, the solenoid contracts, causing air to be directed from the 4 outlet.
+
+
+<img src="https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate4/Images/Festo_Design.png" alt="Italian Trulli">
+
+When the voltage sent in is 0V, the solenoid retracts, causing air to be directed from the 2 outlet.  This causes the piston in the cylinder to move back and forth, which compresses the BVM.  
 
 Since we have had access to the electronic components of our product, we have prepared them in advance of the final assembly.  Specifically, we have created a voltage control relay which can send 24V signals through a load for a programmable duration.  This relay, a RPi Relay Board, is controlled by a Raspberry Pi 4 Model B.  
 
