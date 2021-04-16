@@ -26,6 +26,7 @@ Picture 24 Volts is relayed across the resistor, which will be replaced by the 5
 Current Status of design
 
 
+### [Stakeholder Feedback](docs/gate4/feedback.md)
 <h2> 
 ###[Here is the link for the demo of the current state of our design:] (https://www.youtube.com/watch?v=_AZJozpitFU&ab_channel=AreebaAbidi)
  </h2>
