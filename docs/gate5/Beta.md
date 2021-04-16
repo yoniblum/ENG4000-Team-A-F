@@ -18,4 +18,36 @@ It toggled back and forth between the voltage input by the supply and zero volts
 The goal is to modify the durations of the voltage levels through experimentation to get the piston to pump the bag at the desired rate of 14-20  breaths/min.  This will be done once the rest of the parts have been connected/assembled.  
 
 
-Here is an electrical diagram of the voltage control.  
+
+
+<img src="https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate5/pasted%20image%200%20(4).png" alt="Italian Trulli">
+Picture 24 Volts is relayed across the resistor, which will be replaced by the 5/2 Valve Port
+
+Current Status of design
+
+
+Here is the link for the demo of the current state of our design: 
+https://www.youtube.com/watch?v=_AZJozpitFU&ab_channel=AreebaAbidi
+
+
+Roadmap for Final Release
+
+
+As mentioned previously, for the beta release we physically implemented and tested the parts of our design that we had access to. While originally we had intended to use the final release to implement fault detection and fine tune the assembled design, we are now also using it to complete the assembly of the automatic BVM.  We have recently received the pneumatic components and have begun the assembly for the final product.  
+
+
+Citations
+
+[1] http://www.ingcool.cn/w/images/d/d7/RPi-Relay-Board-Schematic.pdf
+
+Beta Release Context, Current status of design, and Roadmap for Final Release
+
+
+****
+
+
+****
+
+
+****
+
