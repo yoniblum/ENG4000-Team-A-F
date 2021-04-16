@@ -1,4 +1,4 @@
-<h1> Purpose of the Beta Release</h1>
+<h1> Beta Release Description </h1>
 
 The original purpose of our Beta Release was to create the first iteration of our final product design, recognizing that the final product would require fine tuning. Due to delays in the delivery of the pneumatic components of our product, we have had to modify our plans to make do with the parts that we had received.  
 
@@ -12,3 +12,5 @@ It toggled back and forth between the voltage input by the supply and zero volts
 
 The goal is to modify the durations of the voltage levels through experimentation to get the piston to pump the bag at the desired rate of 14-20  breaths/min.  This will be done once the rest of the parts have been connected/assembled.  
 
+
+Here is an electrical diagram of the voltage control.  
