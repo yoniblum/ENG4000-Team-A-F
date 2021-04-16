@@ -21,6 +21,8 @@ The goal is to modify the durations of the voltage levels through experimentatio
 
 
 <img src="https://github.com/SidB16/ENG4000-Team-A-F/blob/main/docs/gate5/pasted%20image%200%20(4).png" alt="Italian Trulli">
+
+<img src="Image/pasted image 0 (4).png" alt=" " class="inline"/> 
 Picture 24 Volts is relayed across the resistor, which will be replaced by the 5/2 Valve Port
 
 Current Status of design
