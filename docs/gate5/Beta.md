@@ -8,9 +8,6 @@ The automated BVM is controlled by relaying voltages to the 5/2 valve.  The sole
 <img src="Images/Festo_Design.png" alt=" " class="inline"/>
 
 
-  <img src="gate5/pasted image 0 (4).png" alt=" " class="inline"/>
-
-
 When the voltage sent in is 0V, the solenoid retracts, causing air to be directed from the 2 outlet.  This causes the piston in the cylinder to move back and forth, which compresses the BVM.  
 
 Since we have had access to the electronic components of our product, we have prepared them in advance of the final assembly.  Specifically, we have created a voltage control relay which can send 24V signals through a load for a programmable duration.  This relay, a RPi Relay Board, is controlled by a Raspberry Pi 4 Model B.  
