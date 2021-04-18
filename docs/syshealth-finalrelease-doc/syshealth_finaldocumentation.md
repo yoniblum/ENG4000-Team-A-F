@@ -173,17 +173,17 @@ This section presents a deep-dive into the code written for the project- conside
 #### Sender Side
 **Figure13** is a video in which I deep-dive into 'Sender Side' code. Please click on the image to access video.<br/>
 [![Deep-Dive into Sender-Side Code Video](http://img.youtube.com/vi/p60Z7ODrm3o/0.jpg)](http://www.youtube.com/watch?v=p60Z7ODrm3o "Click here to view Deep-Dive into Sender-Side Code")<br/>
-The code shown in above video can be accessed from [***here***](final_release_code/sender_side/). <br/>
+The code shown in above video can be accessed from [***here***](https://github.com/SidB16/ENG4000-Team-A-F/tree/main/docs/syshealth-finalrelease-doc/final_release_code/sender_side/). <br/>
 
 #### Reciever Side
 **Figure14** is a video in which I deep-dive into 'Sender Side' code. Please click on the image to access video.<br/>
 [![Deep-Dive into Receiver-Side Code Video](http://img.youtube.com/vi/kcaFv91OEqU/0.jpg)](http://www.youtube.com/watch?v=kcaFv91OEqU "Click here to view Deep-Dive into Receiver-Side Code")<br/>
-The code shown in above video can be accessed from [***here***](final_release_code/reciever_side/). <br/>
+The code shown in above video can be accessed from [***here***](https://github.com/SidB16/ENG4000-Team-A-F/tree/main/docs/syshealth-finalrelease-doc/final_release_code/reciever_side/). <br/>
 
 #### Data Visualization and Presentation Side
 **Figure15** is a video in which I deep-dive into 'Data Visualization and Presentation Side' code. Please click on the image to access video.<br/>
 [![Deep-Dive into Data Visualization and Presentation Code Deep-Dive-Side Code Video](http://img.youtube.com/vi/Neu80C-x1JM/0.jpg)](http://www.youtube.com/watch?v=Neu80C-x1JM "Click here to view Data Visualization and Presentation Code Deep-Dive")<br/>
-The code shown in above video can be accessed from [***here***](final_release_code/data_visulization_and_presentation_side/). <br/>
+The code shown in above video can be accessed from [***here***](https://github.com/SidB16/ENG4000-Team-A-F/tree/main/docs/syshealth-finalrelease-doc/final_release_code/data_visulization_and_presentation_side/). <br/>
 
 
 #### Tested Software Configurations
