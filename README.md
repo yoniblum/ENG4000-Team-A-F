@@ -188,4 +188,4 @@ Beta Release Context, Current status of design, and Roadmap for Final Release
 ### Final Release
 
 ### [System Health Reporting Application](docs/syshealth-finalrelease-doc/syshealth_finaldocumentation.md)
-Built and documented by [Siddharth Bhardwaj](https://github.com/SidB16), this is the final release documentation of this end-to-end solution. This solution integrates with the automated pumping device (covered in subsequent sections) as a system health health reporting, and down-time mitigation component.
+Built and documented by [Siddharth Bhardwaj](https://github.com/SidB16), this is the final release documentation of this end-to-end solution. This solution integrates with the automated pumping device (covered in subsequent sections) as a error reporting, and down-time mitigation component.
